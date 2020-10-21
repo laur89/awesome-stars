@@ -508,6 +508,7 @@
 
 ## Others 
 
+- [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [docker-ethminer](https://github.com/Anthony-Tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
@@ -559,6 +560,7 @@
 
 ## Python 
 
+- [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows to train, test and use models without writing code
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
