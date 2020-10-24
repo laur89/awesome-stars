@@ -214,6 +214,7 @@
 
 ## Go 
 
+- [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
 - [runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
@@ -486,6 +487,8 @@
 
 ## Kotlin 
 
+- [vintellij](https://github.com/dinhhuy258/vintellij) - 
+- [ComradeNeovim](https://github.com/beeender/ComradeNeovim) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
 - [javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
 
 ## Lua 
@@ -508,6 +511,7 @@
 
 ## Others 
 
+- [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [docker-ethminer](https://github.com/Anthony-Tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
@@ -520,7 +524,6 @@
 - [coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning) - A curated list of awesome mobile machine learning resources for iOS, Android, and edge devices.
-- [docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
 - [today-i-learned](https://github.com/marcin-mazurek/today-i-learned) - :book: Software engineer's diary
 - [developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Roadmap to becoming a web developer in 2020
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
@@ -737,6 +740,7 @@
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
+- [docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
 - [server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 - [pure-bash-bible](https://github.com/dylanaraps/pure-bash-bible) - 📖 A collection of pure bash alternatives to external processes.
