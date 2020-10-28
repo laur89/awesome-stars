@@ -169,7 +169,6 @@
 ## CSS 
 
 - [firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
 - [theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
 - [gruvbox-gtk](https://github.com/bennetthardwick/gruvbox-gtk) - Arc theme but with gruvbox colours.
@@ -276,6 +275,7 @@
 
 ## HTML 
 
+- [hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [matthewhartman.com.au](https://github.com/matthewhartman/matthewhartman.com.au) - Matthew Hartman's Portfolio Website
 - [weather-milliseconds](https://github.com/JulianNorton/weather-milliseconds) - Experiment to render a forecast as fast as possible
 - [daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast) - Daily Stock Forecasts using Machine Learning & Python
@@ -511,6 +511,7 @@
 
 ## Others 
 
+- [kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
 - [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
@@ -689,6 +690,7 @@
 
 ## SCSS 
 
+- [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 
