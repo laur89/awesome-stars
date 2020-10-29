@@ -86,7 +86,7 @@
 - [glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
 - [i3blocks-gaps](https://github.com/Airblader/i3blocks-gaps) - You can now use i3blocks 1.5 instead
 - [core](https://github.com/wmutils/core) - Set of window manipulation tools
-- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default lockscreen.
+- [i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 - [autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
@@ -138,6 +138,7 @@
 
 ## C++ 
 
+- [SmartGuitarAmp](https://github.com/keyth72/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
 - [supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
@@ -213,6 +214,7 @@
 
 ## Go 
 
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -564,6 +566,7 @@
 
 ## Python 
 
+- [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows to train, test and use models without writing code
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
 - [registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
@@ -723,7 +726,7 @@
 - [awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
 - [vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
-- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - :rocket: Quickly open urls on terminal screen!
+- [tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
 - [lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
 - [imgurbash2](https://github.com/ram-on/imgurbash2) - A shell script that uploads/deletes images to/from IMGUR.
@@ -794,6 +797,7 @@
 
 ## TypeScript 
 
+- [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
 - [ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
