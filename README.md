@@ -676,7 +676,7 @@
 
 ## Rust 
 
-- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders etc.
+- [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
