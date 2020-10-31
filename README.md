@@ -15,6 +15,7 @@
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
   - [Elm](#elm)
+  - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
   - [Gherkin](#gherkin)
   - [Go](#go)
@@ -57,6 +58,7 @@
 
 ## C 
 
+- [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -202,6 +204,10 @@
 ## Elm 
 
 - [elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
+
+## Emacs Lisp 
+
+- [spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Erlang 
 
@@ -566,6 +572,7 @@
 
 ## Python 
 
+- [ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
 - [bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows to train, test and use models without writing code
 - [core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first
@@ -811,7 +818,6 @@
 - [apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
-- [oni](https://github.com/onivim/oni) - Oni: Modern Modal Editing - powered by Neovim
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
@@ -836,6 +842,8 @@
 
 ## Vim script 
 
+- [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
+- [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
