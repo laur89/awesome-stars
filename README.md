@@ -716,6 +716,7 @@
 
 ## Shell 
 
+- [usb-rofi](https://github.com/carvalhudo/usb-rofi) - management of usb devices with rofi and udev
 - [roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
@@ -845,6 +846,7 @@
 
 ## Vim script 
 
+- [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
