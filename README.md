@@ -136,7 +136,7 @@
 - [PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [Radarr](https://github.com/Radarr/Radarr) - A fork of Sonarr to work with movies à la Couchpotato.
-- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers.
+- [Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)
 
 ## C++ 
@@ -718,6 +718,7 @@
 
 ## Shell 
 
+- [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
 - [usb-rofi](https://github.com/carvalhudo/usb-rofi) - management of usb devices with rofi and udev
