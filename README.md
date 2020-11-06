@@ -360,6 +360,7 @@
 ## JavaScript 
 
 - [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
@@ -814,7 +815,6 @@
 ## TypeScript 
 
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
 - [ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
 - [quantconnect-cli](https://github.com/QuantConnect/quantconnect-cli) - CLI aimed at making local development of QuantConnect algorithms easier
