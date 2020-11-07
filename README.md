@@ -438,7 +438,6 @@
 - [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 - [most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
-- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
 - [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
@@ -719,6 +718,7 @@
 
 ## Shell 
 
+- [polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
@@ -838,6 +838,7 @@
 - [xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
+- [mobx](https://github.com/mobxjs/mobx) - Simple, scalable state management.
 - [react-flip-toolkit](https://github.com/aholachek/react-flip-toolkit) - A lightweight magic-move library for configurable layout transitions
 - [linq-fns](https://github.com/jinhduong/linq-fns) - 👴 LINQ for Javascript, written by TypeScript
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
