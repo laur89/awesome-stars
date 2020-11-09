@@ -97,7 +97,7 @@
 - [bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [dwm](https://github.com/BeiNacht/dwm) - my dwm fork
 - [nodm](https://github.com/spanezz/nodm) - Automatic display manager
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller and library for vlc, audacious, bmp, cmus, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
@@ -492,7 +492,7 @@
 - [industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai)
 - [Tutorials](https://github.com/QuantConnect/Tutorials) - Jupyter notebook tutorials from QuantConnect website for Python, Finance and LEAN.
-- [dx](https://github.com/yhilpisch/dx) - DX Analytics
+- [dx](https://github.com/yhilpisch/dx) - DX Analytics | Financial and Derivatives Analytics with Python
 
 ## Kotlin 
 
@@ -573,6 +573,7 @@
 
 ## Python 
 
+- [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [bind-adblock](https://github.com/Trellmor/bind-adblock) - Use the BIND DNS server to block ads
 - [ncm2](https://github.com/ncm2/ncm2) - :heart: Slim, Fast and Hackable Completion Framework for Neovim
@@ -852,6 +853,9 @@
 
 ## Vim script 
 
+- [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
+- [ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
+- [elly.vim](https://github.com/ryuta69/elly.vim) - nostalgic brown theme for Vim
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
