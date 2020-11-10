@@ -66,7 +66,6 @@
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [i3lock-fancy-rapid](https://github.com/yvbbrjdr/i3lock-fancy-rapid) - A faster implementation of i3lock-fancy.
 - [tulipindicators](https://github.com/TulipCharts/tulipindicators) - Technical Analysis Indicator Function Library in C
@@ -145,7 +144,7 @@
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
 - [supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [delta](https://github.com/delta-lang/delta) - A new systems programming language in development
+- [delta](https://github.com/delta-lang/delta) - Programming language focused on performance and productivity
 - [incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [ScreenRotator](https://github.com/GuLinux/ScreenRotator) - Automatic screen rotation daemon for X11
@@ -222,7 +221,8 @@
 
 ## Go 
 
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
+- [viper](https://github.com/spf13/viper) - Go configuration with fangs
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
@@ -379,6 +379,7 @@
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
