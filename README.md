@@ -575,6 +575,7 @@
 
 ## Python 
 
+- [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [bind-adblock](https://github.com/Trellmor/bind-adblock) - Use the BIND DNS server to block ads
