@@ -222,7 +222,7 @@
 ## Go 
 
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
-- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Read the content of your torrent files before fully download them!
+- [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
 - [sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [minio](https://github.com/minio/minio) - High Performance, Kubernetes Native Object Storage
