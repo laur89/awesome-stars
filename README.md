@@ -11,6 +11,7 @@
   - [C++](#c++)
   - [CSS](#css)
   - [Clojure](#clojure)
+  - [CoffeeScript](#coffeescript)
   - [Dart](#dart)
   - [Dockerfile](#dockerfile)
   - [Elixir](#elixir)
@@ -187,6 +188,10 @@
 - [awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) - A collection of Chrome DevTools enhancements for ClojureScript developers
 
+## CoffeeScript 
+
+- [overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
+
 ## Dart 
 
 - [flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond.
@@ -359,6 +364,7 @@
 
 ## JavaScript 
 
+- [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
