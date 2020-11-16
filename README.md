@@ -59,6 +59,7 @@
 
 ## C 
 
+- [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
@@ -104,7 +105,7 @@
 - [xstarter](https://github.com/lchsk/xstarter) - Application launcher for Linux
 - [dunst](https://github.com/dunst-project/dunst) - Lightweight and customizable notification daemon
 - [eMail](https://github.com/deanproxy/eMail) - Command line SMTP client
-- [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is a multi-pointer GTK3 port of the original Gromit desktop annotation tool. It enables graphical annotations with several pointers at once and is A LOT faster than its predecessor since it uses the XCOMPOSITE extension where available.
+- [gromit-mpx](https://github.com/bk138/gromit-mpx) - Gromit-MPX is an on-screen annotation tool that works with any Unix desktop environment under X11 as well as Wayland.
 - [cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [neomutt](https://github.com/neomutt/neomutt) - :email: Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.freenode.net
 - [i3](https://github.com/i3/i3) - A tiling window manager
@@ -528,6 +529,7 @@
 
 ## Others 
 
+- [uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
 - [advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
