@@ -116,7 +116,7 @@
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [moloch](https://github.com/aol/moloch) - Moloch is an open source, large scale, full packet capturing, indexing, and database system.
+- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [mpd-notify](https://github.com/Hjdskes/mpd-notify) - UNMAINTAINED -- Sends a notification whenever MPD's state (play/pause/stop) or current song changes
 - [shaman](https://github.com/HalosGhost/shaman) - A small, native C library and utility to fetch weather
@@ -330,7 +330,7 @@
 - [brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
 - [crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
 - [honest-profiler](https://github.com/jvm-profiling-tools/honest-profiler) - A sampling JVM profiler without the safepoint sample bias
-- [vlingo-actors](https://github.com/vlingo/vlingo-actors) - The VLINGO/PLATFORM type safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.
+- [vlingo-actors](https://github.com/vlingo/vlingo-actors) - The VLINGO/PLATFORM type-safe Actor Model toolkit for reactive concurrency and resiliency using Java and other JVM languages.
 - [HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions
 - [hazelcast-consul-discovery-spi](https://github.com/bitsofinfo/hazelcast-consul-discovery-spi) - Consul based discovery strategy SPI for Hazelcast enabled applications
@@ -365,6 +365,7 @@
 
 ## JavaScript 
 
+- [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [gnome-shell-extension-gsconnect](https://github.com/andyholmes/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
@@ -730,6 +731,7 @@
 
 ## Shell 
 
+- [photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
 - [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - 
 - [polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
