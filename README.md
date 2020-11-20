@@ -733,7 +733,7 @@
 ## Shell 
 
 - [photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
-- [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - 
+- [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - Dots
 - [polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
@@ -870,7 +870,7 @@
 
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
-- [elly.vim](https://github.com/ryuta69/elly.vim) - nostalgic brown theme for Vim
+- [elly.vim](https://github.com/ulwlu/elly.vim) - nostalgic brown theme for Vim
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
