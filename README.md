@@ -141,6 +141,7 @@
 
 ## C++ 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
 - [SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
@@ -733,6 +734,7 @@
 
 ## Shell 
 
+- [dotfiles](https://github.com/liskin/dotfiles) - My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…
 - [photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
 - [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - Dots
 - [polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
@@ -851,7 +853,7 @@
 - [mlhelper](https://github.com/laoqiren/mlhelper) - Algorithms and utils for Machine Learning in JavaScript.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [bit](https://github.com/teambit/bit) - Build, distribute and collaborate on components.
+- [bit](https://github.com/teambit/bit) - Build, distribute, and collaborate on components.
 - [xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
 - [rxjs](https://github.com/ReactiveX/rxjs) - A reactive programming library for JavaScript
