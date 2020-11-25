@@ -59,6 +59,8 @@
 
 ## C 
 
+- [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
+- [dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape!
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
@@ -368,6 +370,7 @@
 
 ## JavaScript 
 
+- [mopidy-mopify](https://github.com/dirkgroenen/mopidy-mopify) - A web client that uses external web services to provide additional features and a more “complete” music experience.
 - [mopster](https://github.com/cowbell/mopster) - Mopidy client written in Ember.js
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
