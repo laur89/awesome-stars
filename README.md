@@ -591,7 +591,7 @@
 
 ## Python 
 
-- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real Time Video Frame Rate Increasement
 - [maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
 - [cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
