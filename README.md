@@ -101,7 +101,7 @@
 - [bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
 - [dwm](https://github.com/BeiNacht/dwm) - my dwm fork
 - [nodm](https://github.com/spanezz/nodm) - Automatic display manager
-- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
+- [playerctl](https://github.com/altdesktop/playerctl) - 🎧 mpris media player command-line controller for vlc, mpv, RhythmBox, web browsers, cmus, mpd, spotify and others.
 - [obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording
 - [i3blocks](https://github.com/vivien/i3blocks) - A feed generator for text based status bars
 - [i3](https://github.com/Airblader/i3) - i3-gaps – i3 with more features (forked from https://github.com/i3/i3)
@@ -190,6 +190,7 @@
 
 ## Clojure 
 
+- [dactyl-keyboard](https://github.com/veikman/dactyl-keyboard) - Parameterized ergonomic keyboard
 - [dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [cljs-devtools](https://github.com/binaryage/cljs-devtools) - A collection of Chrome DevTools enhancements for ClojureScript developers
@@ -877,6 +878,7 @@
 
 ## Vim script 
 
+- [vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere using OSC52
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [elly.vim](https://github.com/ulwlu/elly.vim) - nostalgic brown theme for Vim
