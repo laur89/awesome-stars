@@ -388,7 +388,6 @@
 - [bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 - [spekt8](https://github.com/spekt8/spekt8) - Visualize your Kubernetes cluster in real time
 - [kube-ops-view](https://github.com/hjacobs/kube-ops-view) - Kubernetes Operational View - read-only system dashboard for multiple K8s clusters
-- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [vue-grid-layout](https://github.com/jbaysolutions/vue-grid-layout) - A draggable and resizable grid layout, for Vue.js.
 - [ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
@@ -428,7 +427,7 @@
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [webpack-unused](https://github.com/latentflip/webpack-unused) - Check your frontend code for files/assets that are no longer used.
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and easier web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
 - [react-testing-examples](https://github.com/skidding/react-testing-examples) - Searchable library of React testing examples
 - [craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
@@ -709,6 +708,7 @@
 
 ## Rust 
 
+- [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
 - [sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
@@ -844,6 +844,7 @@
 - [http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
 - [ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
 - [quantconnect-cli](https://github.com/QuantConnect/quantconnect-cli) - CLI aimed at making local development of QuantConnect algorithms easier
+- [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
 - [nestjs-realworld-example-app](https://github.com/lujakob/nestjs-realworld-example-app) - Exemplary real world backend API built with NestJS + TypeORM / Prisma
 - [vuetify](https://github.com/vuetifyjs/vuetify) - 🐉 Material Component Framework for Vue
 - [nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀
@@ -878,7 +879,7 @@
 
 ## Vim script 
 
-- [vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere using OSC52
+- [vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text from anywhere with OSC52
 - [vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [ayu-vim](https://github.com/ayu-theme/ayu-vim) - Modern theme for modern VIMs
 - [elly.vim](https://github.com/ulwlu/elly.vim) - Nostalgic brown theme for vim
