@@ -870,7 +870,7 @@
 - [linq-fns](https://github.com/jinhduong/linq-fns) - 👴 LINQ for Javascript, written by TypeScript
 - [tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
-- [grafana](https://github.com/grafana/grafana) - The tool for beautiful monitoring and metric analytics & dashboards for Graphite, InfluxDB & Prometheus & More
+- [grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 
 ## Vala 
