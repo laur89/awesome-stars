@@ -59,6 +59,7 @@
 
 ## C 
 
+- [rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape!
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -707,6 +708,8 @@
 
 ## Rust 
 
+- [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
+- [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [zoxide](https://github.com/ajeetdsouza/zoxide) - A faster way to navigate your filesystem
@@ -839,6 +842,7 @@
 
 ## TypeScript 
 
+- [react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js (web and react-native)
 - [super-productivity](https://github.com/johannesjo/super-productivity) - To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration
 - [http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
 - [ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
