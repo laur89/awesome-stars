@@ -268,7 +268,7 @@
 - [aws-okta](https://github.com/segmentio/aws-okta) - aws-vault like tool for Okta authentication
 - [go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang.
 - [pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
-- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos for secrets using regex and entropy 🔑
+- [gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
 - [slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real Time Video Frame Rate Enhancement
 - [maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
@@ -743,6 +744,8 @@
 
 ## Shell 
 
+- [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
+- [gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) - 
 - [dotfiles](https://github.com/liskin/dotfiles) - My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…
 - [photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
 - [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - Dots
