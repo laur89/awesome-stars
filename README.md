@@ -120,7 +120,6 @@
 - [cava](https://github.com/karlstav/cava) - Console-based Audio Visualizer for Alsa
 - [rofi](https://github.com/davatorium/rofi) - Rofi: A window switcher, application launcher and dmenu replacement
 - [ctags](https://github.com/universal-ctags/ctags) - A maintained ctags implementation
-- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [mpd-notify](https://github.com/Hjdskes/mpd-notify) - UNMAINTAINED -- Sends a notification whenever MPD's state (play/pause/stop) or current song changes
 - [shaman](https://github.com/HalosGhost/shaman) - A small, native C library and utility to fetch weather
@@ -492,6 +491,7 @@
 - [styler](https://github.com/tonistiigi/styler) - CSS/Stylus live editor
 - [string_score](https://github.com/joshaven/string_score) - JavaScript string ranking 0 for no match upto 1 for perfect... "String".score("str"); //=&gt; 0.825
 - [ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
+- [arkime](https://github.com/arkime/arkime) - Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.
 - [linux-dash](https://github.com/afaqurk/linux-dash) - A beautiful web dashboard for Linux
 - [Frickle](https://github.com/Hyra/Frickle) - Boilerplate App for building Apps with Mongoose, SASS, Angular, Gulp, Browserify and Express.
 - [vimperator-plugins](https://github.com/vimpr/vimperator-plugins) - for Vimperator plugins
