@@ -233,6 +233,8 @@
 
 ## Go 
 
+- [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
+- [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
 - [yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML processor
 - [viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [distribyted](https://github.com/distribyted/distribyted) - :open_file_folder: :arrow_right: :tv: :notes: :video_game: Torrent client with on-demand file downloading as a filesystem.
@@ -422,7 +424,6 @@
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
@@ -591,6 +592,8 @@
 
 ## Python 
 
+- [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
+- [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real Time Video Frame Rate Enhancement
 - [maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
@@ -793,6 +796,7 @@
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
 - [server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
