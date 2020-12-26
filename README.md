@@ -797,7 +797,7 @@
 - [debian-packaging-for-the-modern-developer](https://github.com/phusion/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
-- [polybar-themes](https://github.com/adi1090x/polybar-themes) - A collection of polybar themes/configs with different styles, colors and variants
+- [polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
 - [server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
