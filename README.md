@@ -614,6 +614,7 @@
 - [undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
 - [s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
+- [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -900,7 +901,6 @@
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
-- [jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
 - [vim-shortcut](https://github.com/sunaku/vim-shortcut) - 💇 Discoverable & searchable shortcuts for (Neo)Vim
