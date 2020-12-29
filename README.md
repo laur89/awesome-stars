@@ -730,7 +730,7 @@
 - [uq](https://github.com/lostutils/uq) - 
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, GPU-accelerated terminal emulator
+- [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 
 ## SCSS 
