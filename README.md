@@ -307,6 +307,7 @@
 - [weather-milliseconds](https://github.com/JulianNorton/weather-milliseconds) - Experiment to render a forecast as fast as possible
 - [daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast) - Daily Stock Forecasts using Machine Learning & Python
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [electrode](https://github.com/electrode-io/electrode) - Electrode Platform for building large scale Universal React Applications
 - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [base16-xresources](https://github.com/base16-templates/base16-xresources) - Base16 for Xresources
@@ -320,7 +321,6 @@
 
 ## Haskell 
 
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
@@ -381,7 +381,6 @@
 - [MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
-- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
@@ -900,6 +899,7 @@
 - [vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 - [SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
+- [coc.nvim](https://github.com/neoclide/coc.nvim) - Intellisense engine for Vim8 & Neovim, full language server protocol support as VSCode
 - [vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
