@@ -307,7 +307,6 @@
 - [weather-milliseconds](https://github.com/JulianNorton/weather-milliseconds) - Experiment to render a forecast as fast as possible
 - [daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast) - Daily Stock Forecasts using Machine Learning & Python
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [electrode](https://github.com/electrode-io/electrode) - Electrode Platform for building large scale Universal React Applications
 - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [base16-xresources](https://github.com/base16-templates/base16-xresources) - Base16 for Xresources
@@ -321,6 +320,7 @@
 
 ## Haskell 
 
+- [hledger](https://github.com/simonmichael/hledger) - easy-to-use command-line/curses/web plaintext accounting tool; a modern and largely compatible Haskell rewrite of Ledger
 - [shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
