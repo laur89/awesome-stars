@@ -824,7 +824,7 @@
 - [docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
 - [gandi-automatic-dns](https://github.com/brianpcurran/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 - [rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
-- [docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image
+- [docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
