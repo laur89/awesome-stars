@@ -424,6 +424,7 @@
 - [passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
+- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
@@ -798,7 +799,6 @@
 - [betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
-- [husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 - [docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
 - [server-configs-apache](https://github.com/h5bp/server-configs-apache) - Apache HTTP server boilerplate configs
 - [git-extras](https://github.com/tj/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
