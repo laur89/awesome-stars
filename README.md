@@ -485,7 +485,7 @@
 - [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [emoji-picker](https://github.com/OneSignal/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
-- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Docs at https://github.com/wekan/wekan-doc/wiki . Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+- [wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
 - [portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
