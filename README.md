@@ -645,7 +645,7 @@
 - [mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [marker](https://github.com/pindexis/marker) - The terminal command palette
 - [Vimpressionist](https://github.com/Badacadabra/Vimpressionist) - :art: Vim on steroids for keyboard lovers
-- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is an alternative for w3mimgdisplay
+- [ueberzug](https://github.com/seebye/ueberzug) - ueberzug is a command line util which allows to display images in combination with X11
 - [neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [hosts](https://github.com/StevenBlack/hosts) - Consolidating and extending hosts files from several well-curated sources. You can optionally pick extensions to block pornography, social media, and other categories.
 - [pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
