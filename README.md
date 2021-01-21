@@ -131,6 +131,7 @@
 
 ## C# # 
 
+- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
 - [CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net) - Base for exchanges
 - [LeanParameterOptimization](https://github.com/jameschch/LeanParameterOptimization) - Parameter Optimization for Lean Algorithms
@@ -145,7 +146,6 @@
 
 ## C++ 
 
-- [PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement.
 - [SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.
 - [wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
