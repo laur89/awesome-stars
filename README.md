@@ -234,6 +234,7 @@
 
 ## Go 
 
+- [mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers
 - [gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -593,6 +594,7 @@
 
 ## Python 
 
+- [cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - 
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
@@ -733,6 +735,7 @@
 - [hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 - [bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 
 ## SCSS 
@@ -870,7 +873,6 @@
 - [react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [pixi.js](https://github.com/pixijs/pixi.js) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-- [deno](https://github.com/denoland/deno) - A secure JavaScript and TypeScript runtime
 - [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 - [mlhelper](https://github.com/laoqiren/mlhelper) - Algorithms and utils for Machine Learning in JavaScript.
 - [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
