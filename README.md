@@ -308,7 +308,7 @@
 - [weather-milliseconds](https://github.com/JulianNorton/weather-milliseconds) - Experiment to render a forecast as fast as possible
 - [daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast) - Daily Stock Forecasts using Machine Learning & Python
 - [zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-- [electrode](https://github.com/electrode-io/electrode) - Electrode Platform for building large scale Universal React Applications
+- [electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 - [base16-xresources](https://github.com/base16-templates/base16-xresources) - Base16 for Xresources
 - [element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
