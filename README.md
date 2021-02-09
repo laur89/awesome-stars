@@ -183,7 +183,6 @@
 - [theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
 - [gruvbox-gtk](https://github.com/bennetthardwick/gruvbox-gtk) - Arc theme but with gruvbox colours.
 - [arc-variations](https://github.com/lvancrayelynghe/arc-variations) - 
-- [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [arc-theme](https://github.com/horst3180/arc-theme) - A flat theme with transparent elements
 - [Flatabulous](https://github.com/anmoljagetia/Flatabulous) - This is a Flat theme for Ubuntu and other Gnome based Linux Systems.
@@ -737,6 +736,7 @@
 
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
+- [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
 
 ## Scala 
