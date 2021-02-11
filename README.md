@@ -65,7 +65,7 @@
 - [Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
-- [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and display them on the screen
+- [xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
 - [ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
 - [sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
@@ -588,6 +588,7 @@
 
 ## Python 
 
+- [thinkpad-tools](https://github.com/devksingh4/thinkpad-tools) - Tools to manage Thinkpad properties
 - [cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - 
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
@@ -625,7 +626,7 @@
 - [qgisstripchart](https://github.com/sickel/qgisstripchart) - Qgis plugin for making stripcharts
 - [Cozette](https://github.com/slavfox/Cozette) - A bitmap programming font optimized for coziness 💜
 - [jax](https://github.com/google/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
-- [lightkurve](https://github.com/KeplerGO/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
+- [lightkurve](https://github.com/lightkurve/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
 - [applets](https://github.com/mishurov/applets) - PyQT, PyGI and other scripts
 - [libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
