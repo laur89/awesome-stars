@@ -595,7 +595,7 @@
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
 - [routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
-- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real Time Video Frame Rate Enhancement
+- [arXiv2020-RIFE](https://github.com/hzwer/arXiv2020-RIFE) - RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
