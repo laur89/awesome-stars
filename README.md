@@ -589,7 +589,7 @@
 ## Python 
 
 - [thinkpad-tools](https://github.com/devksingh4/thinkpad-tools) - Tools to manage Thinkpad properties
-- [cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - 
+- [cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - A command line utility for tracking a stock market portfolio. Primarily featuring high resolution braille graphs.
 - [wifi-password](https://github.com/sdushantha/wifi-password) - Quickly fetch your WiFi password and if needed, generate a QR code of your WiFi to allow phones to easily connect
 - [reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
 - [riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
