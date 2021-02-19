@@ -588,6 +588,7 @@
 
 ## Python 
 
+- [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [gpu-utils](https://github.com/Ricks-Lab/gpu-utils) - A set of utilities for monitoring and customizing GPU performance
 - [thinkpad-tools](https://github.com/devksingh4/thinkpad-tools) - Tools to manage Thinkpad properties
 - [cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - A command line utility for tracking a stock market portfolio. Primarily featuring high resolution braille graphs.
