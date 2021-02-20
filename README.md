@@ -753,6 +753,7 @@
 
 ## Shell 
 
+- [Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
 - [notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
 - [vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
