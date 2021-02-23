@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [gpu-utils](https://github.com/Ricks-Lab/gpu-utils) - A set of utilities for monitoring and customizing GPU performance
 - [thinkpad-tools](https://github.com/devksingh4/thinkpad-tools) - Tools to manage Thinkpad properties
@@ -738,6 +739,7 @@
 
 ## SCSS 
 
+- [vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
 - [slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
 - [gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
@@ -754,6 +756,7 @@
 
 ## Shell 
 
+- [rofi-keepassxc](https://github.com/samedamci/rofi-keepassxc) - Simple keepassxc-cli frontend in rofi/dmenu.
 - [Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
 - [notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
@@ -949,7 +952,6 @@
 ## Vue 
 
 - [jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
-- [vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
 
 
 ## License
