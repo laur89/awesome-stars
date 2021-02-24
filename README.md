@@ -589,6 +589,7 @@
 
 ## Python 
 
+- [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [gpu-utils](https://github.com/Ricks-Lab/gpu-utils) - A set of utilities for monitoring and customizing GPU performance
@@ -718,6 +719,7 @@
 
 ## Rust 
 
+- [git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - Helper that allows Git (and shell scripts) to use KeePassXC as credential store
 - [lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
