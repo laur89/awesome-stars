@@ -58,6 +58,7 @@
 
 ## C 
 
+- [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo.
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
@@ -72,6 +73,7 @@
 - [endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [picom](https://github.com/yshui/picom) - A lightweight compositor for X11
+- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [i3lock-fancy-rapid](https://github.com/yvbbrjdr/i3lock-fancy-rapid) - A faster implementation of i3lock-fancy.
 - [tulipindicators](https://github.com/TulipCharts/tulipindicators) - Technical Analysis Indicator Function Library in C
@@ -393,7 +395,6 @@
 - [techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
-- [cockpit](https://github.com/cockpit-project/cockpit) - There's code a goin' on
 - [plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [30-seconds-of-code](https://github.com/30-seconds/30-seconds-of-code) - Short JavaScript code snippets for all your development needs
@@ -590,6 +591,7 @@
 
 ## Python 
 
+- [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
 - [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
