@@ -591,6 +591,7 @@
 
 ## Python 
 
+- [buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
 - [flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
@@ -770,7 +771,6 @@
 - [gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) - 
 - [dotfiles](https://github.com/liskin/dotfiles) - My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…
 - [photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
-- [Minimalist-Dots](https://github.com/Eloysheyin/Minimalist-Dots) - Dots
 - [polybar-powerline](https://github.com/danielnehrig/polybar-powerline) - Polybar Powerline Segmenting
 - [tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
