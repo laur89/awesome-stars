@@ -763,6 +763,7 @@
 
 ## Shell 
 
+- [trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [rofi-keepassxc](https://github.com/samedamci/rofi-keepassxc) - Simple keepassxc-cli frontend in rofi/dmenu.
 - [Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
 - [notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
