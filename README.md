@@ -42,6 +42,7 @@
   - [Rust](#rust)
   - [SCSS](#scss)
   - [Scala](#scala)
+  - [Scheme](#scheme)
   - [Shell](#shell)
   - [TeX](#tex)
   - [TypeScript](#typescript)
@@ -371,6 +372,7 @@
 
 ## JavaScript 
 
+- [docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults
 - [mopidy-mopify](https://github.com/dirkgroenen/mopidy-mopify) - A web client that uses external web services to provide additional features and a more “complete” music experience.
 - [mopster](https://github.com/cowbell/mopster) - Mopidy client written in Ember.js
@@ -761,6 +763,10 @@
 - [finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
 - [bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
+
+## Scheme 
+
+- [PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 
 ## Shell 
 
