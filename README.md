@@ -59,6 +59,7 @@
 
 ## C 
 
+- [CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo.
 - [firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
