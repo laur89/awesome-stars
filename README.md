@@ -32,6 +32,7 @@
   - [Lua](#lua)
   - [MQL4](#mql4)
   - [Makefile](#makefile)
+  - [Markdown](#markdown)
   - [OCaml](#ocaml)
   - [Others](#others)
   - [PHP](#php)
@@ -532,6 +533,10 @@
 
 - [vincentbernat/pragmatic-debian-packages](https://github.com/vincentbernat/pragmatic-debian-packages) - Pragmatic Debian packaging
 
+## Markdown 
+
+- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## OCaml 
 
 - [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
@@ -842,7 +847,6 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [jceb/dwm-clean-patches](https://github.com/jceb/dwm-clean-patches) - My patches for http://dwm.suckless.org/ that apply to vanilla dwm
-- [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 - [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
 - [altercation/es-bin-arch](https://github.com/altercation/es-bin-arch) - utility scripts; lives in $HOME/bin
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
@@ -940,7 +944,7 @@
 - [SidOfc/mkdx](https://github.com/SidOfc/mkdx) - A vim plugin that adds some nice extra's for working with markdown documents
 - [dylanaraps/dotfiles](https://github.com/dylanaraps/dotfiles) - 🍙 dotfiles
 - [ludovicchabant/vim-gutentags](https://github.com/ludovicchabant/vim-gutentags) - A Vim plugin that manages your tag files
-- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart: Use with latest Neovim or Vim 8
+- [rafi/vim-config](https://github.com/rafi/vim-config) - Lean mean (Neo)Vim machine, carefully crafted with :heart:  Use with latest Neovim or Vim 8
 - [elzr/vim-json](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 - [brooth/far.vim](https://github.com/brooth/far.vim) - Find And Replace Vim plugin
 - [rafi/awesome-vim-colorschemes](https://github.com/rafi/awesome-vim-colorschemes) - Collection of awesome color schemes for Neo/vim, merged for quick use.
