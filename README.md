@@ -425,7 +425,7 @@
 - [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 - [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🕸  No-bullshit answers to the famous h5bp "Front-end Job Interview Questions"
 - [garris/BackstopJS](https://github.com/garris/BackstopJS) - Catch CSS curve balls.
-- [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
+- [typicode/husky](https://github.com/typicode/husky) - Modern native Git hooks made easy 🐶 woof!
 - [jorgebucaran/hyperapp](https://github.com/jorgebucaran/hyperapp) - The tiny framework for building hypertext applications.
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
@@ -902,7 +902,7 @@
 - [laoqiren/mlhelper](https://github.com/laoqiren/mlhelper) - Algorithms and utils for Machine Learning in JavaScript.
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
-- [teambit/bit](https://github.com/teambit/bit) - Develop modular web applications with components - fast, together, and at scale.
+- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
