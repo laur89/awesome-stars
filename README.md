@@ -458,7 +458,7 @@
 - [cujojs/most](https://github.com/cujojs/most) - Ultra-high performance reactive programming
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [reduxjs/reselect](https://github.com/reduxjs/reselect) - Selector library for Redux
-- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
 - [junosuarez/awesome-npx](https://github.com/junosuarez/awesome-npx) - 🌟 packages and resources that work really well with https://github.com/zkat/npx 🕶
 - [TheGoddessInari/hamsket](https://github.com/TheGoddessInari/hamsket) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [git-tips/tips](https://github.com/git-tips/tips) - Most commonly used git tips and tricks.
