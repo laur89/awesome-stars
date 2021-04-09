@@ -340,7 +340,7 @@
 - [linkedin/brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
 - [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
 - [jvm-profiling-tools/honest-profiler](https://github.com/jvm-profiling-tools/honest-profiler) - A sampling JVM profiler without the safepoint sample bias
-- [vlingo/vlingo-actors](https://github.com/vlingo/vlingo-actors) - The VLINGO XOOM platform SDK for the type-safe Actor Model, delivering Reactive concurrency, high scalability, high-throughput, and resiliency using Java and other JVM languages.
+- [vlingo/xoom-actors](https://github.com/vlingo/xoom-actors) - The VLINGO XOOM platform SDK for the type-safe Actor Model, delivering Reactive concurrency, high scalability, high-throughput, and resiliency using Java and other JVM languages.
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions
 - [bitsofinfo/hazelcast-consul-discovery-spi](https://github.com/bitsofinfo/hazelcast-consul-discovery-spi) - Consul based discovery strategy SPI for Hazelcast enabled applications
