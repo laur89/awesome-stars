@@ -155,7 +155,7 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - 3D wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [delta-lang/delta](https://github.com/delta-lang/delta) - A systems programming language focused on performance and productivity, for both low-level and high-level programming
+- [cx-language/cx](https://github.com/cx-language/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [GuLinux/ScreenRotator](https://github.com/GuLinux/ScreenRotator) - Automatic screen rotation daemon for X11
