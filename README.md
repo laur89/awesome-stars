@@ -599,6 +599,7 @@
 
 ## Python 
 
+- [BeryJu/authentik](https://github.com/BeryJu/authentik) - The authentication glue you need.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
 - [DidierRLopes/GamestonkTerminal](https://github.com/DidierRLopes/GamestonkTerminal) - The next best thing after Bloomberg Terminal
