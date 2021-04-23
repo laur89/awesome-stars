@@ -353,7 +353,7 @@
 - [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Event-Driven Microservices on the JVM
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
 - [jdereg/java-util](https://github.com/jdereg/java-util) - Rarely available and hard-to-write Java utilities, written correctly, and thoroughly tested
-- [rzwitserloot/lombok](https://github.com/rzwitserloot/lombok) - Very spicy additions to the Java programming language.
+- [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
 - [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
@@ -851,7 +851,7 @@
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
 - [podshumok/docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
-- [brianpcurran/gandi-automatic-dns](https://github.com/brianpcurran/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
+- [brianhp2/gandi-automatic-dns](https://github.com/brianhp2/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
