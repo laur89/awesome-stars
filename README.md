@@ -817,7 +817,7 @@
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
-- [grandfoobah/i3-wm-gruvbox-theme](https://github.com/grandfoobah/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
+- [a-schaefers/i3-wm-gruvbox-theme](https://github.com/a-schaefers/i3-wm-gruvbox-theme) - An i3-wm gruvbox theme implementation
 - [andrewferrier/fzf-z](https://github.com/andrewferrier/fzf-z) - Plugin for zsh to integrate fzf and various 'frecency' plugins, including z.sh - enables easy switching between recent dirs in zsh
 - [k4m4/terminals-are-sexy](https://github.com/k4m4/terminals-are-sexy) - 💥 A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 - [ViViDboarder/shoestrap](https://github.com/ViViDboarder/shoestrap) - A simple alternative to Chef and Puppet to bootstrap *nix machines.
