@@ -87,6 +87,7 @@
 - [tmate-io/tmate](https://github.com/tmate-io/tmate) - Instant Terminal Sharing
 - [jhawthorn/fzy](https://github.com/jhawthorn/fzy) - :mag: A simple, fast fuzzy finder for the terminal
 - [bugaevc/wl-clipboard](https://github.com/bugaevc/wl-clipboard) - Command-line copy/paste utilities for Wayland
+- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
 - [FontManager/font-manager](https://github.com/FontManager/font-manager) - 
 - [i-rinat/apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
@@ -162,7 +163,6 @@
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and Nextcloud / ownCloud integration.
 - [whitequark/unfork](https://github.com/whitequark/unfork) - unfork(2) is the inverse of fork(2).    sort of.
 - [astroidmail/astroid](https://github.com/astroidmail/astroid) - A graphical threads-with-tags style, lightweight and fast, e-mail client for Notmuch
-- [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [effequalsemeh/Exceptionally-Useless-Box](https://github.com/effequalsemeh/Exceptionally-Useless-Box) - All files related to building the Exceptionally Useless Box
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
 - [eclipse/paho.mqtt-sn.embedded-c](https://github.com/eclipse/paho.mqtt-sn.embedded-c) - Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
@@ -415,7 +415,6 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
 - [mqttjs/mqtt-packet](https://github.com/mqttjs/mqtt-packet) - Parse and generate MQTT packets like a breeze in JS
-- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [rrag/react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts with ReactJS and d3
@@ -893,6 +892,7 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [planttheidea/moize](https://github.com/planttheidea/moize) - The consistently-fast, complete memoization solution for JS
 - [devalpha-io/devalpha-node](https://github.com/devalpha-io/devalpha-node) - A stream-based approach to algorithmic trading and backtesting in Node.js
+- [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket: A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server
 - [uw-labs/bloomrpc](https://github.com/uw-labs/bloomrpc) - GUI Client for GRPC Services
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
