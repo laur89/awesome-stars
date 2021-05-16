@@ -845,7 +845,7 @@
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [jceb/dwm-clean-patches](https://github.com/jceb/dwm-clean-patches) - My patches for http://dwm.suckless.org/ that apply to vanilla dwm
-- [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature of z jump around command.
+- [changyuheng/fz](https://github.com/changyuheng/fz) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [altercation/es-bin-arch](https://github.com/altercation/es-bin-arch) - utility scripts; lives in $HOME/bin
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
