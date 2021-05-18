@@ -60,6 +60,7 @@
 
 ## C 
 
+- [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware for Miniware and Pinecil
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq is a CPU monitoring software designed for the 64-bits Processors.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Query and change Linux monitor settings using DDC/CI and USB
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map (tested only with i3wm). Made with C and libcairo.
