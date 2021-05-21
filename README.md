@@ -598,6 +598,7 @@
 
 ## Python 
 
+- [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Browser-independent bookmark manager
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
