@@ -554,7 +554,7 @@
 - [Anthony-Tatowicz/docker-ethminer](https://github.com/Anthony-Tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [nicomengual/firstrobot](https://github.com/nicomengual/firstrobot) - First Robot made on 2007
-- [joelparkerhenderson/demo_plantuml](https://github.com/joelparkerhenderson/demo_plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
+- [joelparkerhenderson/demo-plantuml](https://github.com/joelparkerhenderson/demo-plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
@@ -907,7 +907,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [teambit/bit](https://github.com/teambit/bit) - Build modular projects with components in harmony.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
