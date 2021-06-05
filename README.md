@@ -599,6 +599,7 @@
 
 ## Python 
 
+- [financelurker/crypto-trades-firefly-iii](https://github.com/financelurker/crypto-trades-firefly-iii) - This service lets you import your movements on supported crypto trading platforms to your Firefly III account. Keep an overview of your traded crypto assets.
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
@@ -907,7 +908,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 - [graphql-editor/graphql-editor](https://github.com/graphql-editor/graphql-editor) - 📺 Visual Editor & GraphQL IDE. Draw GraphQL schemas using visual 🔷 nodes and explore GraphQL API with beautiful UI. Even 🐒 can do that!
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
-- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible tool for component-driven development.
+- [teambit/bit](https://github.com/teambit/bit) - A lightweight and highly extendible Polyrepo for component-driven development.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - A framework for real-time applications and REST APIs with JavaScript and TypeScript
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
 - [cyclejs/cyclejs](https://github.com/cyclejs/cyclejs) - A functional and reactive JavaScript framework for predictable code
