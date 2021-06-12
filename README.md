@@ -97,7 +97,7 @@
 - [google/brotli](https://github.com/google/brotli) - Brotli compression format
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [richardgv/skippy-xd](https://github.com/richardgv/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11.
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
 - [Airblader/i3blocks-gaps](https://github.com/Airblader/i3blocks-gaps) - You can now use i3blocks 1.5 instead
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
