@@ -212,7 +212,7 @@
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [Corwind/termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
-- [linuxserver/docker-openvpn-as](https://github.com/linuxserver/docker-openvpn-as) - 
+- [linuxserver/docker-openvpn-as](https://github.com/linuxserver/docker-openvpn-as) - DEPRECATED
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
 ## Elixir 
@@ -385,6 +385,7 @@
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant.
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered geospatial visualization layers
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [matthewhartman/asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
@@ -936,7 +937,6 @@
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant generic finder and dispatcher for Vim and NeoVim
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim distribution - The ultimate vim configuration
 - [rhysd/clever-f.vim](https://github.com/rhysd/clever-f.vim) - Extended f, F, t and T key mappings for Vim.
-- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [justinmk/vim-dirvish](https://github.com/justinmk/vim-dirvish) - Directory viewer for Vim :zap:
 - [wellle/context.vim](https://github.com/wellle/context.vim) - Vim plugin that shows the context of the currently visible buffer contents
 - [will133/vim-dirdiff](https://github.com/will133/vim-dirdiff) - Vim plugin to diff two directories
