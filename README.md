@@ -323,6 +323,7 @@
 
 ## Java 
 
+- [spring-cloud/spring-cloud-security](https://github.com/spring-cloud/spring-cloud-security) - Security concerns for distributed applications implemented in Spring
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [sczyh30/vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
 - [netifi-proteus/proteus-spring](https://github.com/netifi-proteus/proteus-spring) - Proteus Integration for Spring Boot
