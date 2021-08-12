@@ -375,6 +375,7 @@
 
 ## JavaScript 
 
+- [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -833,7 +834,7 @@
 - [mueller-ma/block-ads-via-dns](https://github.com/mueller-ma/block-ads-via-dns) - Block ads and malware via local DNS server
 - [jonathanio/update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [phusion/debian-packaging-for-the-modern-developer](https://github.com/phusion/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
-- [pavanjadhaw/betterlockscreen](https://github.com/pavanjadhaw/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
+- [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [Soleedus/debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
 - [duhio/docker-compose-usenet](https://github.com/duhio/docker-compose-usenet) - Docker-powered usenet pipeline
