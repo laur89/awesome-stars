@@ -783,6 +783,7 @@
 
 ## Shell 
 
+- [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 - [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [samedamci/rofi-keepassxc](https://github.com/samedamci/rofi-keepassxc) - Simple keepassxc-cli frontend in rofi/dmenu.
