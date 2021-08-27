@@ -204,6 +204,7 @@
 
 ## Dockerfile 
 
+- [nephatrine/docker-drone-ci](https://github.com/nephatrine/docker-drone-ci) - [mirror] Container w/ Drone & SQLite
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
 - [Corwind/termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
