@@ -419,7 +419,7 @@
 - [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
 - [mqttjs/mqtt-packet](https://github.com/mqttjs/mqtt-packet) - Parse and generate MQTT packets like a breeze in JS
-- [BoostIO/Boostnote](https://github.com/BoostIO/Boostnote) - A markdown editor for developers on Mac, Windows and Linux.
+- [BoostIO/BoostNote-Legacy](https://github.com/BoostIO/BoostNote-Legacy) - A markdown editor for developers on Mac, Windows and Linux.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges
 - [rrag/react-stockcharts](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts with ReactJS and d3
 - [hluk/copyq-commands](https://github.com/hluk/copyq-commands) - Useful commands for CopyQ clipboard manager.
