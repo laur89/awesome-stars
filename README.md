@@ -230,6 +230,7 @@
 
 ## Go 
 
+- [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
@@ -602,6 +603,7 @@
 
 ## Python 
 
+- [vanossj/deluge-seedtime](https://github.com/vanossj/deluge-seedtime) - Deluge plugin to stop torrents after seeding for a certain amount of time.
 - [martin-ueding/thinkpad-scripts](https://github.com/martin-ueding/thinkpad-scripts) - Screen rotation, docking and other scripts for ThinkPad® X220 and X230 Tablet
 - [loadsmart/gmail-wrapper](https://github.com/loadsmart/gmail-wrapper) - 📧 Because scrapping Gmail data doesn't have to be a pain
 - [pnpnpn/retry-decorator](https://github.com/pnpnpn/retry-decorator) - Decorator for retrying when exceptions occur
@@ -837,7 +839,7 @@
 - [samoshkin/tmux-config](https://github.com/samoshkin/tmux-config) - Tmux configuration, that supercharges your tmux to build cozy and cool terminal environment
 - [mueller-ma/block-ads-via-dns](https://github.com/mueller-ma/block-ads-via-dns) - Block ads and malware via local DNS server
 - [jonathanio/update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
-- [phusion/debian-packaging-for-the-modern-developer](https://github.com/phusion/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
+- [FooBarWidget/debian-packaging-for-the-modern-developer](https://github.com/FooBarWidget/debian-packaging-for-the-modern-developer) - Debian packaging tutorials for the modern developer
 - [betterlockscreen/betterlockscreen](https://github.com/betterlockscreen/betterlockscreen) - 🍀 sweet looking lockscreen for linux system
 - [Soleedus/debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [adi1090x/polybar-themes](https://github.com/adi1090x/polybar-themes) - A huge collection of polybar themes with different styles, colors and variants.
