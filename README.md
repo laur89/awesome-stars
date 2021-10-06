@@ -37,6 +37,7 @@
   - [PHP](#php)
   - [Perl](#perl)
   - [Python](#python)
+  - [Reason](#reason)
   - [Roff](#roff)
   - [Ruby](#ruby)
   - [Rust](#rust)
@@ -68,7 +69,6 @@
 - [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
-- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
 - [phillbush/xnotify](https://github.com/phillbush/xnotify) - read notifications from stdin and pop them up on the screen
 - [tenox7/ttyplot](https://github.com/tenox7/ttyplot) - a realtime plotting utility for terminal/console with data input from stdin
@@ -678,7 +678,7 @@
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
-- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix reference homeserver
+- [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python 3/Twisted.
 - [openai/gym](https://github.com/openai/gym) - A toolkit for developing and comparing reinforcement learning algorithms.
 - [lunixbochs/ActualVim](https://github.com/lunixbochs/ActualVim) - Sublime Text 3 input mode using Neovim. Issues are closed, feel free to submit Pull Requests if you have bug fixes however.
 - [firecat53/keepmenu](https://github.com/firecat53/keepmenu) - Dmenu/Rofi frontend for Keepass databases
@@ -722,6 +722,10 @@
 - [styxit/AmbiPie](https://github.com/styxit/AmbiPie) - Raspberry pi script to control led, based on xbmc (bob light) output. Ambilight clone, proof of concept.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+
+## Reason 
+
+- [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
 
 ## Roff 
 
