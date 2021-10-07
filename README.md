@@ -17,6 +17,7 @@
   - [Elm](#elm)
   - [Emacs Lisp](#emacs-lisp)
   - [Erlang](#erlang)
+  - [Gherkin](#gherkin)
   - [Go](#go)
   - [Groovy](#groovy)
   - [HTML](#html)
@@ -227,6 +228,10 @@
 
 - [rustyio/sync](https://github.com/rustyio/sync) - On-the-fly recompiling and reloading in Erlang. Code without friction.
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
+
+## Gherkin 
+
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
@@ -442,7 +447,7 @@
 - [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
 - [emberjs/ember.js](https://github.com/emberjs/ember.js) - Ember.js - A JavaScript framework for creating ambitious web applications
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
-- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - 📦🚀 Blazing fast, zero configuration web application bundler
+- [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [facebookincubator/idx](https://github.com/facebookincubator/idx) - Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
@@ -855,7 +860,6 @@
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [Ventto/xpub](https://github.com/Ventto/xpub) - POSIX Shell script to get user's display environment variables of any TTY from anywhere.
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config) - I3 tiling window manager configuration
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
