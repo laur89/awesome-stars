@@ -489,7 +489,6 @@
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [facebook/flux](https://github.com/facebook/flux) - Application Architecture for Building User Interfaces
 - [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
-- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [OneSignal/emoji-picker](https://github.com/OneSignal/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
 - [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
@@ -605,6 +604,7 @@
 
 ## Python 
 
+- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
 - [vanossj/deluge-seedtime](https://github.com/vanossj/deluge-seedtime) - Deluge plugin to stop torrents after seeding for a certain amount of time.
 - [martin-ueding/thinkpad-scripts](https://github.com/martin-ueding/thinkpad-scripts) - Screen rotation, docking and other scripts for ThinkPad® X220 and X230 Tablet
@@ -940,6 +940,7 @@
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
+- [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
 
 ## Vala 
