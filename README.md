@@ -46,6 +46,7 @@
   - [Scala](#scala)
   - [Scheme](#scheme)
   - [Shell](#shell)
+  - [Tcl](#tcl)
   - [TeX](#tex)
   - [TypeScript](#typescript)
   - [Vala](#vala)
@@ -875,7 +876,7 @@
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
 - [podshumok/docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
-- [brianhp2/gandi-automatic-dns](https://github.com/brianhp2/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
+- [brian2lvls/gandi-automatic-dns](https://github.com/brian2lvls/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
@@ -896,6 +897,10 @@
 - [twolfson/sexy-bash-prompt](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, git statuses, and git branches.
 - [magicmonty/bash-git-prompt](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy bash prompt for Git users
 - [andsens/homeshick](https://github.com/andsens/homeshick) - git dotfiles synchronizer written in bash
+
+## Tcl 
+
+- [ratioghost/ratioghost](https://github.com/ratioghost/ratioghost) - Ratio Ghost is a BitTorrent ratio modifying proxy.
 
 ## TeX 
 
