@@ -827,7 +827,7 @@
 - [MrJBuck/Pi-otg](https://github.com/MrJBuck/Pi-otg) - 
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
-- [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - My repo of polybar themes
+- [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [vfarcic/devops26](https://github.com/vfarcic/devops26) - 
 - [TxGVNN/i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
