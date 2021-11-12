@@ -335,7 +335,7 @@
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [sczyh30/vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
 - [netifi-proteus/proteus-spring](https://github.com/netifi-proteus/proteus-spring) - Proteus Integration for Spring Boot
-- [stefanvozd/Reactive-CQRS](https://github.com/stefanvozd/Reactive-CQRS) - Reactive CQRS Axon Framework Demo
+- [schananas/Reactive-CQRS](https://github.com/schananas/Reactive-CQRS) - Reactive CQRS Axon Framework Demo
 - [uniVocity/univocity-trader](https://github.com/uniVocity/univocity-trader) - open-source trading framework for java, supports backtesting and live trading with exchanges
 - [j-easy/easy-rules](https://github.com/j-easy/easy-rules) - The simple, stupid rules engine for Java
 - [gentics/mesh](https://github.com/gentics/mesh) - Gentics Mesh - The open source headless CMS for developers
