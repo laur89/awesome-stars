@@ -185,6 +185,7 @@
 
 ## CSS 
 
+- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
 - [Rahlir/theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
@@ -609,7 +610,6 @@
 
 - [ipsingh06/seedsync](https://github.com/ipsingh06/seedsync) - Sync your seedbox. Fast. And more.
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
-- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [opensubtitles/service.subtitles.opensubtitles_by_opensubtitles](https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles) - KODI OpenSubtitles.org addon modified by opensubtitles, works without login
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
@@ -881,7 +881,7 @@
 - [chriskempson/base16-shell](https://github.com/chriskempson/base16-shell) - Base16 for Shells
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
 - [podshumok/docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
-- [brian2lvls/gandi-automatic-dns](https://github.com/brian2lvls/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
+- [br41-net/gandi-automatic-dns](https://github.com/br41-net/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
