@@ -882,7 +882,7 @@
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
 - [podshumok/docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
 - [br41-net/gandi-automatic-dns](https://github.com/br41-net/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
-- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Groom your app’s Ruby environment
+- [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
 - [clvv/fasd](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
