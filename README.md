@@ -608,6 +608,7 @@
 
 ## Python 
 
+- [Refer-d/resume_scanner_open_source](https://github.com/Refer-d/resume_scanner_open_source) - 
 - [ipsingh06/seedsync](https://github.com/ipsingh06/seedsync) - Sync your seedbox. Fast. And more.
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
 - [opensubtitles/service.subtitles.opensubtitles_by_opensubtitles](https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles) - KODI OpenSubtitles.org addon modified by opensubtitles, works without login
