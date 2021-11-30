@@ -239,7 +239,7 @@
 
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
-- [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers
+- [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 - [matsuyoshi30/gitsu](https://github.com/matsuyoshi30/gitsu) - switch git user easily
 - [DNSCrypt/dnscrypt-proxy](https://github.com/DNSCrypt/dnscrypt-proxy) - dnscrypt-proxy 2 - A flexible DNS proxy, with support for encrypted DNS protocols.
 - [FiloSottile/yubikey-agent](https://github.com/FiloSottile/yubikey-agent) - yubikey-agent is a seamless ssh-agent for YubiKeys.
@@ -308,6 +308,7 @@
 
 ## HTML 
 
+- [Refer-d/resume_scanner_open_source](https://github.com/Refer-d/resume_scanner_open_source) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [matthewhartman/matthewhartman.com.au](https://github.com/matthewhartman/matthewhartman.com.au) - Matthew Hartman's Portfolio Website
@@ -606,7 +607,6 @@
 
 ## Python 
 
-- [Refer-d/resume_scanner_open_source](https://github.com/Refer-d/resume_scanner_open_source) - 
 - [ipsingh06/seedsync](https://github.com/ipsingh06/seedsync) - Sync your seedbox. Fast. And more.
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
 - [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
