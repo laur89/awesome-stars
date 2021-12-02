@@ -139,6 +139,7 @@
 
 ## C# # 
 
+- [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
 - [JKorf/CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net) - Base for exchanges
