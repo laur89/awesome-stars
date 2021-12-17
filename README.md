@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [appleboy/drone-git-push](https://github.com/appleboy/drone-git-push) - Drone plugin for deploying code using git push
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
@@ -609,6 +610,9 @@
 
 ## Python 
 
+- [pypa/readme_renderer](https://github.com/pypa/readme_renderer) - Safely render long_description/README files in Warehouse
+- [regebro/pyroma](https://github.com/regebro/pyroma) - Rate your Python packages package friendliness
+- [c4urself/bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
 - [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
