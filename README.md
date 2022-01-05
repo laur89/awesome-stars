@@ -239,6 +239,7 @@
 
 ## Go 
 
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI database to protect the user network.
 - [appleboy/drone-git-push](https://github.com/appleboy/drone-git-push) - Drone plugin for deploying code using git push
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
@@ -528,6 +529,7 @@
 
 ## Kotlin 
 
+- [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - :iphone: KeePass implementation for android with material design and deluxe features
 - [dinhhuy258/vintellij](https://github.com/dinhhuy258/vintellij) - 
 - [beeender/ComradeNeovim](https://github.com/beeender/ComradeNeovim) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
 - [tipsy/javalin](https://github.com/tipsy/javalin) - A simple and modern Java and Kotlin web framework
@@ -769,6 +771,7 @@
 
 ## Rust 
 
+- [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [Frederick888/git-credential-keepassxc](https://github.com/Frederick888/git-credential-keepassxc) - Helper that allows Git (and shell scripts) to use KeePassXC as credential store
 - [Peltoche/lsd](https://github.com/Peltoche/lsd) - The next gen ls command
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
