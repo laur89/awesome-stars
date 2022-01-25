@@ -401,6 +401,7 @@
 ## JavaScript 
 
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
+- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
@@ -635,7 +636,6 @@
 - [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
 - [ipsingh06/seedsync](https://github.com/ipsingh06/seedsync) - Sync your seedbox. Fast. And more.
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
-- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [opensubtitles/service.subtitles.opensubtitles_by_opensubtitles](https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles) - KODI OpenSubtitles.org addon modified by opensubtitles, works without login
 - [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform!
 - [davidhalter/jedi](https://github.com/davidhalter/jedi) - Awesome autocompletion, static analysis and refactoring library for python
