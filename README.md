@@ -571,6 +571,7 @@
 
 ## Others 
 
+- [firefly-iii/import-configurations](https://github.com/firefly-iii/import-configurations) - Support repository: User contributed import configurations to easily import CSV files into Firefly III
 - [joelacus/deluge-web-dark-theme](https://github.com/joelacus/deluge-web-dark-theme) - A modern dark theme for Deluge Web UI with custom accent colours and updated icons.
 - [Raymo111/voiceprint](https://github.com/Raymo111/voiceprint) - Voice biometric authentication PAM module for Linux
 - [ceordonez/python-wofi](https://github.com/ceordonez/python-wofi) - A Python module to make simple GUIs with Wofi
