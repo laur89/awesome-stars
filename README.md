@@ -141,6 +141,7 @@
 
 ## C# # 
 
+- [Cleanarr/Cleanarr](https://github.com/Cleanarr/Cleanarr) - Automatic cleaner tool for your mediaserver (eg. Plex). Making use of a history-tracker (eg. Tautulli) and a request-tracker (eg. Ombi) to keep in mind requested and watched status, to make sure media gets only deleted when everyone who wanted to watch it, has watched it.
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
@@ -626,6 +627,7 @@
 
 ## Python 
 
+- [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
 - [jonaswinkler/paperless-ng](https://github.com/jonaswinkler/paperless-ng) - A supercharged version of paperless: scan, index and archive all your physical documents
