@@ -862,7 +862,7 @@
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
-- [jgoerzen/docker-debian-base-minimal](https://github.com/jgoerzen/docker-debian-base-minimal) - More complete Debian environment for Docker, minimal image
+- [jgoerzen/docker-debian-base-minimal](https://github.com/jgoerzen/docker-debian-base-minimal) - [read-only mirror] More complete Debian environment for Docker, minimal image
 - [labbots/bash-utility](https://github.com/labbots/bash-utility) - Bash library which provides utility functions and helpers for functional programming in Bash.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [MrJBuck/Pi-otg](https://github.com/MrJBuck/Pi-otg) - 
