@@ -580,7 +580,6 @@
 - [ceordonez/python-wofi](https://github.com/ceordonez/python-wofi) - A Python module to make simple GUIs with Wofi
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
-- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [Anthony-Tatowicz/docker-ethminer](https://github.com/Anthony-Tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
@@ -702,7 +701,6 @@
 - [mishurov/applets](https://github.com/mishurov/applets) - PyQT, PyGI and other scripts
 - [bulletmark/libinput-gestures](https://github.com/bulletmark/libinput-gestures) - Actions gestures on your touchpad using libinput
 - [d4nj1/TLPUI](https://github.com/d4nj1/TLPUI) - A GTK user interface for TLP written in Python
-- [httpie/httpie](https://github.com/httpie/httpie) - As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie
 - [viniarck/rofi-tmux](https://github.com/viniarck/rofi-tmux) - :heavy_check_mark: rft (rofi-tmux). Quickly switches tmux sessions, windows and tmuxinator projects
 - [Diaoul/subliminal](https://github.com/Diaoul/subliminal) - Subtitles, faster than your thoughts
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
@@ -858,6 +856,7 @@
 - [carvalhudo/usb-rofi](https://github.com/carvalhudo/usb-rofi) - management of usb devices with rofi and udev
 - [gilbertw1/roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
+- [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
 - [lincheney/fzf-tab-completion](https://github.com/lincheney/fzf-tab-completion) - Tab completion using fzf
 - [Aloxaf/fzf-tab](https://github.com/Aloxaf/fzf-tab) - Replace zsh's default completion selection menu with fzf!
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
