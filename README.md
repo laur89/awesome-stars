@@ -248,6 +248,7 @@
 
 ## Go 
 
+- [trebabcock/forum-server](https://github.com/trebabcock/forum-server) - Server for the forum
 - [ovotech/gitoops](https://github.com/ovotech/gitoops) - all paths lead to clouds
 - [gravitational/drone-fork-approval-extension](https://github.com/gravitational/drone-fork-approval-extension) - Drone extension to force build approval on pull requests from forks.
 - [appleboy/drone-lambda](https://github.com/appleboy/drone-lambda) - Deploying Lambda code with drone CI to an existing function
@@ -836,6 +837,7 @@
 
 ## Shell 
 
+- [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [infokiller/config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [infokiller/win10-vm](https://github.com/infokiller/win10-vm) - Windows 10 VM on Linux (QEMU/KVM) with Secure Boot, BitLocker, and good performance
