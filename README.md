@@ -423,7 +423,6 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
-- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [matthewhartman/asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
 - [Gaserd/alpacahq-nodejs-examples](https://github.com/Gaserd/alpacahq-nodejs-examples) - List of examples how work Alpaca API (stock trading api)
 - [jamesbarnett91/tplink-energy-monitor](https://github.com/jamesbarnett91/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
@@ -647,7 +646,7 @@
 - [c4urself/bump2version](https://github.com/c4urself/bump2version) - Version-bump your software with a single command
 - [GilbN/geoip2influx](https://github.com/GilbN/geoip2influx) - A python script that will parse the nginx access.log and send geolocation metrics and log metrics to InfluxDB
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
-- [ccrisan/motioneye](https://github.com/ccrisan/motioneye) - A web frontend for the motion daemon.
+- [motioneye-project/motioneye](https://github.com/motioneye-project/motioneye) - A web frontend for the motion daemon.
 - [ipsingh06/seedsync](https://github.com/ipsingh06/seedsync) - Sync your seedbox. Fast. And more.
 - [deluge-torrent/deluge](https://github.com/deluge-torrent/deluge) - Deluge BitTorrent client - Git mirror, PRs only
 - [opensubtitles/service.subtitles.opensubtitles_by_opensubtitles](https://github.com/opensubtitles/service.subtitles.opensubtitles_by_opensubtitles) - KODI OpenSubtitles.org addon modified by opensubtitles, works without login
@@ -965,6 +964,7 @@
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [nwtgck/http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
+- [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume) - A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today!
 - [sureshja/ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [webdriverio/webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen browser and mobile automation test framework for Node.js
