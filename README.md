@@ -62,6 +62,7 @@
 
 ## C 
 
+- [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [amadvance/snapraid](https://github.com/amadvance/snapraid) - A backup program for disk arrays. It stores parity information of your data and it recovers from up to six disk failures
@@ -634,6 +635,7 @@
 
 ## Python 
 
+- [olivierlemoal/i3-swap-focus](https://github.com/olivierlemoal/i3-swap-focus) - i3/sway script to toggle between last windows
 - [afonsoc12/firefly-cli](https://github.com/afonsoc12/firefly-cli) - A python-based command line interface for conveniently entering expenses in Firefly III.
 - [ow97/i3custom](https://github.com/ow97/i3custom) - Create custom i3 commands for use in your i3 config
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
