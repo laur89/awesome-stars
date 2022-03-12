@@ -635,6 +635,7 @@
 
 ## Python 
 
+- [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
 - [olivierlemoal/i3-swap-focus](https://github.com/olivierlemoal/i3-swap-focus) - i3/sway script to toggle between last windows
 - [afonsoc12/firefly-cli](https://github.com/afonsoc12/firefly-cli) - A python-based command line interface for conveniently entering expenses in Firefly III.
 - [ow97/i3custom](https://github.com/ow97/i3custom) - Create custom i3 commands for use in your i3 config
