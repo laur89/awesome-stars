@@ -196,7 +196,6 @@
 
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for your favorite apps.
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
-- [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
 - [Rahlir/theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
 - [bennetthardwick/gruvbox-gtk](https://github.com/bennetthardwick/gruvbox-gtk) - Arc theme but with gruvbox colours.
 - [lvancrayelynghe/arc-variations](https://github.com/lvancrayelynghe/arc-variations) - 
@@ -829,6 +828,7 @@
 
 - [creativetimofficial/vue-argon-dashboard](https://github.com/creativetimofficial/vue-argon-dashboard) - Vue Argon Dashboard
 - [slatedocs/slate](https://github.com/slatedocs/slate) - Beautiful static documentation for your API
+- [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store modules.
 - [pop-os/gtk-theme](https://github.com/pop-os/gtk-theme) - System76 Pop GTK+ Theme
 - [morhetz/gruvbox-contrib](https://github.com/morhetz/gruvbox-contrib) - Ports of the gruvbox colorscheme
 - [nana-4/materia-theme](https://github.com/nana-4/materia-theme) - A Material Design theme for GNOME/GTK based desktop environments
