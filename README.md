@@ -329,7 +329,6 @@
 
 ## HTML 
 
-- [Refer-d/resume_scanner_open_source](https://github.com/Refer-d/resume_scanner_open_source) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
 - [matthewhartman/matthewhartman.com.au](https://github.com/matthewhartman/matthewhartman.com.au) - Matthew Hartman's Portfolio Website
