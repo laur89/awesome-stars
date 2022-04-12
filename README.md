@@ -62,6 +62,7 @@
 
 ## C 
 
+- [kareltucek/firmware](https://github.com/kareltucek/firmware) - This is fork of UHK's firmware featuring extended macro engine.
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
