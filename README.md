@@ -223,7 +223,7 @@
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [nephatrine/docker-drone-ci](https://github.com/nephatrine/docker-drone-ci) - [mirror] Container w/ Drone & SQLite
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
-- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Docker Backup various DB Services with customizable options based on Alpine
+- [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup mutltiple databases types on a scheduled basis with many customizable options
 - [Corwind/termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
