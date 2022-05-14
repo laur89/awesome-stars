@@ -194,7 +194,7 @@
 
 ## CSS 
 
-- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 49 selfhosted apps!
+- [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [Rahlir/theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
 - [bennetthardwick/gruvbox-gtk](https://github.com/bennetthardwick/gruvbox-gtk) - Arc theme but with gruvbox colours.
