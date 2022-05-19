@@ -44,7 +44,6 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Scala](#scala)
-- [Scheme](#scheme)
 - [Shell](#shell)
 - [Tcl](#tcl)
 - [TeX](#tex)
@@ -666,6 +665,7 @@
 - [kuzmoyev/google-calendar-simple-api](https://github.com/kuzmoyev/google-calendar-simple-api) - Pythonic wrapper for the Google Calendar API
 - [insanum/gcalcli](https://github.com/insanum/gcalcli) - Google Calendar Command Line Interface
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
+- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 - [ceordonez/python-wofi](https://github.com/ceordonez/python-wofi) - A Python module to make simple GUIs with Wofi
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
@@ -845,10 +845,6 @@
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
 - [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
 - [rtyley/bfg-repo-cleaner](https://github.com/rtyley/bfg-repo-cleaner) - Removes large or troublesome blobs like git-filter-branch does, but faster. And written in Scala
-
-## Scheme 
-
-- [Diolinux/PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 2.10+ for Photoshop Users
 
 ## Shell 
 
