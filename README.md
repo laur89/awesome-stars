@@ -249,6 +249,7 @@
 
 ## Go 
 
+- [draxil/i3-scratch-list](https://github.com/draxil/i3-scratch-list) - List i3 scratchpad windows
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [autobrr/autobrr](https://github.com/autobrr/autobrr) - Automation for downloads.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
