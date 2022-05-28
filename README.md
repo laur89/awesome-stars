@@ -204,6 +204,7 @@
 
 ## Clojure 
 
+- [tshort/dactyl-keyboard](https://github.com/tshort/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
 - [veikman/dactyl-keyboard](https://github.com/veikman/dactyl-keyboard) - Programmatic keyboard CAD
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
@@ -300,7 +301,7 @@
 - [segmentio/aws-okta](https://github.com/segmentio/aws-okta) - aws-vault like tool for Okta authentication
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang.
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
-- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+- [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
@@ -412,6 +413,7 @@
 
 ## JavaScript 
 
+- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
@@ -847,6 +849,7 @@
 
 ## Shell 
 
+- [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [DMBuce/i3b](https://github.com/DMBuce/i3b) - Window manager scripts and configs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A large collection of Rofi based custom Menu, Applets, Launchers & Powermenus.
 - [infokiller/config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
