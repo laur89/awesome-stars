@@ -60,6 +60,7 @@
 
 ## C 
 
+- [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kareltucek/firmware](https://github.com/kareltucek/firmware) - This is fork of UHK's firmware featuring extended macro engine.
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
 - [cornerman/i3-easyfocus](https://github.com/cornerman/i3-easyfocus) - Focus and select windows in i3
@@ -142,6 +143,7 @@
 
 ## C# # 
 
+- [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [Cleanarr/Cleanarr](https://github.com/Cleanarr/Cleanarr) - Automatic cleaner tool for your mediaserver (eg. Plex). Making use of a history-tracker (eg. Tautulli) and a request-tracker (eg. Ombi) to keep in mind requested and watched status, to make sure media
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
@@ -159,6 +161,7 @@
 
 ## C++ 
 
+- [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -252,6 +255,7 @@
 
 ## Go 
 
+- [moby/buildkit](https://github.com/moby/buildkit) - concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit
 - [lemonade-command/lemonade](https://github.com/lemonade-command/lemonade) - Lemonade is a remote utility tool. (copy, paste and open browser) over TCP.
 - [draxil/i3-scratch-list](https://github.com/draxil/i3-scratch-list) - List i3 scratchpad windows
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
@@ -416,6 +420,8 @@
 
 ## JavaScript 
 
+- [TeamPiped/Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) - 
+- [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [C451/Super-Brain-Wallet](https://github.com/C451/Super-Brain-Wallet) - Brain wallet using both language and visual memory.
 - [kensnyder/any-date-parser](https://github.com/kensnyder/any-date-parser) - Parse a wide range of date formats including human-input dates
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
