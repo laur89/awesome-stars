@@ -370,6 +370,7 @@
 
 ## Java 
 
+- [ma1uta/ma1sd](https://github.com/ma1uta/ma1sd) - Federated Matrix Identity Server (formerly fork of kamax/mxisd)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 - [yuliskov/SmartTubeNext](https://github.com/yuliskov/SmartTubeNext) - Ad free app for watching tube videos on Android TV boxes
 - [pazone/ashot](https://github.com/pazone/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
@@ -990,6 +991,7 @@
 
 ## TypeScript 
 
+- [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
