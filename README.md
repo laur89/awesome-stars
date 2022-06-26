@@ -60,6 +60,7 @@
 
 ## C 
 
+- [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kareltucek/firmware](https://github.com/kareltucek/firmware) - This is fork of UHK's firmware featuring extended macro engine.
 - [sagb/alttab](https://github.com/sagb/alttab) - The task switcher for minimalistic window managers or standalone X11 session
@@ -428,6 +429,7 @@
 
 ## JavaScript 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [TeamPiped/Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) - 
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [C451/Super-Brain-Wallet](https://github.com/C451/Super-Brain-Wallet) - Brain wallet using both language and visual memory.
