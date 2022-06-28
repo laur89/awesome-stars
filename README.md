@@ -60,6 +60,7 @@
 
 ## C 
 
+- [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [kareltucek/firmware](https://github.com/kareltucek/firmware) - This is fork of UHK's firmware featuring extended macro engine.
@@ -429,7 +430,6 @@
 
 ## JavaScript 
 
-- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [TeamPiped/Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) - 
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 - [C451/Super-Brain-Wallet](https://github.com/C451/Super-Brain-Wallet) - Brain wallet using both language and visual memory.
@@ -496,7 +496,7 @@
 - [latentflip/webpack-unused](https://github.com/latentflip/webpack-unused) - Check your frontend code for files/assets that are no longer used.
 - [mui/material-ui](https://github.com/mui/material-ui) - MUI Core (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 - [skidding/react-testing-examples](https://github.com/skidding/react-testing-examples) - Searchable library of React testing examples
-- [gsoft-inc/craco](https://github.com/gsoft-inc/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for create-react-app
+- [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
@@ -994,6 +994,7 @@
 
 ## TypeScript 
 
+- [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [mmgoodnow/cross-seed](https://github.com/mmgoodnow/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
