@@ -708,7 +708,7 @@
 - [fwkz/riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
 - [threat9/routersploit](https://github.com/threat9/routersploit) - Exploitation Framework for Embedded Devices
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
-- [hzwer/arXiv2021-RIFE](https://github.com/hzwer/arXiv2021-RIFE) - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
+- [hzwer/ECCV2022-RIFE](https://github.com/hzwer/ECCV2022-RIFE) - Real-Time Intermediate Flow Estimation for Video Frame Interpolation
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [ciur/papermerge](https://github.com/ciur/papermerge) - Open Source Document Management System for Digital Archives (Scanned Documents)
 - [phillipberndt/autorandr](https://github.com/phillipberndt/autorandr) - Auto-detect the connected display hardware and load the appropriate X11 setup using xrandr
