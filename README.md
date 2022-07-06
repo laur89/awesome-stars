@@ -572,7 +572,8 @@
 
 ## Kotlin 
 
-- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android. [WIP]
+- [chenxiaolong/BCR](https://github.com/chenxiaolong/BCR) - A Basic Call Recorder for rooted Android devices
+- [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative YouTube front end, for Android.
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
 - [dinhhuy258/vintellij](https://github.com/dinhhuy258/vintellij) - Using IntelliJ as a Kotlin/ Java server language protocol for Neovim
 - [beeender/ComradeNeovim](https://github.com/beeender/ComradeNeovim) - Brings JetBrains/IntelliJ IDEs magic to Neovim with minimal setup.
