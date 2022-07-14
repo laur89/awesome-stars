@@ -876,6 +876,7 @@
 
 ## Shell 
 
+- [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [infokiller/fasd](https://github.com/infokiller/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
 - [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
