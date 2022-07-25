@@ -215,6 +215,7 @@
 
 ## Clojure 
 
+- [jgrodziski/keycloak-clojure](https://github.com/jgrodziski/keycloak-clojure) - A Clojure library helping the integration of Keycloak with a Clojure Application + a sample SPA Client and API Server demonstrating the Keycloak integration
 - [HealthSamurai/macrocss](https://github.com/HealthSamurai/macrocss) - 
 - [thheller/shadow-cljs](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 - [technomancy/leiningen](https://github.com/technomancy/leiningen) - Automate Clojure projects without setting your hair on fire.
