@@ -218,6 +218,7 @@
 
 ## Clojure 
 
+- [tiagodalloca/city-weather-clj](https://github.com/tiagodalloca/city-weather-clj) - Small web application which consumes the Open Weather API and makes use of Clojure's atom construct as cache.
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
 - [prestancedesign/babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list SPA using Babashka and htmx
 - [jgrodziski/keycloak-clojure](https://github.com/jgrodziski/keycloak-clojure) - A Clojure library helping the integration of Keycloak with a Clojure Application + a sample SPA Client and API Server demonstrating the Keycloak integration
