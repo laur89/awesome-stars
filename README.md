@@ -678,6 +678,7 @@
 
 ## Python 
 
+- [jeffgran/ManuForm](https://github.com/jeffgran/ManuForm) - Design files for my ManuForm custom keyboard
 - [ASebastian27/Reddit-Account-Generator](https://github.com/ASebastian27/Reddit-Account-Generator) - (Semi)Automagically generates Reddit accounts
 - [vincentbernat/i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration) - 
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
