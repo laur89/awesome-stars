@@ -218,6 +218,7 @@
 
 ## Clojure 
 
+- [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro) - A library for development of single-page full-stack web applications in clj/cljs
 - [tiagodalloca/city-weather-clj](https://github.com/tiagodalloca/city-weather-clj) - Small web application which consumes the Open Weather API and makes use of Clojure's atom construct as cache.
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
 - [prestancedesign/babashka-htmx-todoapp](https://github.com/prestancedesign/babashka-htmx-todoapp) - Quick example of a todo list SPA using Babashka and htmx
@@ -1029,6 +1030,7 @@
 
 ## TypeScript 
 
+- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
@@ -1083,6 +1085,7 @@
 
 ## Vim script 
 
+- [habamax/vim-rst](https://github.com/habamax/vim-rst) - vim reStructuredText syntax and some more
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
