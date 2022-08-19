@@ -62,6 +62,7 @@
 
 ## C 
 
+- [podocarp/tabbed](https://github.com/podocarp/tabbed) - Fork of suckless-tabbed with patches correctly applied.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 - [bitlbee/bitlbee](https://github.com/bitlbee/bitlbee) - An IRC to other chat networks gateway :bee:
@@ -381,7 +382,6 @@
 
 ## Haskell 
 
-- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
@@ -858,6 +858,7 @@
 
 ## Rust 
 
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -1034,6 +1035,7 @@
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
+- [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, Gitlab, GitHub and Open Project.
