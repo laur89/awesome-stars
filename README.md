@@ -220,6 +220,7 @@
 
 ## Clojure 
 
+- [gigasquid/wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas) - Clojure Katas inspired by Alice in Wonderland
 - [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro) - A library for development of single-page full-stack web applications in clj/cljs
 - [tiagodalloca/city-weather-clj](https://github.com/tiagodalloca/city-weather-clj) - Small web application which consumes the Open Weather API and makes use of Clojure's atom construct as cache.
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
@@ -680,6 +681,7 @@
 
 ## Python 
 
+- [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Literally just a script that is automatically ran via Windows Task Scheduler or Cron that logs into the Epic Games Store website and grabs the free games for the week.
 - [jeffgran/ManuForm](https://github.com/jeffgran/ManuForm) - Design files for my ManuForm custom keyboard
 - [ASebastian27/Reddit-Account-Generator](https://github.com/ASebastian27/Reddit-Account-Generator) - (Semi)Automagically generates Reddit accounts
 - [vincentbernat/i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration) - 
