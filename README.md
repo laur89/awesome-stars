@@ -220,6 +220,10 @@
 
 ## Clojure 
 
+- [aphyr/tesser](https://github.com/aphyr/tesser) - Clojure reducers, but for parallel execution: locally and on distributed systems.
+- [aphyr/tea-time](https://github.com/aphyr/tea-time) - Lightweight Clojure task scheduler
+- [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) - Pure cljs version of 4clojure, meant to run forever!
+- [askonomm/clarktown](https://github.com/askonomm/clarktown) - A zero-dependency Markdown parser.
 - [gigasquid/wonderland-clojure-katas](https://github.com/gigasquid/wonderland-clojure-katas) - Clojure Katas inspired by Alice in Wonderland
 - [fulcrologic/fulcro](https://github.com/fulcrologic/fulcro) - A library for development of single-page full-stack web applications in clj/cljs
 - [tiagodalloca/city-weather-clj](https://github.com/tiagodalloca/city-weather-clj) - Small web application which consumes the Open Weather API and makes use of Clojure's atom construct as cache.
@@ -388,6 +392,8 @@
 
 ## Java 
 
+- [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
+- [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
 - [jaju/spring-boost](https://github.com/jaju/spring-boost) - Introduce Clojure and live-coding power to your Spring Boot application!
 - [ma1uta/ma1sd](https://github.com/ma1uta/ma1sd) - Federated Matrix Identity Server (formerly fork of kamax/mxisd)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
@@ -1090,6 +1096,7 @@
 
 ## Vim script 
 
+- [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 - [habamax/vim-rst](https://github.com/habamax/vim-rst) - vim reStructuredText syntax and some more
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
