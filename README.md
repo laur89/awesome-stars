@@ -51,7 +51,7 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vala](#vala)
-- [Vim script](#vim-script)
+- [Vim Script](#vim-script)
 - [Vue](#vue)
 
 ## Batchfile 
@@ -220,6 +220,11 @@
 
 ## Clojure 
 
+- [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
+- [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure
+- [ptaoussanis/nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure
+- [onyx-platform/onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing
+- [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
 - [aphyr/tesser](https://github.com/aphyr/tesser) - Clojure reducers, but for parallel execution: locally and on distributed systems.
 - [aphyr/tea-time](https://github.com/aphyr/tea-time) - Lightweight Clojure task scheduler
 - [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) - Pure cljs version of 4clojure, meant to run forever!
@@ -271,6 +276,7 @@
 
 ## Erlang 
 
+- [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
 - [lfe/lfe](https://github.com/lfe/lfe) - Lisp Flavoured Erlang (LFE)
 - [rustyio/sync](https://github.com/rustyio/sync) - On-the-fly recompiling and reloading in Erlang. Code without friction.
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases.
@@ -634,6 +640,7 @@
 
 ## Others 
 
+- [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [firefly-iii/import-configurations](https://github.com/firefly-iii/import-configurations) - Support repository: User contributed import configurations to easily import CSV files into Firefly III
@@ -687,6 +694,7 @@
 
 ## Python 
 
+- [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Literally just a script that is automatically ran via Windows Task Scheduler or Cron that logs into the Epic Games Store website and grabs the free games for the week.
 - [jeffgran/ManuForm](https://github.com/jeffgran/ManuForm) - Design files for my ManuForm custom keyboard
 - [ASebastian27/Reddit-Account-Generator](https://github.com/ASebastian27/Reddit-Account-Generator) - (Semi)Automagically generates Reddit accounts
@@ -1094,7 +1102,7 @@
 
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
-## Vim script 
+## Vim Script 
 
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 - [habamax/vim-rst](https://github.com/habamax/vim-rst) - vim reStructuredText syntax and some more
