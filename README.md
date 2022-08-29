@@ -947,7 +947,7 @@
 - [cmcmahan/Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
 - [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [cytopia/i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
-- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews using Überzug for Vifm (vi file manager)
+- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) - 
 - [liskin/dotfiles](https://github.com/liskin/dotfiles) - My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…
 - [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
