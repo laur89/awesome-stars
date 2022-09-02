@@ -221,6 +221,10 @@
 
 ## Clojure 
 
+- [cerner/clara-rules](https://github.com/cerner/clara-rules) - Forward-chaining rules in Clojure(Script)
+- [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules) - A rules engine for Clojure(Script)
+- [hyperfiddle/rcf](https://github.com/hyperfiddle/rcf) - RCF – a REPL-first, async test macro for Clojure/Script
+- [uswitch/lambada](https://github.com/uswitch/lambada) - A more passionate way to write AWS Lambda functions
 - [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
 - [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
 - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
@@ -461,6 +465,7 @@
 
 ## JavaScript 
 
+- [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [shaunlebron/parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
@@ -1053,6 +1058,8 @@
 
 ## TypeScript 
 
+- [ryansolid/vuerx-jsx](https://github.com/ryansolid/vuerx-jsx) - Vue Reactivity with Fine-Grained Rendering
+- [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and redeem promotional free games from the Epic Games Store. Handles login and checkout captchas. Runs in Docker.
 - [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
