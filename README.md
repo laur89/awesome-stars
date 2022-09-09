@@ -295,6 +295,7 @@
 
 ## Go 
 
+- [owl-torrent/joal-cli](https://github.com/owl-torrent/joal-cli) - 
 - [matrix-org/dendrite](https://github.com/matrix-org/dendrite) - Dendrite is a second-generation Matrix homeserver written in Go!
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
