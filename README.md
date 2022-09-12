@@ -221,6 +221,8 @@
 
 ## Clojure 
 
+- [AppsFlyer/lein-protodeps](https://github.com/AppsFlyer/lein-protodeps) - Leiningen plugin for consuming and compiling protobuf schemas
+- [AppsFlyer/pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers
 - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
 - [cerner/clara-rules](https://github.com/cerner/clara-rules) - Forward-chaining rules in Clojure(Script)
 - [oakes/odoyle-rules](https://github.com/oakes/odoyle-rules) - A rules engine for Clojure(Script)
