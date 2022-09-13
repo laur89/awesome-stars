@@ -409,6 +409,9 @@
 
 ## Java 
 
+- [mpetazzoni/ttorrent](https://github.com/mpetazzoni/ttorrent) - BitTorrent Java library with tracker and download client
+- [openl-tablets/openl-tablets](https://github.com/openl-tablets/openl-tablets) - OpenL Tablets Business Rules Management System
+- [deliveredtechnologies/rulebook](https://github.com/deliveredtechnologies/rulebook) - 100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL
 - [OpenFeign/feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
 - [ervandew/eclim](https://github.com/ervandew/eclim) - Expose eclipse features inside of vim.
 - [jaju/spring-boost](https://github.com/jaju/spring-boost) - Introduce Clojure and live-coding power to your Spring Boot application!
