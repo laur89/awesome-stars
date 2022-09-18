@@ -387,6 +387,7 @@
 
 ## HTML 
 
+- [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [quietsy/advanced-configurations](https://github.com/quietsy/advanced-configurations) - 
 - [docker/awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
 - [hjson/hjson](https://github.com/hjson/hjson) - Hjson, a user interface for JSON
@@ -473,6 +474,7 @@
 
 ## JavaScript 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [shaunlebron/parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp
@@ -945,6 +947,7 @@
 
 ## Shell 
 
+- [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [infokiller/fasd](https://github.com/infokiller/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
