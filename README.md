@@ -411,6 +411,7 @@
 
 ## Java 
 
+- [LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor) - High Performance Inter-Thread Messaging Library
 - [mpetazzoni/ttorrent](https://github.com/mpetazzoni/ttorrent) - BitTorrent Java library with tracker and download client
 - [openl-tablets/openl-tablets](https://github.com/openl-tablets/openl-tablets) - OpenL Tablets Business Rules Management System
 - [deliveredtechnologies/rulebook](https://github.com/deliveredtechnologies/rulebook) - 100% Java, Lambda Enabled, Lightweight Rules Engine with a Simple and Intuitive DSL
