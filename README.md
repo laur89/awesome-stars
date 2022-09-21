@@ -444,7 +444,7 @@
 - [brettwooldridge/HikariCP](https://github.com/brettwooldridge/HikariCP) - 光 HikariCP・A solid, high-performance, JDBC connection pool at last.
 - [gouthampradhan/leetcode](https://github.com/gouthampradhan/leetcode) - Leetcode solutions
 - [bitsofinfo/hazelcast-consul-discovery-spi](https://github.com/bitsofinfo/hazelcast-consul-discovery-spi) - Consul based discovery strategy SPI for Hazelcast enabled applications
-- [oracle/helidon](https://github.com/oracle/helidon) - Java libraries for writing microservices
+- [helidon-io/helidon](https://github.com/helidon-io/helidon) - Java libraries for writing microservices
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [ignatov/intellij-erlang](https://github.com/ignatov/intellij-erlang) - Erlang IDE
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
@@ -478,7 +478,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
-- [shaunlebron/parinfer](https://github.com/shaunlebron/parinfer) - Let's simplify the way we write Lisp
+- [parinfer/parinfer.js](https://github.com/parinfer/parinfer.js) - Let's simplify the way we write Lisp
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [TeamPiped/Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) - 
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
