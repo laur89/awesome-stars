@@ -62,6 +62,7 @@
 
 ## C 
 
+- [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [podocarp/tabbed](https://github.com/podocarp/tabbed) - Fork of suckless-tabbed with patches correctly applied.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
