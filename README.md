@@ -994,7 +994,7 @@
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [vfarcic/devops26](https://github.com/vfarcic/devops26) - 
 - [TxGVNN/i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
-- [sunaku/home](https://github.com/sunaku/home) - 🏡 $HOME directory (dot files & bin scripts)
+- [sunaku/home](https://github.com/sunaku/home) - 🏡 My $HOME directory (dot files & bin scripts)
 - [taniman/profit-trailer](https://github.com/taniman/profit-trailer) - The most advanced crypto trading bot
 - [ramitsurana/awesome-kubernetes](https://github.com/ramitsurana/awesome-kubernetes) - A curated list for awesome kubernetes sources :ship::tada:
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
