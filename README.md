@@ -1133,6 +1133,7 @@
 
 ## Vim Script 
 
+- [NicksIdeaEngine/dotfiles](https://github.com/NicksIdeaEngine/dotfiles) - Here are the dotfiles for my desktop and laptop. Currently under heavy construction. Will create the first 'release' once most of my config is uploaded.
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 - [habamax/vim-rst](https://github.com/habamax/vim-rst) - vim reStructuredText syntax and some more
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
