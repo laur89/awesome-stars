@@ -662,6 +662,7 @@
 
 ## Others 
 
+- [StewAlexander-com/VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet) - Cheatsheet for Vim
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
