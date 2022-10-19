@@ -666,6 +666,9 @@
 
 ## Others 
 
+- [jdart/chortyl](https://github.com/jdart/chortyl) - 
+- [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis) - 
+- [nilokr/cantor-remix](https://github.com/nilokr/cantor-remix) - Cantor keyboard by diepala with minor changes
 - [StewAlexander-com/VIM-Awesome-Cheatsheet](https://github.com/StewAlexander-com/VIM-Awesome-Cheatsheet) - Cheatsheet for Vim
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -720,6 +723,7 @@
 
 ## Python 
 
+- [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
 - [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 - [MisterDaneel/Ratio.py](https://github.com/MisterDaneel/Ratio.py) - Ratio.py is a small command line RatioMaster.Net like in Python3. It fakes upload stats of a torrent.
