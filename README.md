@@ -623,6 +623,7 @@
 
 ## Jupyter Notebook 
 
+- [crehmann/TPS42](https://github.com/crehmann/TPS42) - An ergonomic split keyboard with TrackPoint support
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [firmai/machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai)
 - [QuantConnect/Tutorials](https://github.com/QuantConnect/Tutorials) - Jupyter notebook tutorials from QuantConnect website for Python, Finance and LEAN.
@@ -910,6 +911,9 @@
 
 ## Rust 
 
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast.
+- [KSXGitHub/parallel-disk-usage](https://github.com/KSXGitHub/parallel-disk-usage) - Highly parallelized, blazing fast directory tree analyzer
+- [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [eraserhd/parinfer-rust](https://github.com/eraserhd/parinfer-rust) - A Rust port of parinfer.
