@@ -62,6 +62,7 @@
 
 ## C 
 
+- [Zot1881/firmware](https://github.com/Zot1881/firmware) - Ultimate Hacking Keyboard firmware with per key coloring via macros commands
 - [manna-harbour/crkbd](https://github.com/manna-harbour/crkbd) - Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK.
 - [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
