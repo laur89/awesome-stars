@@ -680,7 +680,7 @@
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
 - [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
-- [Anthony-Tatowicz/docker-ethminer](https://github.com/Anthony-Tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
+- [tatowicz/docker-ethminer](https://github.com/tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [nicomengual/firstrobot](https://github.com/nicomengual/firstrobot) - First Robot made on 2007
 - [joelparkerhenderson/demo-plantuml](https://github.com/joelparkerhenderson/demo-plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
@@ -1155,6 +1155,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
 - [NicksIdeaEngine/dotfiles](https://github.com/NicksIdeaEngine/dotfiles) - Here are the dotfiles for my desktop and laptop. Currently under heavy construction. Will create the first 'release' once most of my config is uploaded.
 - [tpope/vim-fireplace](https://github.com/tpope/vim-fireplace) - fireplace.vim: Clojure REPL support
 - [habamax/vim-rst](https://github.com/habamax/vim-rst) - vim reStructuredText syntax and some more
