@@ -226,6 +226,7 @@
 
 ## Clojure 
 
+- [arttuka/reagent-material-ui](https://github.com/arttuka/reagent-material-ui) - Reagent wrapper for MUI (formerly Material UI) v5
 - [AppsFlyer/lein-protodeps](https://github.com/AppsFlyer/lein-protodeps) - Leiningen plugin for consuming and compiling protobuf schemas
 - [AppsFlyer/pronto](https://github.com/AppsFlyer/pronto) - Clojure support for protocol buffers
 - [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
