@@ -344,7 +344,7 @@
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
-- [aelsabbahy/goss](https://github.com/aelsabbahy/goss) - Quick and Easy server testing/validation
+- [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
 - [cockroachdb/cockroach](https://github.com/cockroachdb/cockroach) - CockroachDB - the open source, cloud-native distributed SQL database.
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [vmware-tanzu/octant](https://github.com/vmware-tanzu/octant) - Highly extensible platform for developers to better understand the complexity of Kubernetes clusters.
@@ -730,7 +730,6 @@
 - [kriansa/wmcompanion](https://github.com/kriansa/wmcompanion) - Desktop event listener for minimal window manager users
 - [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
-- [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 - [MisterDaneel/Ratio.py](https://github.com/MisterDaneel/Ratio.py) - Ratio.py is a small command line RatioMaster.Net like in Python3. It fakes upload stats of a torrent.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux
 - [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Literally just a script that is automatically ran via Windows Task Scheduler or Cron that logs into the Epic Games Store website and grabs the free games for the week.
