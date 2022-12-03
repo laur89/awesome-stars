@@ -967,6 +967,7 @@
 
 ## Shell 
 
+- [rahriver/Arch-Linux](https://github.com/rahriver/Arch-Linux) - Arch linux configurations
 - [Magisk-Modules-Alt-Repo/GMSDoze](https://github.com/Magisk-Modules-Alt-Repo/GMSDoze) - GMS Doze
 - [swizzin/swizzin](https://github.com/swizzin/swizzin) - A simple, modular seedbox solution
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
@@ -1022,7 +1023,7 @@
 - [wfxr/tmux-fzf-url](https://github.com/wfxr/tmux-fzf-url) - 🚀 Quickly open urls on your terminal screen!
 - [urbainvaes/fzf-marks](https://github.com/urbainvaes/fzf-marks) - Plugin to manage bookmarks in bash and zsh
 - [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional.
-- [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A shell script that uploads/deletes images to/from IMGUR.
+- [ram-on/imgurbash2](https://github.com/ram-on/imgurbash2) - A shell script that uploads/deletes local/remote images/videos to/from IMGUR.
 - [LukeSmithxyz/emailwiz](https://github.com/LukeSmithxyz/emailwiz) - Script that installs/configures a Dovecot, Postfix, Spam Assassin, OpenDKIM Debian web server
 - [helmuthdu/aui](https://github.com/helmuthdu/aui) - Archlinux Ultimate Install
 - [LukeSmithxyz/mutt-wizard](https://github.com/LukeSmithxyz/mutt-wizard) - A system for automatically configuring mutt and isync with a simple interface and safe passwords
