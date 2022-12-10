@@ -1060,7 +1060,7 @@
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [altercation/es-bin-arch](https://github.com/altercation/es-bin-arch) - utility scripts; lives in $HOME/bin
 - [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
-- [podshumok/docker-seafile](https://github.com/podshumok/docker-seafile) - Seafile docker image
+- [code-of-kpp/docker-seafile](https://github.com/code-of-kpp/docker-seafile) - Seafile docker image
 - [brianreumere/gandi-automatic-dns](https://github.com/brianreumere/gandi-automatic-dns) - A Bourne shell script to update Gandi.net zonefiles
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
