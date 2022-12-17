@@ -270,7 +270,6 @@
 
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) - 
-- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [nephatrine/docker-drone-ci](https://github.com/nephatrine/docker-drone-ci) - [mirror] Container w/ Drone & SQLite
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
 - [tiredofit/docker-db-backup](https://github.com/tiredofit/docker-db-backup) - Backup mutltiple databases types on a scheduled basis with many customizable options
@@ -678,6 +677,7 @@
 - [sjhgvr/oisd](https://github.com/sjhgvr/oisd) - oisd - domain blocklist
 - [firefly-iii/import-configurations](https://github.com/firefly-iii/import-configurations) - Support repository: User contributed import configurations to easily import CSV files into Firefly III
 - [joelacus/deluge-web-dark-theme](https://github.com/joelacus/deluge-web-dark-theme) - A modern dark theme for Deluge Web UI with custom accent colours and updated icons.
+- [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
 - [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
