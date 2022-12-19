@@ -302,6 +302,7 @@
 
 ## Go 
 
+- [l3uddz/tqm](https://github.com/l3uddz/tqm) - CLI application to manage torrent client queues and remove torrents that meet a specific criteria
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
 - [owl-torrent/joal-cli](https://github.com/owl-torrent/joal-cli) - 
