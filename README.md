@@ -497,7 +497,6 @@
 - [kensnyder/any-date-parser](https://github.com/kensnyder/any-date-parser) - Parse a wide range of date formats including human-input dates
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
 - [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
@@ -747,6 +746,7 @@
 - [olivierlemoal/i3-swap-focus](https://github.com/olivierlemoal/i3-swap-focus) - i3/sway script to toggle between last windows
 - [afonsoc12/firefly-cli](https://github.com/afonsoc12/firefly-cli) - A python-based command line interface for conveniently entering expenses in Firefly III.
 - [ow97/i3custom](https://github.com/ow97/i3custom) - Create custom i3 commands for use in your i3 config
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
