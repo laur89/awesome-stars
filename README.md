@@ -686,7 +686,7 @@
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
-- [cirala/vifm_devicons](https://github.com/cirala/vifm_devicons) - File and directory icons for Vifm (vi file manager)
+- [thimc/vifm_devicons](https://github.com/thimc/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [tatowicz/docker-ethminer](https://github.com/tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [nicomengual/firstrobot](https://github.com/nicomengual/firstrobot) - First Robot made on 2007
@@ -1000,7 +1000,7 @@
 - [cmcmahan/Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
 - [vlevit/notify-send.sh](https://github.com/vlevit/notify-send.sh) - drop-in replacement for notify-send with more features
 - [cytopia/i3blocks-modules](https://github.com/cytopia/i3blocks-modules) - Custom modules for i3blocks status bar
-- [cirala/vifmimg](https://github.com/cirala/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
+- [thimc/vifmimg](https://github.com/thimc/vifmimg) - Image previews for Vifm (vi file manager) using Überzug
 - [bryansteiner/gpu-passthrough-tutorial](https://github.com/bryansteiner/gpu-passthrough-tutorial) - 
 - [liskin/dotfiles](https://github.com/liskin/dotfiles) - My personal monorepo: dotfiles, /etc-files, single-file scripts, vim plugins, webexts/userscripts, xmonad config, all that stuff…
 - [photostructure/photostructure-for-servers](https://github.com/photostructure/photostructure-for-servers) - PhotoStructure for Servers
