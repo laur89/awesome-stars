@@ -233,6 +233,7 @@
 
 ## Clojure 
 
+- [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
 - [arttuka/reagent-material-ui](https://github.com/arttuka/reagent-material-ui) - Reagent wrapper for MUI (formerly Material UI) v5
 - [AppsFlyer/lein-protodeps](https://github.com/AppsFlyer/lein-protodeps) - Leiningen plugin for consuming and compiling protobuf schemas
@@ -695,7 +696,7 @@
 - [tatowicz/docker-ethminer](https://github.com/tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [nicomengual/firstrobot](https://github.com/nicomengual/firstrobot) - First Robot made on 2007
-- [joelparkerhenderson/demo-plantuml](https://github.com/joelparkerhenderson/demo-plantuml) - Demo PlantUML tool to render text markup as graphic diagrams
+- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
