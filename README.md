@@ -744,6 +744,7 @@
 
 ## Python 
 
+- [haiwen/seafile-docker](https://github.com/haiwen/seafile-docker) - A Docker image for Seafile server
 - [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [kriansa/wmcompanion](https://github.com/kriansa/wmcompanion) - Desktop event listener for minimal window manager users
 - [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
@@ -1176,6 +1177,7 @@
 
 ## Vala 
 
+- [Manuel-Kehl/Go-For-It](https://github.com/Manuel-Kehl/Go-For-It) - A stylish to-do list with built-in productivity timer. NOTE: all contributions should go to Jonathan Moerman's fork because this is where active development is taking place: https://github.com/JMoerma
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
 ## Vim Script 
