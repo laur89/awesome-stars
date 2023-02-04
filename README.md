@@ -744,6 +744,7 @@
 
 ## Python 
 
+- [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks
 - [haiwen/seafile-docker](https://github.com/haiwen/seafile-docker) - A Docker image for Seafile server
 - [hay-kot/mealie](https://github.com/hay-kot/mealie) - Mealie is a self hosted recipe manager and meal planner with a RestAPI backend and a reactive frontend application built in Vue for a pleasant user experience for the whole family. Easily add recipes 
 - [kriansa/wmcompanion](https://github.com/kriansa/wmcompanion) - Desktop event listener for minimal window manager users
@@ -1168,7 +1169,7 @@
 - [jinhduong/linq-fns](https://github.com/jinhduong/linq-fns) - 👴 LINQ for Javascript, written by TypeScript
 - [tridactyl/tridactyl](https://github.com/tridactyl/tridactyl) - A Vim-like interface for Firefox, inspired by Vimperator/Pentadactyl.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
-- [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+- [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
