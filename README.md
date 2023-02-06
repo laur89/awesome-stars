@@ -233,6 +233,7 @@
 
 ## Clojure 
 
+- [hugoduncan/criterium](https://github.com/hugoduncan/criterium) - Benchmarking library for clojure
 - [pitch-io/uix](https://github.com/pitch-io/uix) - Idiomatic ClojureScript interface to modern React.js
 - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
 - [typedclojure/typedclojure](https://github.com/typedclojure/typedclojure) - An optional type system for Clojure
