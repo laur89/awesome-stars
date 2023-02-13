@@ -520,7 +520,7 @@
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [dirkgroenen/mopidy-mopify](https://github.com/dirkgroenen/mopidy-mopify) - A web client that uses external web services to provide additional features and a more “complete” music experience.
-- [cowbell/mopster](https://github.com/cowbell/mopster) - Mopidy client written in Ember.js
+- [morgoth/mopster](https://github.com/morgoth/mopster) - Mopidy client written in Ember.js
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
 - [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
