@@ -185,6 +185,8 @@
 
 ## C++ 
 
+- [web-eid/web-eid-app](https://github.com/web-eid/web-eid-app) - The Web eID application performs cryptographic digital signing and authentication operations with electronic ID smart cards for the Web eID browser extension
+- [open-eid/DigiDoc4-Client](https://github.com/open-eid/DigiDoc4-Client) - DigiDoc4 Client is an application for digitally signing and encrypting documents; the software includes functionality to manage Estonian ID-card - change pin codes etc.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
@@ -1011,6 +1013,7 @@
 
 ## Shell 
 
+- [oskarkook/qdigidoc-flatpak](https://github.com/oskarkook/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [flexibeast/guides](https://github.com/flexibeast/guides) - A collection of ICT guides that people might find helpful.
 - [rahriver/Arch-Linux](https://github.com/rahriver/Arch-Linux) - Arch linux configurations
 - [Magisk-Modules-Alt-Repo/GMSDoze](https://github.com/Magisk-Modules-Alt-Repo/GMSDoze) - GMS Doze
