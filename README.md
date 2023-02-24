@@ -241,6 +241,7 @@
 
 ## Clojure 
 
+- [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) - 
 - [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) - A subscriptions library over a source of data (forked + extracted from re-frame)
 - [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
 - [ptaoussanis/sente](https://github.com/ptaoussanis/sente) - Realtime web comms for Clojure/Script
@@ -761,6 +762,7 @@
 
 ## Python 
 
+- [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 130+ Indicators
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -1014,6 +1016,7 @@
 
 ## Shell 
 
+- [perfectglitch/zone-ee-lets-encrypt-wildcard](https://github.com/perfectglitch/zone-ee-lets-encrypt-wildcard) - 
 - [oskarkook/qdigidoc-flatpak](https://github.com/oskarkook/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [flexibeast/guides](https://github.com/flexibeast/guides) - A collection of ICT guides that people might find helpful.
 - [rahriver/Arch-Linux](https://github.com/rahriver/Arch-Linux) - Arch linux configurations
