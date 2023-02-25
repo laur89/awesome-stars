@@ -751,6 +751,8 @@
 
 ## Perl 
 
+- [mina86/urxvt-tabbedex](https://github.com/mina86/urxvt-tabbedex) - Tabbed plugin for rxvt-unicode with many enhancements
+- [gryf/tabbedalt](https://github.com/gryf/tabbedalt) - Extended tabbed plugin for rxvt-unicode (urxvt)
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
 - [thoughtbot/rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 - [so-fancy/diff-so-fancy](https://github.com/so-fancy/diff-so-fancy) - Good-lookin' diffs. Actually… nah… The best-lookin' diffs. :tada:
@@ -1016,6 +1018,7 @@
 
 ## Shell 
 
+- [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [perfectglitch/zone-ee-lets-encrypt-wildcard](https://github.com/perfectglitch/zone-ee-lets-encrypt-wildcard) - 
 - [oskarkook/qdigidoc-flatpak](https://github.com/oskarkook/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [flexibeast/guides](https://github.com/flexibeast/guides) - A collection of ICT guides that people might find helpful.
