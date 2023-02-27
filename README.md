@@ -242,6 +242,7 @@
 
 ## Clojure 
 
+- [Spelchure/clompress](https://github.com/Spelchure/clompress) - Clompress is easy to use library for working with archives, compression and decompression in Clojure.
 - [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) - 
 - [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) - A subscriptions library over a source of data (forked + extracted from re-frame)
 - [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
@@ -681,6 +682,7 @@
 
 ## Makefile 
 
+- [manna-harbour/miryoku](https://github.com/manna-harbour/miryoku) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout.
 - [foostan/crkbd](https://github.com/foostan/crkbd) - Corne keyboard, a split keyboard with 3x6 column staggered keys and 3 thumb keys.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [CodyReichert/awesome-cl](https://github.com/CodyReichert/awesome-cl) - A curated list of awesome Common Lisp frameworks, libraries and other shiny stuff.
