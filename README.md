@@ -700,7 +700,7 @@
 
 ## OpenSCAD 
 
-- [wolfwood/trackpoint-keycap-mods](https://github.com/wolfwood/trackpoint-keycap-mods) - mod 3D printable keycaps to fit next to the Santoku and other keyboard's trackpoints
+- [wolfwood/trackpoint-keycap-mods](https://github.com/wolfwood/trackpoint-keycap-mods) - mod 3D printable keycaps for easier printing and to fit next to the Santoku and other keyboard's trackpoints
 
 ## Others 
 
