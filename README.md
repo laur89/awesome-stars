@@ -13,6 +13,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [Clojure](#clojure)
+- [Common Lisp](#common-lisp)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -242,6 +243,7 @@
 
 ## Clojure 
 
+- [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - 
 - [nextjournal/clerk-slideshow](https://github.com/nextjournal/clerk-slideshow) - 
 - [viesti/clj-lambda-layered](https://github.com/viesti/clj-lambda-layered) - A sample on how to split the lib deps of a JVM/Clojure lambda into a layer
 - [Spelchure/clompress](https://github.com/Spelchure/clompress) - Clompress is easy to use library for working with archives, compression and decompression in Clojure.
@@ -288,6 +290,10 @@
 - [abstracthat/dactyl-manuform](https://github.com/abstracthat/dactyl-manuform) - 
 - [razum2um/awesome-clojure](https://github.com/razum2um/awesome-clojure) - A curated list of awesome Clojure libraries and resources. Inspired by awesome-... stuff
 - [binaryage/cljs-devtools](https://github.com/binaryage/cljs-devtools) - A collection of Chrome DevTools enhancements for ClojureScript developers
+
+## Common Lisp 
+
+- [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's power-browser.
 
 ## Dart 
 
@@ -771,6 +777,7 @@
 
 ## Python 
 
+- [Zren/plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands in KDE Plasma through rofi, much like the Unity 7 Heads-Up Display (HUD).
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - :computer: tmux session manager. built on libtmux
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
