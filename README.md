@@ -165,6 +165,7 @@
 
 ## C# # 
 
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
@@ -335,6 +336,7 @@
 
 ## Go 
 
+- [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
 - [l3uddz/tqm](https://github.com/l3uddz/tqm) - CLI application to manage torrent client queues and remove torrents that meet a specific criteria
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool
@@ -973,6 +975,8 @@
 
 ## Rust 
 
+- [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
+- [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 - [neovide/neovide](https://github.com/neovide/neovide) - No Nonsense Neovim Client in Rust
 - [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 - [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces
@@ -1189,7 +1193,6 @@
 - [laurent22/joplin](https://github.com/laurent22/joplin) - Joplin - an open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.
 - [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
-- [bloomrpc/bloomrpc](https://github.com/bloomrpc/bloomrpc) - Former GUI client for gRPC services. No longer maintained.
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.
