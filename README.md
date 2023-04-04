@@ -1032,6 +1032,7 @@
 
 ## Scheme 
 
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 - [scheme/scsh](https://github.com/scheme/scsh) - A Unix shell embedded in scheme
 
 ## Shell 
