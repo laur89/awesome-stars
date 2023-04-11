@@ -245,6 +245,7 @@
 
 ## Clojure 
 
+- [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
 - [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - 
 - [nextjournal/clerk-slideshow](https://github.com/nextjournal/clerk-slideshow) - 
 - [viesti/clj-lambda-layered](https://github.com/viesti/clj-lambda-layered) - A sample on how to split the lib deps of a JVM/Clojure lambda into a layer
