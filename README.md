@@ -230,7 +230,7 @@
 - [boysetsfrog/vimpc](https://github.com/boysetsfrog/vimpc) - Official repository for vimpc a vi/vim inspired client for the Music Player Daemon (mpd). Pull requests are welcome.
 - [Here-Be-Dragons/familamp](https://github.com/Here-Be-Dragons/familamp) - Cloud-synchronized lamps
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the keyboard and mouse sharing tool
+- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
 
 ## CSS 
 
