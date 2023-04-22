@@ -246,6 +246,7 @@
 
 ## Clojure 
 
+- [veikman/dmote-keycap](https://github.com/veikman/dmote-keycap) - Printable keycap models for mechanical keyboards
 - [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
 - [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - 
 - [nextjournal/clerk-slideshow](https://github.com/nextjournal/clerk-slideshow) - 
@@ -1067,7 +1068,7 @@
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [DMBuce/i3b](https://github.com/DMBuce/i3b) - Window manager scripts and configs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
-- [infokiller/config-public](https://github.com/infokiller/config-public) - Linux/WSL config to optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, selfquant, firejail, systemd, etc
+- [infokiller/config-public](https://github.com/infokiller/config-public) - Optimize ergonomics, security, and productivity: vim/neovim, zsh, tmux, i3, emacs, vscode, ipython, jupyter, ranger, fzf, kitty, xkb, quantself, systemd, etc
 - [tmux-plugins/tmux-open](https://github.com/tmux-plugins/tmux-open) - Tmux key bindings for quick opening of a highlighted file or url
 - [infokiller/win10-vm](https://github.com/infokiller/win10-vm) - Windows 10/11 VM on Linux (QEMU/KVM) with Secure Boot, BitLocker, and good performance
 - [arfoll/unrarall](https://github.com/arfoll/unrarall) - bash script to unrar everything and cleanup in a given directory
