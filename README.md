@@ -246,6 +246,10 @@
 
 ## Clojure 
 
+- [weavejester/cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
+- [nrepl/nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
+- [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
+- [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [veikman/dmote-keycap](https://github.com/veikman/dmote-keycap) - Printable keycap models for mechanical keyboards
 - [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
 - [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - 
@@ -340,6 +344,7 @@
 
 ## Go 
 
+- [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
 - [Cloudbox/autoscan](https://github.com/Cloudbox/autoscan) - Autoscan replaces the default Plex and Emby behaviour for picking up changes on the file system.
