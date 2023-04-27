@@ -195,7 +195,6 @@
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect on LLVM with gradual typing, a native runtime, and C++ interop
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
-- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
@@ -246,6 +245,14 @@
 
 ## Clojure 
 
+- [joinr/spork](https://github.com/joinr/spork) - Spoon's Operations Research Kit
+- [joinr/onramp](https://github.com/joinr/onramp) - a repo for on ramping tutorials and exercises
+- [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
+- [thheller/shadow-grove](https://github.com/thheller/shadow-grove) - A ClojureScript system to build browser based frontends
+- [johnmn3/injest](https://github.com/johnmn3/injest) - +&gt;, +&gt;&gt;, x&gt;&gt;, =&gt;&gt;: Auto-transducifying, auto-parallelizing path thread macros
+- [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
+- [clj-commons/durable-queue](https://github.com/clj-commons/durable-queue) - a disk-backed queue for clojure
+- [rborer/curator](https://github.com/rborer/curator) - Clojurified Apache Curator
 - [weavejester/cljfmt](https://github.com/weavejester/cljfmt) - A tool for formatting Clojure code
 - [nrepl/nrepl](https://github.com/nrepl/nrepl) - A Clojure network REPL that provides a server and client, along with some common APIs of use to IDEs and other tools that may need to evaluate Clojure code in remote environments.
 - [babashka/babashka](https://github.com/babashka/babashka) - Native, fast starting Clojure interpreter for scripting
@@ -439,6 +446,7 @@
 
 ## HTML 
 
+- [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer) - JPAstreamer is a lightweight library for expressing JPA queries as Java Streams
 - [roman01la/uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
@@ -465,6 +473,7 @@
 
 ## Java 
 
+- [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
@@ -731,6 +740,7 @@
 
 ## Others 
 
+- [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations) - 
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
 - [Bastardkb/Charybdis](https://github.com/Bastardkb/Charybdis) - 
 - [nilokr/cantor-remix](https://github.com/nilokr/cantor-remix) - Cantor keyboard by diepala with minor changes
@@ -819,6 +829,7 @@
 - [jeffgran/ManuForm](https://github.com/jeffgran/ManuForm) - Design files for my ManuForm custom keyboard
 - [ASebastian27/Reddit-Account-Generator](https://github.com/ASebastian27/Reddit-Account-Generator) - (Semi)Automagically generates Reddit accounts
 - [vincentbernat/i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration) - 
+- [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [l3uddz/traktarr](https://github.com/l3uddz/traktarr) - Script to add new series & movies to Sonarr/Radarr based on Trakt lists.
