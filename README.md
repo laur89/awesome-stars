@@ -244,6 +244,7 @@
 
 ## Clojure 
 
+- [mogenslund/liquid](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
 - [kit-clj/kit](https://github.com/kit-clj/kit) - Lightweight, modular framework for scalable web development in Clojure
 - [joinr/spork](https://github.com/joinr/spork) - Spoon's Operations Research Kit
@@ -503,7 +504,7 @@
 - [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
 - [Netflix/zuul](https://github.com/Netflix/zuul) - Zuul is a gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 - [quarkusio/quarkus](https://github.com/quarkusio/quarkus) - Quarkus: Supersonic Subatomic Java.
-- [messaginghub/pooled-jms](https://github.com/messaginghub/pooled-jms) - A JMS Connection pool for messaging applications supporting JMS 1.1 and 2.0 clients
+- [messaginghub/pooled-jms](https://github.com/messaginghub/pooled-jms) - A JMS Connection pool for messaging applications supporting JMS 1.1 and 2.0 and Jakarta JMS clients
 - [jOOQ/jOOL](https://github.com/jOOQ/jOOL) - jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality
 - [npgall/cqengine](https://github.com/npgall/cqengine) - Ultra-fast SQL-like queries on Java collections
 - [linkedin/brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
@@ -543,6 +544,7 @@
 
 ## JavaScript 
 
+- [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT) - 🚀 Introducing 🐪 CAMEL: a game-changing role-playing approach for LLMs and auto-agents like BabyAGI & AutoGPT! Watch two agents 🤝 collaborate and solve tasks together, unlocking endless possibilities i
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
 - [Foldex/surfingkeys-config](https://github.com/Foldex/surfingkeys-config) - Surfing Keys Config / Themes
 - [benphelps/homepage](https://github.com/benphelps/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
@@ -738,6 +740,7 @@
 
 ## OpenSCAD 
 
+- [pseudoku/ErgoWarp](https://github.com/pseudoku/ErgoWarp) - Design Log and OpenSCAD code repo for Custom Split Keyboard
 - [wolfwood/printed-keycap-mods](https://github.com/wolfwood/printed-keycap-mods) - mod 3D printable keycaps for easier printing and to fit next to the Santoku and other keyboard's trackpoints
 
 ## Others 
