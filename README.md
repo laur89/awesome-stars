@@ -75,6 +75,7 @@
 
 ## C 
 
+- [lcn2/calc](https://github.com/lcn2/calc) - C-style arbitrary precision calculator
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [Zot1881/firmware](https://github.com/Zot1881/firmware) - Ultimate Hacking Keyboard firmware with per key coloring via macros commands
 - [manna-harbour/crkbd](https://github.com/manna-harbour/crkbd) - Crkbd Keymap by Manna Harbour (Extras).  This keymap includes crkbd-specific hardware feature support.  This repository provides additional content outside QMK.
@@ -244,6 +245,9 @@
 
 ## Clojure 
 
+- [mark-watson/Clojure-AI-Book-Code](https://github.com/mark-watson/Clojure-AI-Book-Code) - Examples for Clojure AI book
+- [originrose/cortex](https://github.com/originrose/cortex) - Machine learning in Clojure
+- [uncomplicate/bayadera](https://github.com/uncomplicate/bayadera) - High-performance Bayesian Data Analysis on the GPU in Clojure
 - [clojure/core.async](https://github.com/clojure/core.async) - Facilities for async programming and communication in Clojure
 - [mogenslund/liquid](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
 - [walmartlabs/lacinia](https://github.com/walmartlabs/lacinia) - GraphQL implementation in pure Clojure
