@@ -245,6 +245,14 @@
 
 ## Clojure 
 
+- [denistakeda/re-posh](https://github.com/denistakeda/re-posh) - Use your re-frame with DataScript as a data storage
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
+- [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
+- [fulcrologic/fulcro-rad](https://github.com/fulcrologic/fulcro-rad) - Fulcro Rapid Application Development
+- [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom) - Pathom is a Clojure(script) engine for processing EQL requests.
+- [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
+- [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
+- [keychera/panas.reload](https://github.com/keychera/panas.reload) - a hot reload for babashka serving html+css (or htmx)
 - [mark-watson/Clojure-AI-Book-Code](https://github.com/mark-watson/Clojure-AI-Book-Code) - Examples for Clojure AI book
 - [originrose/cortex](https://github.com/originrose/cortex) - Machine learning in Clojure
 - [uncomplicate/bayadera](https://github.com/uncomplicate/bayadera) - High-performance Bayesian Data Analysis on the GPU in Clojure
@@ -480,6 +488,8 @@
 
 ## Java 
 
+- [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
+- [fredoverflow/freditor](https://github.com/fredoverflow/freditor) - A custom source code editor for clopad, karel and skorbut
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
