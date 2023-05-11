@@ -488,6 +488,7 @@
 
 ## Java 
 
+- [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
 - [fredoverflow/freditor](https://github.com/fredoverflow/freditor) - A custom source code editor for clopad, karel and skorbut
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -1221,6 +1222,7 @@
 
 ## TypeScript 
 
+- [NoahTheDuke/coc-clojure](https://github.com/NoahTheDuke/coc-clojure) - coc.nvim plugin for clojure-lsp
 - [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
