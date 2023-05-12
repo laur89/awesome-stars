@@ -245,6 +245,13 @@
 
 ## Clojure 
 
+- [hoplon/hoplon](https://github.com/hoplon/hoplon) - Hoplon web development tools and libraries.
+- [clj-commons/hickory](https://github.com/clj-commons/hickory) - HTML as data
+- [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
+- [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
+- [dakra/mui-templates](https://github.com/dakra/mui-templates) - material-ui templates in hiccup with reagent, re-frame, shadowcljs, reitit
+- [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3) - A library for navigating data.
+- [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 - [denistakeda/re-posh](https://github.com/denistakeda/re-posh) - Use your re-frame with DataScript as a data storage
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
 - [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
@@ -827,6 +834,7 @@
 
 ## Python 
 
+- [cnuernber/facial-rec](https://github.com/cnuernber/facial-rec) - Facial rec tech
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best place to find icons for your dashboards.
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
