@@ -235,6 +235,7 @@
 ## CSS 
 
 - [GilbN/theme.park](https://github.com/GilbN/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [MrOtherGuy/firefox-csshacks](https://github.com/MrOtherGuy/firefox-csshacks) - Collection of userstyles affecting the browser
 - [Rahlir/theme-gruvbox](https://github.com/Rahlir/theme-gruvbox) - Gruvbox dark theme for Jupyter Lab. Modeled on classic gruvbox color palette and jupyter-themes gruvbox theme
 - [bennetthardwick/gruvbox-gtk](https://github.com/bennetthardwick/gruvbox-gtk) - Arc theme but with gruvbox colours.
@@ -586,7 +587,6 @@
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
-- [h3llrais3r/Auto-Subliminal](https://github.com/h3llrais3r/Auto-Subliminal) - Auto-Subliminal, the automated subliminal subtitle downloader
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
 - [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
@@ -639,7 +639,6 @@
 - [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 - [jimmywarting/StreamSaver.js](https://github.com/jimmywarting/StreamSaver.js) - StreamSaver writes stream to the filesystem directly asynchronous
 - [latentflip/webpack-unused](https://github.com/latentflip/webpack-unused) - Check your frontend code for files/assets that are no longer used.
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [skidding/react-testing-examples](https://github.com/skidding/react-testing-examples) - Searchable library of React testing examples
 - [SBoudrias/Inquirer.js](https://github.com/SBoudrias/Inquirer.js) - A collection of common interactive command line user interfaces.
 - [downshift-js/downshift](https://github.com/downshift-js/downshift) - 🏎 A set of primitives to build simple, flexible, WAI-ARIA compliant React autocomplete, combobox or select dropdown components.
@@ -1260,6 +1259,7 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - :rocket:  A fully-featured, production ready caching GraphQL client for every UI framework and GraphQL server.
 - [dunglas/react-esi](https://github.com/dunglas/react-esi) - React ESI: Blazing-fast Server-Side Rendering for React and Next.js
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
+- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [dilanx/craco](https://github.com/dilanx/craco) - Create React App Configuration Override, an easy and comprehensible configuration layer for Create React App.
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
