@@ -242,6 +242,7 @@
 
 ## Clojure 
 
+- [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [hoplon/hoplon](https://github.com/hoplon/hoplon) - Hoplon web development tools and libraries.
 - [clj-commons/hickory](https://github.com/clj-commons/hickory) - HTML as data
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
@@ -466,8 +467,10 @@
 
 ## HTML 
 
+- [sritchie/clojure-conj-2023](https://github.com/sritchie/clojure-conj-2023) - Talk from the Clojure/Conj 2023 conference.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer) - JPAstreamer is a lightweight library for expressing JPA queries as Java Streams
+- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [roman01la/uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [quietsy/advanced-configurations](https://github.com/quietsy/advanced-configurations) - 
@@ -1035,6 +1038,7 @@
 
 ## Rust 
 
+- [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
 - [proot-me/proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [Spotifyd/spotifyd](https://github.com/Spotifyd/spotifyd) - A spotify daemon
 - [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
@@ -1097,6 +1101,7 @@
 
 ## Shell 
 
+- [Rexypoo/docker-entrypoint-helper](https://github.com/Rexypoo/docker-entrypoint-helper) - Docker entrypoint script to run containers as an unprivileged user with UID and GID set to be compatible with the host machine
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [perfectglitch/zone-ee-lets-encrypt-wildcard](https://github.com/perfectglitch/zone-ee-lets-encrypt-wildcard) - 
 - [oskarkook/qdigidoc-flatpak](https://github.com/oskarkook/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
@@ -1228,7 +1233,6 @@
 ## TypeScript 
 
 - [NoahTheDuke/coc-clojure](https://github.com/NoahTheDuke/coc-clojure) - coc.nvim plugin for clojure-lsp
-- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser's home page to interact with your homeserver's Docker containers (e.g. Sonarr/Radarr)
 - [UltimateHackingKeyboard/agent](https://github.com/UltimateHackingKeyboard/agent) - Ultimate Hacking Keyboard configurator
 - [davewasmer/devcert](https://github.com/davewasmer/devcert) - Local HTTPS development made easy
 - [ryansolid/vuerx-jsx](https://github.com/ryansolid/vuerx-jsx) - Vue Reactivity with Fine-Grained Rendering
