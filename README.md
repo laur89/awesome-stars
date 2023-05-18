@@ -242,6 +242,7 @@
 
 ## Clojure 
 
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 - [arifian/4clojure](https://github.com/arifian/4clojure) - An interactive problem website for learning Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [hoplon/hoplon](https://github.com/hoplon/hoplon) - Hoplon web development tools and libraries.
