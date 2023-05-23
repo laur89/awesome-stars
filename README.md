@@ -374,6 +374,7 @@
 
 ## Go 
 
+- [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
 - [fullstorydev/grpcui](https://github.com/fullstorydev/grpcui) - An interactive web UI for gRPC, along the lines of postman
