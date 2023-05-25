@@ -242,6 +242,10 @@
 
 ## Clojure 
 
+- [lipas-liikuntapaikat/lipas](https://github.com/lipas-liikuntapaikat/lipas) - Lipas is a nationwide, public GIS service of Finnish sport facilities.
+- [JoelSanchez/ventas](https://github.com/JoelSanchez/ventas) - Clojure ecommerce platform
+- [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
+- [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - General-purpose bitemporal database for SQL, Datalog & graph queries. Developed by @juxt
 - [arifian/4clojure](https://github.com/arifian/4clojure) - An interactive problem website for learning Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
