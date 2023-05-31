@@ -567,7 +567,7 @@
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [springfox/springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
 - [openzipkin/zipkin](https://github.com/openzipkin/zipkin) - Zipkin is a distributed tracing system
-- [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open source log management
+- [Graylog2/graylog2-server](https://github.com/Graylog2/graylog2-server) - Free and open log management
 - [aleksandr-m/gitflow-maven-plugin](https://github.com/aleksandr-m/gitflow-maven-plugin) - The Git-Flow Maven Plugin supports various Git workflows, including GitFlow and GitHub Flow. This plugin runs Git and Maven commands from the command line.
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [julianhyde/sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC
