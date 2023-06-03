@@ -773,6 +773,7 @@
 
 ## OpenSCAD 
 
+- [wolfwood/tryadactyl](https://github.com/wolfwood/tryadactyl) - Methodology for custom tuning a concave, column-staggered, split keyboard with thumb clusters (AKA Dactyl). Centered on an OpenSCAD library for designing all sorts of ortholinear-ish keyboards support
 - [pseudoku/ErgoWarp](https://github.com/pseudoku/ErgoWarp) - Design Log and OpenSCAD code repo for Custom Split Keyboard
 - [wolfwood/printed-keycap-mods](https://github.com/wolfwood/printed-keycap-mods) - mod 3D printable keycaps for easier printing and to fit next to the Santoku and other keyboard's trackpoints
 
@@ -1303,7 +1304,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
-- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+- [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
 ## Vala 
 
