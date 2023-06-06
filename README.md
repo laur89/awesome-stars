@@ -403,7 +403,7 @@
 - [gravitational/drone-fork-approval-extension](https://github.com/gravitational/drone-fork-approval-extension) - Drone extension to force build approval on pull requests from forks.
 - [appleboy/drone-lambda](https://github.com/appleboy/drone-lambda) - Deploying Lambda code with drone CI to an existing function
 - [github-release/github-release](https://github.com/github-release/github-release) - Commandline app to create and edit releases on Github (and upload artifacts)
-- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative IPS able to analyze visitor behavior & provide an adapted response to all kinds of attacks. It also leverages the crowd power to generate a global CTI data
+- [crowdsecurity/crowdsec](https://github.com/crowdsecurity/crowdsec) - CrowdSec - the open-source and participative security solution offering crowdsourced protection against malicious IPs and access to the most advanced real-world CTI.
 - [appleboy/drone-git-push](https://github.com/appleboy/drone-git-push) - Drone plugin for deploying code using git push
 - [containers/skopeo](https://github.com/containers/skopeo) - Work with remote images registries - retrieving information, images, signing content
 - [ucphhpc/docker-volume-sshfs](https://github.com/ucphhpc/docker-volume-sshfs) - sshfs docker volume plugin
