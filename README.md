@@ -677,7 +677,6 @@
 - [sweet-js/sweet-core](https://github.com/sweet-js/sweet-core) - Sweeten your JavaScript.
 - [coderitual/bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
@@ -1199,6 +1198,7 @@
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [Ventto/xpub](https://github.com/Ventto/xpub) - POSIX Shell script to get user's display environment variables of any TTY from anywhere.
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
+- [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config) - I3 tiling window manager configuration
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
