@@ -477,6 +477,7 @@
 
 ## HTML 
 
+- [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
 - [sritchie/clojure-conj-2023](https://github.com/sritchie/clojure-conj-2023) - Talk from the Clojure/Conj 2023 conference.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
 - [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer) - JPAstreamer is a lightweight library for expressing JPA queries as Java Streams
@@ -843,6 +844,7 @@
 
 ## Python 
 
+- [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist:
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
