@@ -480,7 +480,6 @@
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
 - [sritchie/clojure-conj-2023](https://github.com/sritchie/clojure-conj-2023) - Talk from the Clojure/Conj 2023 conference.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
-- [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer) - JPAstreamer is a lightweight library for expressing JPA queries as Java Streams
 - [roman01la/uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [quietsy/advanced-configurations](https://github.com/quietsy/advanced-configurations) - 
@@ -510,6 +509,7 @@
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
 - [fredoverflow/freditor](https://github.com/fredoverflow/freditor) - A custom source code editor for clopad, karel and skorbut
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
+- [speedment/jpa-streamer](https://github.com/speedment/jpa-streamer) - JPAstreamer is a lightweight library for expressing JPA queries as Java Streams
 - [datafaker-net/datafaker](https://github.com/datafaker-net/datafaker) - Generating fake data for the JVM (Java, Kotlin, Groovy) has never been easier!
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [hvdwolf/jExifToolGUI](https://github.com/hvdwolf/jExifToolGUI) - jExifToolGUI is a multi-platform java/Swing graphical frontend for the excellent command-line ExifTool application by Phil Harvey
