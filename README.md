@@ -42,6 +42,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Perl](#perl)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -295,7 +296,7 @@
 - [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) - 
 - [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) - A subscriptions library over a source of data (forked + extracted from re-frame)
 - [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
-- [ptaoussanis/sente](https://github.com/ptaoussanis/sente) - Realtime web comms for Clojure/Script
+- [ptaoussanis/sente](https://github.com/ptaoussanis/sente) - Realtime web comms for Clojure/Script applications
 - [hugoduncan/criterium](https://github.com/hugoduncan/criterium) - Benchmarking library for clojure
 - [pitch-io/uix](https://github.com/pitch-io/uix) - Idiomatic ClojureScript interface to modern React.js
 - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
@@ -309,10 +310,10 @@
 - [hyperfiddle/rcf](https://github.com/hyperfiddle/rcf) - RCF – a REPL-first, async test macro for Clojure/Script
 - [uswitch/lambada](https://github.com/uswitch/lambada) - A more passionate way to write AWS Lambda functions
 - [weavejester/integrant](https://github.com/weavejester/integrant) - Micro-framework for data-driven architecture
-- [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client and message queue for Clojure
+- [ptaoussanis/carmine](https://github.com/ptaoussanis/carmine) - Redis client + message queue for Clojure
 - [ring-clojure/ring](https://github.com/ring-clojure/ring) - Clojure HTTP server abstraction
 - [weavejester/compojure](https://github.com/weavejester/compojure) - A concise routing library for Ring/Clojure
-- [ptaoussanis/nippy](https://github.com/ptaoussanis/nippy) - High-performance serialization library for Clojure
+- [ptaoussanis/nippy](https://github.com/ptaoussanis/nippy) - The fastest serialization library for Clojure
 - [onyx-platform/onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing
 - [seancorfield/honeysql](https://github.com/seancorfield/honeysql) - Turn Clojure data structures into SQL
 - [aphyr/tesser](https://github.com/aphyr/tesser) - Clojure reducers, but for parallel execution: locally and on distributed systems.
@@ -848,8 +849,13 @@
 - [Aralhach/bashobfus](https://github.com/Aralhach/bashobfus) - A small bash minifier/obfuscator written in Perl.
 - [Merovius/shellex](https://github.com/Merovius/shellex) - Shell-based launcher
 
+## PowerShell 
+
+- [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
 ## Python 
 
+- [vivien/helpers-for-i3](https://github.com/vivien/helpers-for-i3) - Bench of handy scripts for the i3 window manager
 - [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
