@@ -1333,6 +1333,7 @@
 
 ## Vim Script 
 
+- [kshenoy/dotfiles](https://github.com/kshenoy/dotfiles) - 
 - [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of Vim functions
 - [tpope/vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
 - [NicksIdeaEngine/dotfiles](https://github.com/NicksIdeaEngine/dotfiles) - Here are the dotfiles for my desktop and laptop. Currently under heavy construction. Will create the first 'release' once most of my config is uploaded.
