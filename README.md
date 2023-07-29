@@ -1066,6 +1066,7 @@
 
 ## Rust 
 
+- [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A tiny, self-contained, configurable paste bin and URL shortener written in Rust.
 - [jmakov/dragonflybot](https://github.com/jmakov/dragonflybot) - A vertically scalable stream processing framework focusing on low latency, helping you scale and consume financial data feeds.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
