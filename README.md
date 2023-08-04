@@ -480,6 +480,7 @@
 
 ## HTML 
 
+- [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
 - [sritchie/clojure-conj-2023](https://github.com/sritchie/clojure-conj-2023) - Talk from the Clojure/Conj 2023 conference.
