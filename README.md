@@ -201,7 +201,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), compressed file
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW ugrep v3.12: ultra fast grep with interactive TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax), co
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
@@ -685,7 +685,6 @@
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
 - [Ericsson/exchangecalendar](https://github.com/Ericsson/exchangecalendar) - Exchange 2007/2010/2013 Calendar, Tasks, Contacts and GAL Provider.
@@ -1323,6 +1322,7 @@
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [vuejs/vue](https://github.com/vuejs/vue) - This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core
 - [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
+- [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [vector-im/element-web](https://github.com/vector-im/element-web) - A glossy Matrix collaboration client for the web.
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
@@ -1336,6 +1336,9 @@
 
 ## Vim Script 
 
+- [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
+- [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
+- [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
 - [kshenoy/dotfiles](https://github.com/kshenoy/dotfiles) - 
 - [LucHermitte/lh-vim-lib](https://github.com/LucHermitte/lh-vim-lib) - Library of Vim functions
 - [tpope/vim-ragtag](https://github.com/tpope/vim-ragtag) - ragtag.vim: ghetto HTML/XML mappings (formerly allml.vim)
