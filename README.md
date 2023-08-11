@@ -1135,6 +1135,7 @@
 
 ## Shell 
 
+- [Freaky/run-one](https://github.com/Freaky/run-one) - A BSD-compatible reimplementation of Ubuntu's run-one
 - [Rexypoo/docker-entrypoint-helper](https://github.com/Rexypoo/docker-entrypoint-helper) - Docker entrypoint script to run containers as an unprivileged user with UID and GID set to be compatible with the host machine
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
 - [perfectglitch/zone-ee-lets-encrypt-wildcard](https://github.com/perfectglitch/zone-ee-lets-encrypt-wildcard) - 
