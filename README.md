@@ -73,6 +73,7 @@
 
 ## C 
 
+- [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [rumpeltux/brother-scand](https://github.com/rumpeltux/brother-scand) - Network driver for Brother scanner devices. Daemon for press-to-scan functionality.
 - [lcn2/calc](https://github.com/lcn2/calc) - C-style arbitrary precision calculator
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
