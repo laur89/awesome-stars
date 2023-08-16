@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ActionScript](#actionscript)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -59,6 +60,10 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
+
+## ActionScript 
+
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Awk 
 
