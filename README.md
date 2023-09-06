@@ -45,6 +45,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Racket](#racket)
 - [Reason](#reason)
 - [Roff](#roff)
@@ -866,6 +867,7 @@
 
 ## Python 
 
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -1048,6 +1050,10 @@
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
 
+## QML 
+
+- [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
+
 ## Racket 
 
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
@@ -1147,6 +1153,7 @@
 
 ## Shell 
 
+- [faekz0r/zone.eu-ddns](https://github.com/faekz0r/zone.eu-ddns) - Dynamic DNS bash script for zone.eu API
 - [Freaky/run-one](https://github.com/Freaky/run-one) - A BSD-compatible reimplementation of Ubuntu's run-one
 - [Rexypoo/docker-entrypoint-helper](https://github.com/Rexypoo/docker-entrypoint-helper) - Docker entrypoint script to run containers as an unprivileged user with UID and GID set to be compatible with the host machine
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
