@@ -1089,6 +1089,7 @@
 
 ## Rust 
 
+- [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
