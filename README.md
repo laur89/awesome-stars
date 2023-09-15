@@ -79,6 +79,8 @@
 
 ## C 
 
+- [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
+- [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
 - [debauchee/barrier](https://github.com/debauchee/barrier) - Open-source KVM software
 - [rumpeltux/brother-scand](https://github.com/rumpeltux/brother-scand) - Network driver for Brother scanner devices. Daemon for press-to-scan functionality.
@@ -1363,6 +1365,7 @@
 
 ## Vim Script 
 
+- [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
 - [luochen1990/rainbow](https://github.com/luochen1990/rainbow) - Rainbow Parentheses Improved, shorter code, no level limit, smooth and fast, powerful configuration.
 - [mhinz/vim-signify](https://github.com/mhinz/vim-signify) - :heavy_plus_sign: Show a diff using Vim its sign column.
