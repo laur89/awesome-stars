@@ -211,7 +211,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.0: a faster, user-friendly grep replacement. Includes TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps, searches nested archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍NEW version 4.1: a faster, user-friendly grep replacement. Includes TUI, boolean queries (AND/OR/NOT), fuzzy search, hexdumps, searches nested archives (cpio/tar/pax/zip), compressed files (zip/gz/Z/
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
