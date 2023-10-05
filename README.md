@@ -1027,7 +1027,6 @@
 - [sainathadapa/i3-wm-multi-disp-scripts](https://github.com/sainathadapa/i3-wm-multi-disp-scripts) - Scripts to navigate a multi-monitor setup in I3 WM
 - [jceb/dex](https://github.com/jceb/dex) - DesktopEntry Execution
 - [qutebrowser/qutebrowser](https://github.com/qutebrowser/qutebrowser) - A keyboard-driven, vim-like browser based on Python and Qt.
-- [Donearm/configs](https://github.com/Donearm/configs) - all config files that I use/used
 - [pimutils/khal](https://github.com/pimutils/khal) - :calendar: CLI calendar application
 - [ecederstrand/exchangelib](https://github.com/ecederstrand/exchangelib) - Python client for Microsoft Exchange Web Services (EWS)
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
@@ -1252,6 +1251,7 @@
 - [michaelmrose/vi3](https://github.com/michaelmrose/vi3) - vim like keybindings for i3wm
 - [windelicato/dotfiles](https://github.com/windelicato/dotfiles) - arch linux configuration files
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
+- [Donearm/configs](https://github.com/Donearm/configs) - all config files that I use/used
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
 - [jceb/dwm-clean-patches](https://github.com/jceb/dwm-clean-patches) - My patches for http://dwm.suckless.org/ that apply to vanilla dwm
 - [johannchangpro/fz.sh](https://github.com/johannchangpro/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
