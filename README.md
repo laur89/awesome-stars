@@ -469,7 +469,7 @@
 - [manvalls/titan](https://github.com/manvalls/titan) - A robust FUSE file system backed by a database like MySQL and an object storage like S3
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
-- [moby/moby](https://github.com/moby/moby) - Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [monmohan/cors-tutorial-practical](https://github.com/monmohan/cors-tutorial-practical) - Demonstrate different CORS scenarios (pre-flight etc.)
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -615,6 +615,7 @@
 - [kensnyder/any-date-parser](https://github.com/kensnyder/any-date-parser) - Parse a wide range of date formats including human-input dates
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -919,7 +920,6 @@
 - [olivierlemoal/i3-swap-focus](https://github.com/olivierlemoal/i3-swap-focus) - i3/sway script to toggle between last windows
 - [afonsoc12/firefly-cli](https://github.com/afonsoc12/firefly-cli) - A python-based command line interface for conveniently entering expenses in Firefly III.
 - [ow97/i3custom](https://github.com/ow97/i3custom) - Create custom i3 commands for use in your i3 config
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
