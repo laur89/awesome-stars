@@ -287,7 +287,7 @@
 - [kit-clj/kit](https://github.com/kit-clj/kit) - Lightweight, modular framework for scalable web development in Clojure
 - [joinr/spork](https://github.com/joinr/spork) - Spoon's Operations Research Kit
 - [joinr/onramp](https://github.com/joinr/onramp) - a repo for on ramping tutorials and exercises
-- [jpmonettas/flow-storm-debugger](https://github.com/jpmonettas/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
+- [flow-storm/flow-storm-debugger](https://github.com/flow-storm/flow-storm-debugger) - A debugger for Clojure and ClojureScript with some unique features.
 - [thheller/shadow-grove](https://github.com/thheller/shadow-grove) - A ClojureScript system to build browser based frontends
 - [johnmn3/injest](https://github.com/johnmn3/injest) - +&gt;, +&gt;&gt;, x&gt;&gt;, =&gt;&gt;: Auto-transducifying, auto-parallelizing path thread macros
 - [functional-koans/clojure-koans](https://github.com/functional-koans/clojure-koans) - A set of exercises for learning Clojure
@@ -885,7 +885,7 @@
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker written with Django
 - [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist:
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks
+- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
 - [cnuernber/facial-rec](https://github.com/cnuernber/facial-rec) - Facial rec tech
 - [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
