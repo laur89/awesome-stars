@@ -256,7 +256,7 @@
 
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A Clojure web framework for solo developers.
 - [candid82/euler](https://github.com/candid82/euler) - Solutions to project euler (http://projecteuler.net/) in (hopefully) idiomatic Clojure
-- [lipas-liikuntapaikat/lipas](https://github.com/lipas-liikuntapaikat/lipas) - Lipas is a nationwide, public GIS service of Finnish sport facilities.
+- [lipas-liikuntapaikat/lipas](https://github.com/lipas-liikuntapaikat/lipas) - Lipas is a nationwide, public GIS service of Finnish sport and recreation facilities.
 - [gacelita/ventas](https://github.com/gacelita/ventas) - Clojure ecommerce platform
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
