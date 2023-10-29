@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [web-eid/web-eid-app](https://github.com/web-eid/web-eid-app) - The Web eID application performs cryptographic digital signing and authentication operations with electronic ID smart cards for the Web eID browser extension
