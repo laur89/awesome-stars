@@ -803,6 +803,7 @@
 
 ## Others 
 
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations) - 
 - [oskarkook/qdigidoc-flatpak](https://github.com/oskarkook/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
