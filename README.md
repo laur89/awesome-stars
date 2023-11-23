@@ -477,7 +477,6 @@
 - [monmohan/cors-tutorial-practical](https://github.com/monmohan/cors-tutorial-practical) - Demonstrate different CORS scenarios (pre-flight etc.)
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
-- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 - [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
 - [hashicorp/vault](https://github.com/hashicorp/vault) - A tool for secrets management, encryption as a service, and privileged access management
@@ -877,6 +876,7 @@
 
 ## Python 
 
+- [zakkarry/deluge-mover](https://github.com/zakkarry/deluge-mover) - a Python script to pause torrents on a cache drive, run unRAID's mover script, and resume them after the move has been completed.
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [codev/mxroute-tools](https://github.com/codev/mxroute-tools) - Command line tools for mxroute.com mail hosting
 - [morrolinux/i3expo-ng](https://github.com/morrolinux/i3expo-ng) - Exposè for i3 WM. Fork of https://gitlab.com/d.reis/i3expo to fix crashes and improve features/usability
@@ -1201,7 +1201,7 @@
 - [tmux-plugins/tmux-logging](https://github.com/tmux-plugins/tmux-logging) - Easy logging and screen capturing for Tmux.
 - [carlocab/tmux-nvr](https://github.com/carlocab/tmux-nvr) - A tmux plugin for using session-specific Neovim instances with neovim-remote
 - [koutto/pi-pwnbox-rogueap](https://github.com/koutto/pi-pwnbox-rogueap) - Homemade Pwnbox :rocket: / Rogue AP :satellite: based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap :bulb:
-- [carvalhudo/usb-rofi](https://github.com/carvalhudo/usb-rofi) - management of usb devices with rofi and udev
+- [andrelcmoreira/usb-rofi](https://github.com/andrelcmoreira/usb-rofi) - management of usb devices with rofi and udev
 - [gilbertw1/roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
 - [mislav/dotfiles](https://github.com/mislav/dotfiles) - bash, zsh, git, tmux, personal toolbox
 - [jarun/advcpmv](https://github.com/jarun/advcpmv) - A patch for GNU Core Utilities cp, mv to add progress bars
@@ -1361,6 +1361,7 @@
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 - [elastic/kibana](https://github.com/elastic/kibana) - Your window into the Elastic Stack
+- [portainer/portainer](https://github.com/portainer/portainer) - Making Docker and Kubernetes management easy.
 - [mattermost/mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 
 ## Vala 
