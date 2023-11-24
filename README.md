@@ -78,6 +78,7 @@
 
 ## C 
 
+- [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
@@ -876,6 +877,7 @@
 
 ## Python 
 
+- [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [zakkarry/deluge-mover](https://github.com/zakkarry/deluge-mover) - a Python script to pause torrents on a cache drive, run unRAID's mover script, and resume them after the move has been completed.
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
 - [codev/mxroute-tools](https://github.com/codev/mxroute-tools) - Command line tools for mxroute.com mail hosting
