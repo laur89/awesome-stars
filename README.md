@@ -805,7 +805,7 @@
 
 ## Others 
 
-- [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome or Nerd Fonts Symbols
+- [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome and Nerd Fonts Symbols
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations) - 
