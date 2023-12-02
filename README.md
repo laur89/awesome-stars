@@ -1171,6 +1171,7 @@
 
 ## Shell 
 
+- [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
 - [faekz0r/zone.eu-ddns](https://github.com/faekz0r/zone.eu-ddns) - Dynamic DNS bash script for zone.eu API
 - [Freaky/run-one](https://github.com/Freaky/run-one) - A BSD-compatible reimplementation of Ubuntu's run-one
 - [Rexypoo/docker-entrypoint-helper](https://github.com/Rexypoo/docker-entrypoint-helper) - Docker entrypoint script to run containers as an unprivileged user with UID and GID set to be compatible with the host machine
