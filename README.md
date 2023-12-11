@@ -78,6 +78,7 @@
 
 ## C 
 
+- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
