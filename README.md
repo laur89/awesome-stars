@@ -810,6 +810,7 @@
 
 ## Others 
 
+- [threedesigns/printNC](https://github.com/threedesigns/printNC) - 100% Free and Open Source, the PrintNC is the next generation of high performance, affordable CNC machines
 - [misprit7/PCB-Business-Card](https://github.com/misprit7/PCB-Business-Card) - A PCB business card for me.
 - [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome and Nerd Fonts Symbols
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
