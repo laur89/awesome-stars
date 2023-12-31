@@ -500,6 +500,7 @@
 
 ## HTML 
 
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
@@ -530,6 +531,8 @@
 
 ## Java 
 
+- [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
+- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - Wow
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
