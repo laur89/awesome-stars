@@ -531,6 +531,7 @@
 
 ## Java 
 
+- [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
 - [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - Wow
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
@@ -637,7 +638,7 @@
 - [dirkgroenen/mopidy-mopify](https://github.com/dirkgroenen/mopidy-mopify) - A web client that uses external web services to provide additional features and a more “complete” music experience.
 - [morgoth/mopster](https://github.com/morgoth/mopster) - Mopidy client written in Ember.js
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
-- [MichMich/MagicMirror](https://github.com/MichMich/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assi
 - [GSConnect/gnome-shell-extension-gsconnect](https://github.com/GSConnect/gnome-shell-extension-gsconnect) - KDE Connect implementation for GNOME
 - [RobinLinus/snapdrop](https://github.com/RobinLinus/snapdrop) - A Progressive Web App for local file sharing
 - [matthewhartman/asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
