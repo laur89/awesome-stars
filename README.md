@@ -197,6 +197,7 @@
 
 ## C++ 
 
+- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
