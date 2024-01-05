@@ -821,6 +821,7 @@
 
 ## Others 
 
+- [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [threedesigns/printNC](https://github.com/threedesigns/printNC) - 100% Free and Open Source, the PrintNC is the next generation of high performance, affordable CNC machines
 - [misprit7/PCB-Business-Card](https://github.com/misprit7/PCB-Business-Card) - A PCB business card for me.
 - [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome and Nerd Fonts Symbols
@@ -905,7 +906,7 @@
 - [morrolinux/i3expo-ng](https://github.com/morrolinux/i3expo-ng) - Exposè for i3 WM. Fork of https://gitlab.com/d.reis/i3expo to fix crashes and improve features/usability
 - [mk-fg/python-pulse-control](https://github.com/mk-fg/python-pulse-control) - Python high-level interface and ctypes-based bindings for PulseAudio (libpulse)
 - [SpiralDevelopment/crypto-sentiment-data](https://github.com/SpiralDevelopment/crypto-sentiment-data) - A collection of scripts to collect crypto market sentiment data
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - OpenAI's Code Interpreter in your terminal, running locally
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -1189,6 +1190,7 @@
 
 ## Shell 
 
+- [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
 - [Kingsman44/Pixelify](https://github.com/Kingsman44/Pixelify) - Magisk module to enables pixel exclusive features and ui
 - [faekz0r/zone.eu-ddns](https://github.com/faekz0r/zone.eu-ddns) - Dynamic DNS bash script for zone.eu API
 - [Freaky/run-one](https://github.com/Freaky/run-one) - A BSD-compatible reimplementation of Ubuntu's run-one
