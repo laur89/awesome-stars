@@ -900,6 +900,7 @@
 
 ## Python 
 
+- [kingosticks/mopidy-spotify](https://github.com/kingosticks/mopidy-spotify) - Mopidy extension for playing music from Spotify
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [zakkarry/deluge-mover](https://github.com/zakkarry/deluge-mover) - a Python script to pause torrents on a cache drive, run unRAID's mover script, and resume them after the move has been completed.
