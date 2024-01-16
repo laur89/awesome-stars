@@ -905,6 +905,7 @@
 
 ## Python 
 
+- [vit-project/vit](https://github.com/vit-project/vit) - VIT is a lightweight, fast, curses-based front end to Taskwarrior
 - [kingosticks/mopidy-spotify](https://github.com/kingosticks/mopidy-spotify) - Mopidy extension for playing music from Spotify
 - [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
