@@ -534,6 +534,7 @@
 
 ## Java 
 
+- [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
 - [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - Wow
