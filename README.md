@@ -78,6 +78,7 @@
 
 ## C 
 
+- [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
@@ -197,6 +198,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
@@ -403,6 +405,7 @@
 
 ## Go 
 
+- [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
 - [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
@@ -1200,6 +1203,7 @@
 
 ## Shell 
 
+- [andres-jurado/audiophile-linux](https://github.com/andres-jurado/audiophile-linux) - This repository contains helpful information for audio enthusiasts who use Linux. Contributions through pull requests are welcome!
 - [WinEunuuchs2Unix/eyesome](https://github.com/WinEunuuchs2Unix/eyesome) - Set brightness and gamma for three monitors using sunrise and sunset times from internet
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
 - [VR-25/acc](https://github.com/VR-25/acc) - Advanced Charging Controller
