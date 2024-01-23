@@ -271,7 +271,7 @@
 - [gacelita/ventas](https://github.com/gacelita/ventas) - Clojure ecommerce platform
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
 - [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
-- [xtdb/xtdb](https://github.com/xtdb/xtdb) - Bitemporal and dynamic relational database for SQL and Datalog. Developed by @juxt
+- [xtdb/xtdb](https://github.com/xtdb/xtdb) - The bitemporal database for regulated data. Developed by @juxt
 - [arifian/4clojure](https://github.com/arifian/4clojure) - An interactive problem website for learning Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
 - [hoplon/hoplon](https://github.com/hoplon/hoplon) - Simple and powerful tool for building web apps out of highly composable elements in ClojureScript.
@@ -616,6 +616,7 @@
 
 ## JavaScript 
 
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
@@ -1204,6 +1205,7 @@
 
 ## Shell 
 
+- [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
 - [andres-jurado/audiophile-linux](https://github.com/andres-jurado/audiophile-linux) - This repository contains helpful information for audio enthusiasts who use Linux. Contributions through pull requests are welcome!
 - [WinEunuuchs2Unix/eyesome](https://github.com/WinEunuuchs2Unix/eyesome) - Set brightness and gamma for three monitors using sunrise and sunset times from internet
 - [omerxx/tmux-sessionx](https://github.com/omerxx/tmux-sessionx) - A Tmux session manager, with preview, fuzzy finding, and MORE
