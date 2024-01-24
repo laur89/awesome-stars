@@ -921,7 +921,7 @@
 - [morrolinux/i3expo-ng](https://github.com/morrolinux/i3expo-ng) - Exposè for i3 WM. Fork of https://gitlab.com/d.reis/i3expo to fix crashes and improve features/usability
 - [mk-fg/python-pulse-control](https://github.com/mk-fg/python-pulse-control) - Python high-level interface and ctypes-based bindings for PulseAudio (libpulse)
 - [SpiralDevelopment/crypto-sentiment-data](https://github.com/SpiralDevelopment/crypto-sentiment-data) - A collection of scripts to collect crypto market sentiment data
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -1345,6 +1345,7 @@
 
 ## TypeScript 
 
+- [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
 - [web-eid/web-eid-webextension](https://github.com/web-eid/web-eid-webextension) - The Web eID browser extension for Chrome, Edge, Firefox and other WebExtensions-compatible browsers
 - [web-eid/web-eid.js](https://github.com/web-eid/web-eid.js) - Add secure authentication and digital signing with electronic ID smart cards to web apps with the Web eID JavaScript library
