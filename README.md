@@ -78,6 +78,9 @@
 
 ## C 
 
+- [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
+- [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
+- [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
@@ -921,6 +924,8 @@
 
 ## Python 
 
+- [DarkArc/ddcrelight](https://github.com/DarkArc/ddcrelight) - Automatic monitor brightness adjustment for Linux using yoctopuce light sensor hardware
+- [digitaltrails/vdu_controls](https://github.com/digitaltrails/vdu_controls) - VDU controls - a control panel for monitor brightness/contrast/...
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
 - [hargoniX/keepassxc-proxy-client](https://github.com/hargoniX/keepassxc-proxy-client) - A client for keepassxc-proxy so passwords can easily be requested via CLI
 - [vit-project/vit](https://github.com/vit-project/vit) - VIT is a lightweight, fast, curses-based front end to Taskwarrior
@@ -1218,6 +1223,7 @@
 
 ## Shell 
 
+- [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
 - [andres-jurado/audiophile-linux](https://github.com/andres-jurado/audiophile-linux) - This repository contains helpful information for audio enthusiasts who use Linux. Contributions through pull requests are welcome!
 - [WinEunuuchs2Unix/eyesome](https://github.com/WinEunuuchs2Unix/eyesome) - Set brightness and gamma for three monitors using sunrise and sunset times from internet
