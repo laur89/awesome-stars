@@ -5,7 +5,6 @@
 
 ## Contents
 
-- [ActionScript](#actionscript)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -60,10 +59,6 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-
-## ActionScript 
-
-- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 
 ## Awk 
 
@@ -203,6 +198,7 @@
 
 ## C++ 
 
+- [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
 - [rockowitz/ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
@@ -1151,11 +1147,14 @@
 
 ## Rust 
 
+- [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
+- [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
 - [allie-wake-up/swaycons](https://github.com/allie-wake-up/swaycons) - Window Icons in Sway with Nerd Fonts
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🇵🇸
+- [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
 - [jmakov/dragonflybot](https://github.com/jmakov/dragonflybot) - A vertically scalable stream processing framework focusing on low latency, helping you scale and consume financial data feeds.
