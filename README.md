@@ -73,6 +73,7 @@
 
 ## C 
 
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
@@ -198,6 +199,7 @@
 
 ## C++ 
 
+- [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
 - [rockowitz/ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
@@ -794,6 +796,7 @@
 
 ## Lua 
 
+- [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more
 - [sahib/dotfiles](https://github.com/sahib/dotfiles) - A mirror for my personal configs
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -938,7 +941,7 @@
 - [morrolinux/i3expo-ng](https://github.com/morrolinux/i3expo-ng) - Exposè for i3 WM. Fork of https://gitlab.com/d.reis/i3expo to fix crashes and improve features/usability
 - [mk-fg/python-pulse-control](https://github.com/mk-fg/python-pulse-control) - Python high-level interface and ctypes-based bindings for PulseAudio (libpulse)
 - [SpiralDevelopment/crypto-sentiment-data](https://github.com/SpiralDevelopment/crypto-sentiment-data) - A collection of scripts to collect crypto market sentiment data
-- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers.
+- [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter) - A natural language interface for computers
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -1110,7 +1113,7 @@
 - [phensley/docker-dns](https://github.com/phensley/docker-dns) - Simple, self-contained, automatic Docker DNS
 - [JeanDaniel-Fischer/Gandi-Dynamic-Dns](https://github.com/JeanDaniel-Fischer/Gandi-Dynamic-Dns) - Script that update gandi domain zone record with current external ip address. Very useful to set up a dynamic dns from home on a domain zone managed by Gandi.
 - [jianli/git-playback](https://github.com/jianli/git-playback) - A git command to play back file history.
-- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing Amazon S3 and CloudFront services
+- [s3tools/s3cmd](https://github.com/s3tools/s3cmd) - Official s3cmd repo -- Command line tool for managing S3 compatible storage services (including Amazon S3 and CloudFront).
 - [lzoubek/xbmc-plugin-mpdc](https://github.com/lzoubek/xbmc-plugin-mpdc) - XBMC plugin for remote control of multiple MPD servers
 - [mogproject/easy-menu](https://github.com/mogproject/easy-menu) - Easy Menu - Super Simple Terminal Command Launcher Generator
 - [p-e-w/maybe](https://github.com/p-e-w/maybe) - :open_file_folder: :rabbit2: :tophat: See what a program does before deciding whether you really want it to happen (NO LONGER MAINTAINED)
@@ -1139,6 +1142,7 @@
 - [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) - Metasploit Framework
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [jorgemanrubia/qc](https://github.com/jorgemanrubia/qc) - Command-line utility for syncing and running your backtests in QuantConnect
+- [defunkt/gist](https://github.com/defunkt/gist) - Potentially the best command line gister.
 - [tmuxinator/tmuxinator](https://github.com/tmuxinator/tmuxinator) - Manage complex tmux sessions easily
 - [SidOfc/cani](https://github.com/SidOfc/cani) - A TUI wrapper around caniuse data using FZF and curses
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
@@ -1150,6 +1154,7 @@
 
 ## Rust 
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
 - [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
@@ -1226,6 +1231,8 @@
 
 ## Shell 
 
+- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
+- [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
