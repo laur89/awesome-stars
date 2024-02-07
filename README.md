@@ -199,6 +199,7 @@
 
 ## C++ 
 
+- [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
 - [ErikReider/SwayAudioIdleInhibit](https://github.com/ErikReider/SwayAudioIdleInhibit) - 
 - [rockowitz/ddcui](https://github.com/rockowitz/ddcui) - Graphical user interface for ddcutil - control monitor settings
