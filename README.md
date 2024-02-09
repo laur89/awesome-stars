@@ -929,6 +929,7 @@
 
 ## Python 
 
+- [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
 - [DarkArc/ddcrelight](https://github.com/DarkArc/ddcrelight) - Automatic monitor brightness adjustment for Linux using yoctopuce light sensor hardware
 - [digitaltrails/vdu_controls](https://github.com/digitaltrails/vdu_controls) - VDU controls - a control panel for monitor brightness/contrast/...
 - [sezanzeb/input-remapper](https://github.com/sezanzeb/input-remapper) - 🎮 ⌨ An easy to use tool to change the behaviour of your input devices.
@@ -1156,6 +1157,7 @@
 
 ## Rust 
 
+- [greshake/i3status-rust](https://github.com/greshake/i3status-rust) - Very resourcefriendly and feature-rich replacement for i3status, written in pure Rust
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
@@ -1450,6 +1452,7 @@
 
 ## Vala 
 
+- [ricotz/plank](https://github.com/ricotz/plank) - Stupidly simple.
 - [Manuel-Kehl/Go-For-It](https://github.com/Manuel-Kehl/Go-For-It) - A stylish to-do list with built-in productivity timer. NOTE: all contributions should go to Jonathan Moerman's fork because this is where active development is taking place: https://github.com/JMoerma
 - [phw/peek](https://github.com/phw/peek) - Simple animated GIF screen recorder with an easy to use interface
 
