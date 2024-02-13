@@ -626,6 +626,7 @@
 
 ## JavaScript 
 
+- [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
@@ -799,7 +800,6 @@
 
 - [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more
 - [sahib/dotfiles](https://github.com/sahib/dotfiles) - A mirror for my personal configs
-- [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
 - [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
@@ -1239,6 +1239,7 @@
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
 - [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
+- [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
 - [andres-jurado/audiophile-linux](https://github.com/andres-jurado/audiophile-linux) - This repository contains helpful information for audio enthusiasts who use Linux. Contributions through pull requests are welcome!
 - [WinEunuuchs2Unix/eyesome](https://github.com/WinEunuuchs2Unix/eyesome) - Set brightness and gamma for three monitors using sunrise and sunset times from internet
