@@ -73,6 +73,9 @@
 
 ## C 
 
+- [LBCrion/sfwbar](https://github.com/LBCrion/sfwbar) - S* Floating Window Bar
+- [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
+- [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
@@ -226,7 +229,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - Ugrep 4.5: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 5.0: an ultra fast, user-friendly, compatible grep. Ugrep combines the best features of other grep, adds new features, and searches fast. Includes a TUI and adds Google-like search, fuzzy se
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
@@ -546,6 +549,7 @@
 
 ## Java 
 
+- [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Customizable SIEM and XDR powered by Real-Time correlation and Threat Intelligence
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
@@ -798,6 +802,8 @@
 
 ## Lua 
 
+- [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
+- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more
 - [sahib/dotfiles](https://github.com/sahib/dotfiles) - A mirror for my personal configs
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -835,6 +841,7 @@
 
 ## Nix 
 
+- [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [ibizaman/deluge-plugindev](https://github.com/ibizaman/deluge-plugindev) - Create a deluge plugin skeleton without setting up a python environment
 
 ## OCaml 
@@ -851,6 +858,7 @@
 
 ## Others 
 
+- [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux) - Instructions for running DCS World on linux. Mostly extracted from https://github.com/ValveSoftware/Proton/issues/1722
 - [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
@@ -930,6 +938,7 @@
 
 ## Python 
 
+- [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [tillkrischer/nofolder](https://github.com/tillkrischer/nofolder) - Deluge plugin
 - [EasyG0ing1/SoloFolder](https://github.com/EasyG0ing1/SoloFolder) - 
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -1377,11 +1386,13 @@
 
 ## TeX 
 
+- [Techneatium/techschecks_f16](https://github.com/Techneatium/techschecks_f16) - Cheatsheet for DCS F-16 Block 50 aircraft including LaTeX source files
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 
 ## TypeScript 
 
+- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
 - [web-eid/web-eid-webextension](https://github.com/web-eid/web-eid-webextension) - The Web eID browser extension for Chrome, Edge, Firefox and other WebExtensions-compatible browsers
