@@ -73,6 +73,7 @@
 
 ## C 
 
+- [mustang51/toro-ufc](https://github.com/mustang51/toro-ufc) - USB Up Front Controller
 - [LBCrion/sfwbar](https://github.com/LBCrion/sfwbar) - S* Floating Window Bar
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
@@ -201,6 +202,8 @@
 
 ## C++ 
 
+- [jrsteensen/OpenHornet](https://github.com/jrsteensen/OpenHornet) - OpenHornet 1:1 F/A-18C Simulator Repository
+- [enertial/streamdeck-dcs-interface](https://github.com/enertial/streamdeck-dcs-interface) - A StreamDeck plugin for interaction with Digital Combat Simulator (DCS)
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
 - [rhasspy/piper](https://github.com/rhasspy/piper) - A fast, local neural text to speech system
 - [Alexays/Waybar](https://github.com/Alexays/Waybar) - Highly customizable Wayland bar for Sway and Wlroots based compositors. :v: :tada:
@@ -938,6 +941,7 @@
 
 ## Python 
 
+- [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [tillkrischer/nofolder](https://github.com/tillkrischer/nofolder) - Deluge plugin
 - [EasyG0ing1/SoloFolder](https://github.com/EasyG0ing1/SoloFolder) - 
