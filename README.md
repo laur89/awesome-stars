@@ -202,6 +202,7 @@
 
 ## C++ 
 
+- [OpenKneeboard/OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) - An open source Kneeboard
 - [jrsteensen/OpenHornet](https://github.com/jrsteensen/OpenHornet) - OpenHornet 1:1 F/A-18C Simulator Repository
 - [enertial/streamdeck-dcs-interface](https://github.com/enertial/streamdeck-dcs-interface) - A StreamDeck plugin for interaction with Digital Combat Simulator (DCS)
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -557,7 +558,7 @@
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
-- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - Wow
+- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - The Evolution of Android! #KeepEvolving
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
