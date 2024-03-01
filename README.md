@@ -113,7 +113,6 @@
 - [jafarlihi/connmap](https://github.com/jafarlihi/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
-- [jbruchon/jdupes](https://github.com/jbruchon/jdupes) - A powerful duplicate file finder and an enhanced fork of 'fdupes'.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [tgraf/bmon](https://github.com/tgraf/bmon) - bandwidth monitor and rate estimator
@@ -330,7 +329,7 @@
 - [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) - 
 - [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) - A subscriptions library over a source of data (forked + extracted from re-frame)
 - [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
-- [taoensso/sente](https://github.com/taoensso/sente) - Realtime web comms for Clojure/Script applications
+- [taoensso/sente](https://github.com/taoensso/sente) - Realtime web comms library for Clojure/Script
 - [hugoduncan/criterium](https://github.com/hugoduncan/criterium) - Benchmarking library for clojure
 - [pitch-io/uix](https://github.com/pitch-io/uix) - Idiomatic ClojureScript interface to modern React.js
 - [clj-kondo/clj-kondo](https://github.com/clj-kondo/clj-kondo) - Static analyzer and linter for Clojure code that sparks joy
@@ -558,7 +557,7 @@
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
-- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - The Evolution of Android! #KeepEvolving
+- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - The Evolution of Android!
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
