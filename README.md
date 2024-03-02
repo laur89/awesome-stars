@@ -225,7 +225,7 @@
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
-- [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux
+- [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
 - [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc) - KeePassXC is a cross-platform community-driven port of the Windows application “Keepass Password Safe”.
 - [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix) - Google SafetyNet attestation workarounds for Magisk
 - [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
