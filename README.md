@@ -78,7 +78,7 @@
 - [LBCrion/sfwbar](https://github.com/LBCrion/sfwbar) - S* Floating Window Bar
 - [ahrm/sioyek](https://github.com/ahrm/sioyek) - Sioyek is a PDF viewer with a focus on textbooks and research papers
 - [WillPower3309/swayfx](https://github.com/WillPower3309/swayfx) - SwayFX: Sway, but with eye candy!
-- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell
+- [leo-arch/clifm](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [ReimuNotMoe/ydotool](https://github.com/ReimuNotMoe/ydotool) - Generic command-line automation tool (no X!)
 - [rvaiya/warpd](https://github.com/rvaiya/warpd) - A modal keyboard-driven virtual pointer
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
@@ -951,7 +951,7 @@
 - [hargoniX/keepassxc-proxy-client](https://github.com/hargoniX/keepassxc-proxy-client) - A client for keepassxc-proxy so passwords can easily be requested via CLI
 - [vit-project/vit](https://github.com/vit-project/vit) - VIT is a lightweight, fast, curses-based front end to Taskwarrior
 - [kingosticks/mopidy-spotify](https://github.com/kingosticks/mopidy-spotify) - Mopidy extension for playing music from Spotify
-- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor
+- [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source web page change detection, website watcher,  restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monito
 - [pypa/flit](https://github.com/pypa/flit) - Simplified packaging of Python modules
 - [zakkarry/deluge-mover](https://github.com/zakkarry/deluge-mover) - a Python script to pause torrents on a cache drive, run unRAID's mover script, and resume them after the move has been completed.
 - [derv82/wifite2](https://github.com/derv82/wifite2) - Rewrite of the popular wireless network auditor, "wifite"
