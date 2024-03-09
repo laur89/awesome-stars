@@ -419,6 +419,7 @@
 
 ## Go 
 
+- [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -1396,6 +1397,7 @@
 
 ## TypeScript 
 
+- [SpikeHD/AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor) - Amazon price checker, item monitor and stock monitor, all shoved into a Discord bot
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
