@@ -1255,7 +1255,7 @@
 
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - bspwm + polybar + eww rices. 12 themes with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
 - [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
