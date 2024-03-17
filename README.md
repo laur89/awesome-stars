@@ -13,6 +13,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Elixir](#elixir)
@@ -373,6 +374,10 @@
 ## Common Lisp 
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
+
+## D2 
+
+- [marcin-mazurek/today-i-learned](https://github.com/marcin-mazurek/today-i-learned) - :book: Software engineer's diary
 
 ## Dart 
 
@@ -898,7 +903,6 @@
 - [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
-- [marcin-mazurek/today-i-learned](https://github.com/marcin-mazurek/today-i-learned) - :book: Software engineer's diary
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
