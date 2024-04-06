@@ -1262,6 +1262,7 @@
 
 ## Shell 
 
+- [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
