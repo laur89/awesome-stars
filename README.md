@@ -203,6 +203,8 @@
 
 ## C++ 
 
+- [bepaald/signalbackup-tools](https://github.com/bepaald/signalbackup-tools) - Tool to work with Signal Backup files.
+- [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [OpenKneeboard/OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) - An open source Kneeboard
 - [enertial/streamdeck-dcs-interface](https://github.com/enertial/streamdeck-dcs-interface) - A StreamDeck plugin for interaction with Digital Combat Simulator (DCS)
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -905,7 +907,6 @@
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
 - [quozd/awesome-dotnet](https://github.com/quozd/awesome-dotnet) - A collection of awesome .NET libraries, tools, frameworks and software
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
-- [seebye/ueberzug](https://github.com/seebye/ueberzug) - 
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
