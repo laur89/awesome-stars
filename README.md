@@ -561,6 +561,7 @@
 
 ## Java 
 
+- [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Customizable SIEM and XDR powered by Real-Time correlation and Threat Intelligence
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
