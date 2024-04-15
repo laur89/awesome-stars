@@ -44,6 +44,7 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
+- [PureBasic](#purebasic)
 - [Python](#python)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -411,6 +412,7 @@
 
 ## Emacs Lisp 
 
+- [protesilaos/modus-themes](https://github.com/protesilaos/modus-themes) - Highly accessible themes for GNU Emacs, conforming with the highest standard for colour contrast between background and foreground values (WCAG AAA).
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
 
 ## Erlang 
@@ -949,6 +951,10 @@
 ## PowerShell 
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
+
+## PureBasic 
+
+- [flying-pizza-69/GestureX](https://github.com/flying-pizza-69/GestureX) - GestureX: Control Linux-based operating systems using hand gestures. Built using Mediapipe, OpenCV and PyQt.
 
 ## Python 
 
