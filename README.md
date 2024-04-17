@@ -44,7 +44,6 @@
 - [PHP](#php)
 - [Perl](#perl)
 - [PowerShell](#powershell)
-- [PureBasic](#purebasic)
 - [Python](#python)
 - [Racket](#racket)
 - [Reason](#reason)
@@ -952,12 +951,9 @@
 
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
-## PureBasic 
-
-- [flying-pizza-69/GestureX](https://github.com/flying-pizza-69/GestureX) - GestureX: Control Linux-based operating systems using hand gestures. Built using Mediapipe, OpenCV and PyQt.
-
 ## Python 
 
+- [flying-pizza-69/GestureX](https://github.com/flying-pizza-69/GestureX) - GestureX: Control Linux-based operating systems using hand gestures. Built using Mediapipe, OpenCV and PyGTK.
 - [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [tillkrischer/nofolder](https://github.com/tillkrischer/nofolder) - Deluge plugin
