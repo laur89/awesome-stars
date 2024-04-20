@@ -203,6 +203,7 @@
 
 ## C++ 
 
+- [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [bepaald/signalbackup-tools](https://github.com/bepaald/signalbackup-tools) - Tool to work with Signal Backup files.
 - [jstkdng/ueberzugpp](https://github.com/jstkdng/ueberzugpp) - Drop in replacement for ueberzug written in C++
 - [OpenKneeboard/OpenKneeboard](https://github.com/OpenKneeboard/OpenKneeboard) - An open source Kneeboard
