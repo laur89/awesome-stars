@@ -954,6 +954,9 @@
 
 ## Python 
 
+- [Coelodonta/Machine_Learning_Support_Resistance](https://github.com/Coelodonta/Machine_Learning_Support_Resistance) - Finding support and resistance levels for trading using unsupervised leaning with sklearn and mplfinance
+- [BatuhanUsluel/Algorithmic-Support-and-Resistance](https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance) - Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart.
+- [Reed-Schimmel/support_resistance_finder](https://github.com/Reed-Schimmel/support_resistance_finder) - Python class to find support and resistance levels from candlestick data. (credit https://towardsdatascience.com/detection-of-price-support-and-resistance-levels-in-python-baedc44c34c9)
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [flying-pizza-69/GestureX](https://github.com/flying-pizza-69/GestureX) - GestureX: Control Linux-based operating systems using hand gestures. Built using Mediapipe, OpenCV and PyGTK.
 - [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
@@ -1183,7 +1186,7 @@
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
 - [ttscoff/doing](https://github.com/ttscoff/doing) - 
 - [icalendar/icalendar-recurrence](https://github.com/icalendar/icalendar-recurrence) - Easy recurrence expansion for iCalendar
-- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
+- [gollum/gollum](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a local frontend and support for many kinds of markup and content.
 - [kontena/kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
 - [jiko/jimmies](https://github.com/jiko/jimmies) - Twitter bot for unrustling jimmies
 
