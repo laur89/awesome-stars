@@ -300,7 +300,7 @@
 - [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3) - A library for navigating data.
 - [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 - [denistakeda/re-posh](https://github.com/denistakeda/re-posh) - Use your re-frame with DataScript as a data storage
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to infer the frontend/backend boundary
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
 - [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
 - [fulcrologic/fulcro-rad](https://github.com/fulcrologic/fulcro-rad) - Fulcro Rapid Application Development
 - [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom) - Pathom is a Clojure(script) engine for processing EQL requests.
