@@ -217,7 +217,6 @@
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
-- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
 - [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
@@ -436,7 +435,6 @@
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
-- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [jwilder/dockerize](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
@@ -1018,6 +1016,7 @@
 - [jeffgran/ManuForm](https://github.com/jeffgran/ManuForm) - Design files for my ManuForm custom keyboard
 - [ASebastian27/Reddit-Account-Generator](https://github.com/ASebastian27/Reddit-Account-Generator) - (Semi)Automagically generates Reddit accounts
 - [vincentbernat/i3wm-configuration](https://github.com/vincentbernat/i3wm-configuration) - 
+- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [pytorch/pytorch](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 - [CyberPunkMetalHead/Binance-volatility-trading-bot](https://github.com/CyberPunkMetalHead/Binance-volatility-trading-bot) - This is a fully functioning Binance trading bot that measures the volatility of every coin on Binance and places trades with the highest gaining coins If you like this project consider donating though
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
@@ -1203,6 +1202,7 @@
 - [rafaelrc7/wayland-pipewire-idle-inhibit](https://github.com/rafaelrc7/wayland-pipewire-idle-inhibit) - Inhibit wayland idle when computer is playing sound
 - [rschmukler/caffeinate](https://github.com/rschmukler/caffeinate) - Keeping xidlehook woke
 - [jD91mZM2/xidlehook](https://github.com/jD91mZM2/xidlehook) - GitLab: https://gitlab.com/jD91mZM2/xidlehook
+- [j-hc/zygisk-detach](https://github.com/j-hc/zygisk-detach) - Zygisk module to detach installed apps from Play Store
 - [allie-wake-up/swaycons](https://github.com/allie-wake-up/swaycons) - Window Icons in Sway with Nerd Fonts
 - [0x192/universal-android-debloater](https://github.com/0x192/universal-android-debloater) - Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device.
 - [roosta/i3wsr](https://github.com/roosta/i3wsr) - Change i3-wm workspace names based on content
@@ -1298,7 +1298,6 @@
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [infokiller/fasd](https://github.com/infokiller/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
-- [laktak/extrakto](https://github.com/laktak/extrakto) - extrakto for tmux - quickly select, copy/insert/complete text without a mouse
 - [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [DMBuce/i3b](https://github.com/DMBuce/i3b) - Window manager scripts and configs
@@ -1428,6 +1427,7 @@
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
 - [web-eid/web-eid-webextension](https://github.com/web-eid/web-eid-webextension) - The Web eID browser extension for Chrome, Edge, Firefox and other WebExtensions-compatible browsers
 - [web-eid/web-eid.js](https://github.com/web-eid/web-eid.js) - Add secure authentication and digital signing with electronic ID smart cards to web apps with the Web eID JavaScript library
+- [porter-dev/porter](https://github.com/porter-dev/porter) - Kubernetes powered PaaS that runs in your own cloud.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Asana Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
