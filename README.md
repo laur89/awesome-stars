@@ -1193,6 +1193,7 @@
 
 ## Rust 
 
+- [0xDub/figgie-auto](https://github.com/0xDub/figgie-auto) - An algorithmic sandbox for Jane Street's game, "Figgie"
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [cdown/tzupdate](https://github.com/cdown/tzupdate) - Set the system timezone based on IP geolocation.
