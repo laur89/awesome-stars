@@ -181,6 +181,7 @@
 
 ## C# # 
 
+- [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
 - [the-paid-actor/dcs-dtc](https://github.com/the-paid-actor/dcs-dtc) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
@@ -566,6 +567,7 @@
 
 ## Java 
 
+- [QuantConnect/IBAutomater](https://github.com/QuantConnect/IBAutomater) - Automates IB Gateway start, stopping and restarting.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Customizable SIEM and XDR powered by Real-Time correlation and Threat Intelligence
@@ -1167,6 +1169,8 @@
 
 ## Racket 
 
+- [evdubs/chart-simulator](https://github.com/evdubs/chart-simulator) - Trading Simulator and Charting Application
+- [evdubs/renegade-way](https://github.com/evdubs/renegade-way) - Option Trading Application
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
 
 ## Reason 
