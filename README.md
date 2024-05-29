@@ -959,6 +959,7 @@
 
 ## Python 
 
+- [QuantConnect/lean-cli](https://github.com/QuantConnect/lean-cli) - CLI for running the LEAN engine locally and in the cloud
 - [Coelodonta/Machine_Learning_Support_Resistance](https://github.com/Coelodonta/Machine_Learning_Support_Resistance) - Finding support and resistance levels for trading using unsupervised leaning with sklearn and mplfinance
 - [BatuhanUsluel/Algorithmic-Support-and-Resistance](https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance) - Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart.
 - [Reed-Schimmel/support_resistance_finder](https://github.com/Reed-Schimmel/support_resistance_finder) - Python class to find support and resistance levels from candlestick data. (credit https://towardsdatascience.com/detection-of-price-support-and-resistance-levels-in-python-baedc44c34c9)
