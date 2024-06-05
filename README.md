@@ -76,6 +76,7 @@
 
 ## C 
 
+- [izawartka/gta2-trainer-cpp](https://github.com/izawartka/gta2-trainer-cpp) - Probably the most powerful GTA2 trainer ever made ;)
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - Like neofetch, but much faster because written mostly in C.
 - [mustang51/toro-ufc](https://github.com/mustang51/toro-ufc) - USB Up Front Controller
 - [LBCrion/sfwbar](https://github.com/LBCrion/sfwbar) - S* Floating Window Bar
