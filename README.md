@@ -20,6 +20,7 @@
 - [Elm](#elm)
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
+- [Fluent](#fluent)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [Groovy](#groovy)
@@ -426,6 +427,10 @@
 - [lfe/lfe](https://github.com/lfe/lfe) - Lisp Flavoured Erlang (LFE)
 - [rustyio/sync](https://github.com/rustyio/sync) - On-the-fly recompiling and reloading in Erlang. Code without friction.
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!
+
+## Fluent 
+
+- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
 ## Gherkin 
 
@@ -1033,7 +1038,6 @@
 - [olivierlemoal/i3-swap-focus](https://github.com/olivierlemoal/i3-swap-focus) - i3/sway script to toggle between last windows
 - [afonsoc12/firefly-cli](https://github.com/afonsoc12/firefly-cli) - A python-based command line interface for conveniently entering expenses in Firefly III.
 - [ow97/i3custom](https://github.com/ow97/i3custom) - Create custom i3 commands for use in your i3 config
-- [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 - [autokey/autokey](https://github.com/autokey/autokey) - AutoKey, a desktop automation utility for Linux and X11.
 - [JonnyHaystack/i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect) - Simple solution to saving and restoring i3 workspaces
 - [infokiller/i3-workspace-groups](https://github.com/infokiller/i3-workspace-groups) - Manage i3wm workspaces in groups
