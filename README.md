@@ -886,6 +886,7 @@
 
 ## Others 
 
+- [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [Ciseur/ciz-pubg-killfeed-flags](https://github.com/Ciseur/ciz-pubg-killfeed-flags) - 
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux) - Instructions for running DCS World on linux. Mostly extracted from https://github.com/ValveSoftware/Proton/issues/1722
@@ -966,6 +967,7 @@
 
 ## Python 
 
+- [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
 - [quantbelt/ib_fundamental](https://github.com/quantbelt/ib_fundamental) - Interactive Brokers Fundamental data for humans
 - [QuantConnect/lean-cli](https://github.com/QuantConnect/lean-cli) - CLI for running the LEAN engine locally and in the cloud
 - [Coelodonta/Machine_Learning_Support_Resistance](https://github.com/Coelodonta/Machine_Learning_Support_Resistance) - Finding support and resistance levels for trading using unsupervised leaning with sklearn and mplfinance
