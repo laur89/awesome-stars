@@ -656,6 +656,7 @@
 
 ## JavaScript 
 
+- [project-nv/night-vision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders
 - [corollari/waspline-reader](https://github.com/corollari/waspline-reader) - FOSS version of BeeLine Reader
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
