@@ -183,6 +183,7 @@
 
 ## C# # 
 
+- [QuantConnect/quantconnect-stubs-generator](https://github.com/QuantConnect/quantconnect-stubs-generator) - Automatically generate Python type stubs for QuantConnect's Lean
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
 - [the-paid-actor/dcs-dtc](https://github.com/the-paid-actor/dcs-dtc) - 
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
