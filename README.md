@@ -1445,6 +1445,7 @@
 
 ## TypeScript 
 
+- [Torelli/hyprmixer](https://github.com/Torelli/hyprmixer) - A stylish volume mixer and media controller for your hyprland rice
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SpikeHD/AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor) - Amazon price checker, item monitor and stock monitor, all shoved into a Discord bot
 - [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
