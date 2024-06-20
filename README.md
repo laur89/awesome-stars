@@ -397,6 +397,7 @@
 
 ## Dockerfile 
 
+- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
 - [nephatrine/docker-drone-run](https://github.com/nephatrine/docker-drone-run) - [mirror] Container w/ Drone-Runner-Docker
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
@@ -913,7 +914,7 @@
 - [joelacus/deluge-web-dark-theme](https://github.com/joelacus/deluge-web-dark-theme) - A modern dark theme for Deluge Web UI with custom accent colours and updated icons.
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [adi1090x/uGRUB](https://github.com/adi1090x/uGRUB) - Create an ultimate multiboot USB flash drive with Grub2 bootloader
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
 - [thimc/vifm_devicons](https://github.com/thimc/vifm_devicons) - File and directory icons for Vifm (vi file manager)
 - [tatowicz/docker-ethminer](https://github.com/tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
