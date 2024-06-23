@@ -241,6 +241,7 @@
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform.
+- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - NEW ugrep 6.1: a more powerful, ultra fast, user-friendly, compatible grep. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archives (zip, 7z, tar
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1336,7 +1337,6 @@
 - [arfoll/unrarall](https://github.com/arfoll/unrarall) - bash script to unrar everything and cleanup in a given directory
 - [haugene/docker-transmission-openvpn](https://github.com/haugene/docker-transmission-openvpn) - Docker container running Transmission torrent client with WebUI over an OpenVPN tunnel
 - [graysky2/pulseaudio-ctl](https://github.com/graysky2/pulseaudio-ctl) - Control pulseaudio volume from the shell or mapped to keyboard shortcuts. No need for alsa-utils.
-- [jlesage/docker-baseimage-gui](https://github.com/jlesage/docker-baseimage-gui) - A minimal docker baseimage to ease creation of X graphical application containers
 - [alonswartz/trackpoint](https://github.com/alonswartz/trackpoint) - How to integrate a trackpoint in a mechanical keyboard
 - [wzykubek/rofi-keepassxc](https://github.com/wzykubek/rofi-keepassxc) - Simple keepassxc-cli frontend in rofi/dmenu.
 - [cmcmahan/Xplanet](https://github.com/cmcmahan/Xplanet) - OSX scripts, config files and images for Xplanet
