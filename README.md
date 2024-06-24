@@ -974,6 +974,7 @@
 
 ## Python 
 
+- [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!
 - [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
 - [quantbelt/ib_fundamental](https://github.com/quantbelt/ib_fundamental) - Interactive Brokers Fundamental data for humans
 - [QuantConnect/lean-cli](https://github.com/QuantConnect/lean-cli) - CLI for running the LEAN engine locally and in the cloud
@@ -1301,6 +1302,7 @@
 
 ## Shell 
 
+- [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [Nuzair46/SpotX-Linux](https://github.com/Nuzair46/SpotX-Linux) - Spotify Ad blocker based on SpotX for Linux
