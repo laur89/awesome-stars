@@ -661,6 +661,7 @@
 
 ## JavaScript 
 
+- [leeoniya/uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 - [project-nv/night-vision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders
 - [corollari/waspline-reader](https://github.com/corollari/waspline-reader) - FOSS version of BeeLine Reader
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
@@ -1450,6 +1451,7 @@
 
 ## TypeScript 
 
+- [apache/echarts](https://github.com/apache/echarts) - Apache ECharts is a powerful, interactive charting and data visualization library for browser
 - [Torelli/hyprmixer](https://github.com/Torelli/hyprmixer) - A stylish volume mixer and media controller for your hyprland rice
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SpikeHD/AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor) - Amazon price checker, item monitor and stock monitor, all shoved into a Discord bot
