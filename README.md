@@ -47,6 +47,7 @@
 - [PowerShell](#powershell)
 - [Python](#python)
 - [Racket](#racket)
+- [ReScript](#rescript)
 - [Reason](#reason)
 - [Roff](#roff)
 - [Ruby](#ruby)
@@ -883,7 +884,6 @@
 
 ## OCaml 
 
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
@@ -1192,6 +1192,10 @@
 - [evdubs/renegade-way](https://github.com/evdubs/renegade-way) - Option Trading Application
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
 
+## ReScript 
+
+- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
+
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
@@ -1310,7 +1314,7 @@
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
-- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 15 themes. Polybar. eww widgets, with a rice selector to change on the fly.
+- [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [rickysarraf/laptop-mode-tools](https://github.com/rickysarraf/laptop-mode-tools) - Power Savings tool for Linux
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [cytopia/dotfiles](https://github.com/cytopia/dotfiles) - dotfiles
