@@ -1183,7 +1183,7 @@
 - [JaredMHall/RaspberryCloud](https://github.com/JaredMHall/RaspberryCloud) - A fully functioning command-line Dropbox client built using the Dropbox Python API for Raspberry Pi. Features include downloading entire directories as zip files, editing files in a local editor, uplo
 - [styxit/AmbiPie](https://github.com/styxit/AmbiPie) - Raspberry pi script to control led, based on xbmc (bob light) output. Ambilight clone, proof of concept.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-- [flyingrub/scdl](https://github.com/flyingrub/scdl) - Soundcloud Music Downloader
+- [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
 
 ## Racket 
 
