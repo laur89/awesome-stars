@@ -49,6 +49,7 @@
 - [Racket](#racket)
 - [ReScript](#rescript)
 - [Reason](#reason)
+- [Riot](#riot)
 - [Roff](#roff)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -1197,6 +1198,10 @@
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
+
+## Riot 
+
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
 
 ## Roff 
 
