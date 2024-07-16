@@ -587,8 +587,8 @@
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
-- [Evolution-X/packages_apps_Settings](https://github.com/Evolution-X/packages_apps_Settings) - 
-- [Evolution-X/frameworks_base](https://github.com/Evolution-X/frameworks_base) - The Evolution of Android!
+- [Evolution-X-AOSP/packages_apps_Settings](https://github.com/Evolution-X-AOSP/packages_apps_Settings) - 
+- [Evolution-X-AOSP/frameworks_base](https://github.com/Evolution-X-AOSP/frameworks_base) - The Evolution of Android!
 - [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair) - No clever tagline needed.
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [fredoverflow/clopad](https://github.com/fredoverflow/clopad) - Clojure + Notepad = Clopad!
