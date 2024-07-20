@@ -197,7 +197,7 @@
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
 - [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Windows system utilities to maximize productivity
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
-- [JKorf/CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net) - Base for exchanges
+- [JKorf/CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange API's.
 - [jameschch/LeanParameterOptimization](https://github.com/jameschch/LeanParameterOptimization) - Parameter Optimization for Lean Algorithms
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
 - [jameschch/LeanOptimization](https://github.com/jameschch/LeanOptimization) - Genetic optimization using LEAN
