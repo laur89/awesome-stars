@@ -1109,7 +1109,7 @@
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [deepfakes/faceswap](https://github.com/deepfakes/faceswap) - Deepfakes Software For All
 - [davidhalter/jedi-vim](https://github.com/davidhalter/jedi-vim) - Using the jedi autocompletion library for VIM.
-- [tiangolo/fastapi](https://github.com/tiangolo/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
+- [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [Yggdroot/LeaderF](https://github.com/Yggdroot/LeaderF) - An efficient fuzzy finder that helps to locate files, buffers, mrus, gtags, etc. on the fly for both vim and neovim.
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
 - [coldfix/udiskie](https://github.com/coldfix/udiskie) - Automounter for removable media
