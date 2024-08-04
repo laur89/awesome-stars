@@ -839,7 +839,7 @@
 
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
-- [chadcat7/kodo](https://github.com/chadcat7/kodo) - a blazingly bad neovim config
+- [namishh/kodo](https://github.com/namishh/kodo) - a blazingly bad neovim config
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more
 - [sahib/dotfiles](https://github.com/sahib/dotfiles) - A mirror for my personal configs
