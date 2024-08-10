@@ -210,6 +210,7 @@
 
 ## C++ 
 
+- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly alternative to the Razer Snap Tap function, making it accessible across all keyboards!
 - [enewhuis/liquibook](https://github.com/enewhuis/liquibook) - Modern C++ order matching engine
 - [Guitarmadillo/code](https://github.com/Guitarmadillo/code) - This repository will be used to share examples from videos, and more.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
@@ -974,6 +975,7 @@
 
 ## Python 
 
+- [alexzorin/certbot-dns-multi](https://github.com/alexzorin/certbot-dns-multi) - Certbot DNS plugin supporting multiple providers, using github.com/go-acme/lego
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
 - [r0fls/soad](https://github.com/r0fls/soad) - System of a Dow
 - [Casvt/MIND](https://github.com/Casvt/MIND) - A simple self hosted reminder application that can send push notifications to your device. Set the reminder and forget about it!
