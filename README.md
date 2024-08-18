@@ -152,7 +152,7 @@
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [geommer/yabar](https://github.com/geommer/yabar) - A modern and lightweight status bar for X window managers.
-- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+- [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 - [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
 - [elken/dwm](https://github.com/elken/dwm) - dwm
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
