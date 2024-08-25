@@ -275,7 +275,7 @@
 - [boysetsfrog/vimpc](https://github.com/boysetsfrog/vimpc) - Official repository for vimpc a vi/vim inspired client for the Music Player Daemon (mpd). Pull requests are welcome.
 - [Here-Be-Dragons/familamp](https://github.com/Here-Be-Dragons/familamp) - Cloud-synchronized lamps
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [symless/synergy-core](https://github.com/symless/synergy-core) - Open source core of Synergy, the cross-platform keyboard and mouse sharing tool (Windows, macOS, Linux)
+- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 
 ## CSS 
 
@@ -307,7 +307,7 @@
 - [cgrand/enlive](https://github.com/cgrand/enlive) - a selector-based (à la CSS) templating and transformation system for Clojure
 - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
 - [dakra/mui-templates](https://github.com/dakra/mui-templates) - material-ui templates in hiccup with reagent, re-frame, shadowcljs, reitit
-- [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3) - A library for navigating data.
+- [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3) - Interface with complex data via graph mapping.
 - [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 - [denistakeda/re-posh](https://github.com/denistakeda/re-posh) - Use your re-frame with DataScript as a data storage
 - [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - a reactive Clojure dialect for web development that uses a compiler to manage the frontend/backend boundary
