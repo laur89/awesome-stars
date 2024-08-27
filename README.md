@@ -934,7 +934,7 @@
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - :mortar_board: Path to a free self-taught education in Computer Science!
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
