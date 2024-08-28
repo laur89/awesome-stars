@@ -210,7 +210,7 @@
 
 ## C++ 
 
-- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly alternative to the Razer Snap Tap function, making it accessible across all keyboards!
+- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/SOCD alternative, making it accessible across all keyboards!
 - [enewhuis/liquibook](https://github.com/enewhuis/liquibook) - Modern C++ order matching engine
 - [Guitarmadillo/code](https://github.com/Guitarmadillo/code) - This repository will be used to share examples from videos, and more.
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
