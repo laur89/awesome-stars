@@ -275,7 +275,7 @@
 - [boysetsfrog/vimpc](https://github.com/boysetsfrog/vimpc) - Official repository for vimpc a vi/vim inspired client for the Music Player Daemon (mpd). Pull requests are welcome.
 - [Here-Be-Dragons/familamp](https://github.com/Here-Be-Dragons/familamp) - Cloud-synchronized lamps
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [symless/synergy](https://github.com/symless/synergy) - Synergy lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux.
 
 ## CSS 
 
