@@ -924,7 +924,6 @@
 - [tatowicz/docker-ethminer](https://github.com/tatowicz/docker-ethminer) - Docker container for Ethereum mining with CUDA.
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [nicomengual/firstrobot](https://github.com/nicomengual/firstrobot) - First Robot made on 2007
-- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [vert-x3/vertx-awesome](https://github.com/vert-x3/vertx-awesome) - A curated list of awesome Vert.x resources, libraries, and other nice things.
 - [vuejs/awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 - [notable/notable](https://github.com/notable/notable) - The Markdown-based note-taking app that doesn't suck.
@@ -1381,6 +1380,7 @@
 - [kiddae/polybar-themes](https://github.com/kiddae/polybar-themes) - (Deprecated) A repository of themes for polybar.
 - [linrunner/TLP](https://github.com/linrunner/TLP) - TLP - Optimize Linux Laptop Battery Life
 - [vfarcic/devops26](https://github.com/vfarcic/devops26) - 
+- [joelparkerhenderson/plantuml-examples](https://github.com/joelparkerhenderson/plantuml-examples) - PlantUML eaxmples for UML, ERD, wireframes, mind maps, JSON, YAML, WBS, ASCII art, Gantt charts, C4 models, and more
 - [TxGVNN/i3-config](https://github.com/TxGVNN/i3-config) - i3wm configuration files
 - [sunaku/home](https://github.com/sunaku/home) - 🏡 My $HOME directory (dot files & bin scripts)
 - [taniman/profit-trailer](https://github.com/taniman/profit-trailer) - The most advanced crypto trading bot
