@@ -668,7 +668,7 @@
 - [project-nv/night-vision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders
 - [corollari/waspline-reader](https://github.com/corollari/waspline-reader) - FOSS version of BeeLine Reader
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
