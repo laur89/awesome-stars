@@ -128,7 +128,6 @@
 - [skeeto/endlessh](https://github.com/skeeto/endlessh) - SSH tarpit that slowly sends an endless banner
 - [v1cont/yad](https://github.com/v1cont/yad) - Yet Another Dialog
 - [yshui/picom](https://github.com/yshui/picom) - A lightweight compositor for X11 with animation support
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [antirez/dump1090](https://github.com/antirez/dump1090) - Dump1090 is a simple Mode S decoder for RTLSDR devices
 - [yvbbrjdr/i3lock-fancy-rapid](https://github.com/yvbbrjdr/i3lock-fancy-rapid) - A faster implementation of i3lock-fancy.
 - [TulipCharts/tulipindicators](https://github.com/TulipCharts/tulipindicators) - Technical Analysis Indicator Function Library in C
@@ -233,7 +232,7 @@
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [naelstrof/slop](https://github.com/naelstrof/slop) - slop (Select Operation) is an application that queries for a selection from the user and prints the region to stdout.
 - [web-eid/web-eid-app](https://github.com/web-eid/web-eid-app) - The Web eID application performs cryptographic digital signing and authentication operations with electronic ID smart cards for the Web eID browser extension
-- [open-eid/DigiDoc4-Client](https://github.com/open-eid/DigiDoc4-Client) - DigiDoc4 Client is an application for digitally signing and encrypting documents; the software includes functionality to manage Estonian ID-card - change pin codes etc.
+- [open-eid/DigiDoc4-Client](https://github.com/open-eid/DigiDoc4-Client) - DigiDoc4 is an application for digitally signing and encrypting documents; the software includes functionality to manage Estonian ID-card - change pin codes etc.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
 - [jank-lang/jank](https://github.com/jank-lang/jank) - A Clojure dialect hosted on LLVM with native C++ interop
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
@@ -717,6 +716,7 @@
 - [andredumas/techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [sandeepk01/vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
@@ -1131,7 +1131,7 @@
 - [WhyNotHugo/totp-cli](https://github.com/WhyNotHugo/totp-cli) - A cli-based pass-backed TOTP app.
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
 - [eikenb/terminal-colors](https://github.com/eikenb/terminal-colors) - Utility to test color capabilities of terminal.
-- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) and Materia (ex-Flat-Plat) themes (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Pa
+- [themix-project/themix-gui](https://github.com/themix-project/themix-gui) - Graphical application for generating different color variations of Oomox (Numix-based) theme (GTK2, GTK3, Cinnamon, GNOME, Openbox, Xfwm), Archdroid, Gnome-Color, Numix, Papirus and Suru++ icon themes
 - [kayuksel/forex-rl-challenge](https://github.com/kayuksel/forex-rl-challenge) - A Deep Reinforcement Learning Challenge on Forex Portfolio Management
 - [darwinex/DarwinexLabs](https://github.com/darwinex/DarwinexLabs) - Datasets, tools and more from Darwinex Labs - Prop Investing Arm & Quant Team @ Darwinex
 - [day0market/support_resistance](https://github.com/day0market/support_resistance) - Small package that helps to find support and resistance levels and plot them on chart
