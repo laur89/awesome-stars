@@ -972,6 +972,7 @@
 
 ## Python 
 
+- [collective/zestreleaser.towncrier](https://github.com/collective/zestreleaser.towncrier) - 
 - [alexzorin/certbot-dns-multi](https://github.com/alexzorin/certbot-dns-multi) - Certbot DNS plugin supporting multiple providers, using github.com/go-acme/lego
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
 - [r0fls/soad](https://github.com/r0fls/soad) - System of a Dow
