@@ -263,7 +263,7 @@
 - [emscripten-core/emscripten](https://github.com/emscripten-core/emscripten) - Emscripten: An LLVM-to-WebAssembly Compiler
 - [effequalsemeh/Exceptionally-Useless-Box](https://github.com/effequalsemeh/Exceptionally-Useless-Box) - All files related to building the Exceptionally Useless Box
 - [electron/electron](https://github.com/electron/electron) - :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS
-- [eclipse/paho.mqtt-sn.embedded-c](https://github.com/eclipse/paho.mqtt-sn.embedded-c) - Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
+- [eclipse-paho/paho.mqtt-sn.embedded-c](https://github.com/eclipse-paho/paho.mqtt-sn.embedded-c) - Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
 - [dpayne/cli-visualizer](https://github.com/dpayne/cli-visualizer) - CLI based audio visualizer
 - [newsboat/newsboat](https://github.com/newsboat/newsboat) - An RSS/Atom feed reader for text terminals
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
@@ -446,6 +446,7 @@
 
 ## Go 
 
+- [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
@@ -949,6 +950,7 @@
 
 ## PHP 
 
+- [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
@@ -977,6 +979,7 @@
 
 ## Python 
 
+- [zestsoftware/zest.releaser](https://github.com/zestsoftware/zest.releaser) - Python software releasing made easy and repeatable
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
 - [collective/zestreleaser.towncrier](https://github.com/collective/zestreleaser.towncrier) - 
 - [alexzorin/certbot-dns-multi](https://github.com/alexzorin/certbot-dns-multi) - Certbot DNS plugin supporting multiple providers, using github.com/go-acme/lego
