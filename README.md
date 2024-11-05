@@ -652,7 +652,7 @@
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 - [hazelcast/spring-data-hazelcast](https://github.com/hazelcast/spring-data-hazelcast) - Hazelcast Spring Data integration Project http://projects.spring.io/spring-data/
 - [monitorjbl/json-view](https://github.com/monitorjbl/json-view) - Programmatic JSON views with Jackson
-- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Just Announced - "Learn Spring Security OAuth":
+- [eugenp/tutorials](https://github.com/eugenp/tutorials) - Getting Started with Spring Boot 3:
 - [tdebatty/java-string-similarity](https://github.com/tdebatty/java-string-similarity) - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [springfox/springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
