@@ -672,7 +672,7 @@
 - [daitj/gnome-display-brightness-ddcutil](https://github.com/daitj/gnome-display-brightness-ddcutil) - Display brightness slider for gnome shell using ddcutil backend
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
-- [szimek/sharedrop](https://github.com/szimek/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
+- [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [NoahTheDuke/coc-clojure](https://github.com/NoahTheDuke/coc-clojure) - coc.nvim plugin for clojure-lsp
@@ -979,6 +979,7 @@
 
 ## Python 
 
+- [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestio
 - [zestsoftware/zest.releaser](https://github.com/zestsoftware/zest.releaser) - Python software releasing made easy and repeatable
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
 - [collective/zestreleaser.towncrier](https://github.com/collective/zestreleaser.towncrier) - 
@@ -1235,6 +1236,7 @@
 
 ## Rust 
 
+- [MartinGamesCZ/Clippy](https://github.com/MartinGamesCZ/Clippy) - Linux CLI tool for managing and working with the clipboard
 - [nullstalgia/null_iron_heart](https://github.com/nullstalgia/null_iron_heart) - A Rust-based BLE Heart Rate Monitor bridge for OSC in Social VR, OBS, and other miscellaneous uses!
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
@@ -1321,6 +1323,7 @@
 
 ## Shell 
 
+- [jaclu/tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Tmux plugin, keeps track of Mullvad VPN status
 - [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
