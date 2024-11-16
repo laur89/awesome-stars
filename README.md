@@ -79,6 +79,7 @@
 
 ## C 
 
+- [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wttdotm/nubmoan](https://github.com/wttdotm/nubmoan) - 
 - [izawartka/gta2-trainer-cpp](https://github.com/izawartka/gta2-trainer-cpp) - Probably the most powerful GTA2 trainer ever made ;)
@@ -450,6 +451,7 @@
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
@@ -979,6 +981,7 @@
 
 ## Python 
 
+- [irmen/Pyro5](https://github.com/irmen/Pyro5) - Pyro 5  - Python remote objects
 - [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestio
 - [zestsoftware/zest.releaser](https://github.com/zestsoftware/zest.releaser) - Python software releasing made easy and repeatable
 - [jython/jython](https://github.com/jython/jython) - Python for the Java Platform
@@ -1202,7 +1205,7 @@
 
 ## ReScript 
 
-- [rescript-lang/rescript-compiler](https://github.com/rescript-lang/rescript-compiler) - The compiler for ReScript.
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 
 ## Reason 
 
@@ -1323,6 +1326,7 @@
 
 ## Shell 
 
+- [srgvg/dotfiles](https://github.com/srgvg/dotfiles) - My personal config files. This repository is managed with vcsh.
 - [jaclu/tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Tmux plugin, keeps track of Mullvad VPN status
 - [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
@@ -1478,7 +1482,6 @@
 - [Torelli/hyprmixer](https://github.com/Torelli/hyprmixer) - A stylish volume mixer and media controller for your hyprland rice
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [SpikeHD/AmazonMonitor](https://github.com/SpikeHD/AmazonMonitor) - Amazon price checker, item monitor and stock monitor, all shoved into a Discord bot
-- [Aylur/ags](https://github.com/Aylur/ags) - A customizable and extensible shell
 - [watsonbox/exportify](https://github.com/watsonbox/exportify) - Export/Backup Spotify playlists using the Web API
 - [catppuccin/catppuccin](https://github.com/catppuccin/catppuccin) - 😸 Soothing pastel theme for the high-spirited!
 - [dermotduffy/frigate-hass-card](https://github.com/dermotduffy/frigate-hass-card) - A Lovelace card for Frigate in Home Assistant
