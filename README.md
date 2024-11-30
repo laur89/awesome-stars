@@ -980,6 +980,7 @@
 
 ## Python 
 
+- [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [dharmatech/sec_gov_api_facts.py](https://github.com/dharmatech/sec_gov_api_facts.py) - 
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
 - [dropofwill/py-lex](https://github.com/dropofwill/py-lex) - Python library for doing unigram analysis using lexicons
