@@ -310,6 +310,7 @@
 - [wilkerlucio/pathom3](https://github.com/wilkerlucio/pathom3) - Interface with complex data via graph mapping.
 - [Macroz/GraphQLviz](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 - [denistakeda/re-posh](https://github.com/denistakeda/re-posh) - Use your re-frame with DataScript as a data storage
+- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [dakrone/cheshire](https://github.com/dakrone/cheshire) - Clojure JSON and JSON SMILE (binary json format) encoding/decoding
 - [fulcrologic/fulcro-rad](https://github.com/fulcrologic/fulcro-rad) - Fulcro Rapid Application Development
 - [wilkerlucio/pathom](https://github.com/wilkerlucio/pathom) - Pathom is a Clojure(script) engine for processing EQL requests.
@@ -908,7 +909,6 @@
 - [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome and Nerd Fonts Symbols
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
-- [hyperfiddle/electric](https://github.com/hyperfiddle/electric) - Electric Clojure: full-stack differential dataflow for UI
 - [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations) - 
 - [minosimo/qdigidoc-flatpak](https://github.com/minosimo/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
@@ -980,6 +980,8 @@
 
 ## Python 
 
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading bot that trades while also training
+- [delington/Deluge-theme-changer](https://github.com/delington/Deluge-theme-changer) - Small python based app to change the default theme of Deluge
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [dharmatech/sec_gov_api_facts.py](https://github.com/dharmatech/sec_gov_api_facts.py) - 
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
