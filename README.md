@@ -79,6 +79,7 @@
 
 ## C 
 
+- [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [wttdotm/nubmoan](https://github.com/wttdotm/nubmoan) - 
@@ -95,6 +96,7 @@
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
+- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
 - [milgra/sov](https://github.com/milgra/sov) - An overlay that shows schemas for all workspaces to make navigation in sway easier.
 - [FedeDP/Clight](https://github.com/FedeDP/Clight) - A C daemon that turns your webcam into a light sensor. It will adjust screen backlight based on ambient brightness.
@@ -190,7 +192,7 @@
 - [QuantConnect/quantconnect-stubs-generator](https://github.com/QuantConnect/quantconnect-stubs-generator) - Automatically generate Python type stubs for QuantConnect's Lean
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
 - [the-paid-actor/dcs-dtc](https://github.com/the-paid-actor/dcs-dtc) - 
-- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [TCNOco/TcNo-Acc-Switcher](https://github.com/TCNOco/TcNo-Acc-Switcher) - A Super-fast account switcher for Steam, Battle.net, Epic Games, Origin, Riot, Ubisoft and many others!
 - [NikolayIT/RatioMaster.NET](https://github.com/NikolayIT/RatioMaster.NET) - Ratiomaster.NET is a small standalone application which fakes upload and download stats of a torrent to almost all bittorrent trackers. This means that it does NOT rely on your bittorrent client (uTor
 - [ConfusedPolarBear/intro-skipper](https://github.com/ConfusedPolarBear/intro-skipper) - Fingerprint audio to automatically detect and skip intro sequences in Jellyfin
@@ -908,7 +910,6 @@
 - [misprit7/PCB-Business-Card](https://github.com/misprit7/PCB-Business-Card) - My custom PCB business card
 - [iguanajuice/sway-font-awesome](https://github.com/iguanajuice/sway-font-awesome) - Icons in sway's title bars using Font Awesome and Nerd Fonts Symbols
 - [brannondorsey/wifi-cracking](https://github.com/brannondorsey/wifi-cracking) - Crack WPA/WPA2 Wi-Fi Routers with Airodump-ng and Aircrack-ng/Hashcat
-- [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations) - 
 - [minosimo/qdigidoc-flatpak](https://github.com/minosimo/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [jdart/chortyl](https://github.com/jdart/chortyl) - 
