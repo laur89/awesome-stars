@@ -524,7 +524,7 @@
 - [segmentio/aws-okta](https://github.com/segmentio/aws-okta) - aws-vault like tool for Okta authentication
 - [monochromegane/go_design_pattern](https://github.com/monochromegane/go_design_pattern) - Design patterns in Golang.
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
-- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
