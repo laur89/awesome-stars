@@ -1245,6 +1245,7 @@
 
 ## Rust 
 
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [MartinGamesCZ/Clippy](https://github.com/MartinGamesCZ/Clippy) - Linux CLI tool for managing and working with the clipboard
 - [nullstalgia/iron-heart](https://github.com/nullstalgia/iron-heart) - A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more!
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
