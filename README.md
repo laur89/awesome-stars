@@ -79,6 +79,7 @@
 
 ## C 
 
+- [CapnBry/HeaterMeter](https://github.com/CapnBry/HeaterMeter) - HeaterMeter and LinkMeter Arduino BBQ Controller
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
@@ -982,6 +983,9 @@
 
 ## Python 
 
+- [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
+- [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
+- [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
 - [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading bot that trades while also training
 - [delington/Deluge-theme-changer](https://github.com/delington/Deluge-theme-changer) - Small python based app to change the default theme of Deluge
