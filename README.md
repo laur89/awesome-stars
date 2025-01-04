@@ -727,7 +727,7 @@
 - [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [sandeepk01/vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
-- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+- [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 - [FortAwesome/vue-fontawesome](https://github.com/FortAwesome/vue-fontawesome) - Font Awesome Vue component
 - [balderdashy/sails](https://github.com/balderdashy/sails) - Realtime MVC Framework for Node.js
 - [tulios/kafkajs](https://github.com/tulios/kafkajs) - A modern Apache Kafka client for node.js
@@ -829,6 +829,7 @@
 
 ## Kotlin 
 
+- [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in early-beta.
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
 - [LibreShift/red-moon](https://github.com/LibreShift/red-moon) - Android screen filter app for night time phone use.
@@ -983,6 +984,7 @@
 
 ## Python 
 
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
