@@ -2,6 +2,7 @@
 # https://github.com/maguowei/awesome-stars/blob/master/.github/workflows/schedules.yml
 name: update awesome-stars
 on:
+  workflow_dispatch:
   schedule:
   - cron: '33 4 * * *'
 jobs:
