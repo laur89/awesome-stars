@@ -77,7 +77,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [ScriptTiger/Unified-Hosts-AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate) - Quickly and easily install, uninstall, and set up automatic updates for any of Steven Black's unified hosts files.
 - [prclaunchky/Windows-10-Super-Minimal](https://github.com/prclaunchky/Windows-10-Super-Minimal) - 
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
@@ -952,7 +952,7 @@
 - [dotnet/coreclr](https://github.com/dotnet/coreclr) - CoreCLR is the runtime for .NET Core. It includes the garbage collector, JIT compiler, primitive data types and low-level classes.
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
@@ -1005,7 +1005,7 @@
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [delington/Deluge-theme-changer](https://github.com/delington/Deluge-theme-changer) - Small python based app to change the default theme of Deluge
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [dharmatech/sec_gov_api_facts.py](https://github.com/dharmatech/sec_gov_api_facts.py) - 
@@ -1511,6 +1511,7 @@
 
 ## TypeScript 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
