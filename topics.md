@@ -115,6 +115,7 @@
 - [jekyll](#jekyll)
 - [js](#js)
 - [json](#json)
+- [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
 - [koa](#koa)
 - [kotlin](#kotlin)
@@ -246,7 +247,7 @@
 
 ## algorithmic-trading 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [quantbelt/ib_fundamental](https://github.com/quantbelt/ib_fundamental) - Interactive Brokers Fundamental data for humans
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
@@ -485,7 +486,7 @@
 
 ## bot 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
@@ -974,7 +975,7 @@
 
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## electron 
@@ -1020,7 +1021,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [coderitual/bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
 ## eslint 
@@ -1044,7 +1045,7 @@
 ## finance 
 
 - [tyrneh/options-implied-probability](https://github.com/tyrneh/options-implied-probability) - Generate probability distributions for the future price of publicly traded securities using options data.
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
@@ -1585,7 +1586,7 @@
 - [sweet-js/sweet-core](https://github.com/sweet-js/sweet-core) - Sweeten your JavaScript.
 - [coderitual/bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -1621,8 +1622,13 @@
 - [google/jsonnet](https://github.com/google/jsonnet) - Jsonnet - The data templating language
 - [confluentinc/schema-registry](https://github.com/confluentinc/schema-registry) - Confluent Schema Registry for Kafka
 
+## julia 
+
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+
 ## jupyter-notebook 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 150+ Indicators
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
@@ -1683,6 +1689,7 @@
 
 ## latex 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
@@ -1829,7 +1836,7 @@
 
 ## machine-learning 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [ahmedengu/feature_importance](https://github.com/ahmedengu/feature_importance) - Adaptive Machine Learning-Based Stock Prediction using Financial Time Series Technical Indicators
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -1887,6 +1894,7 @@
 
 ## markdown 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
@@ -1919,7 +1927,7 @@
 
 ## microsoft 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [ScriptTiger/Unified-Hosts-AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate) - Quickly and easily install, uninstall, and set up automatic updates for any of Steven Black's unified hosts files.
 - [ecederstrand/exchangelib](https://github.com/ecederstrand/exchangelib) - Python client for Microsoft Exchange Web Services (EWS)
 
@@ -2054,6 +2062,7 @@
 
 ## nodejs 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2762,6 +2771,7 @@
 
 ## postgresql 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -2771,7 +2781,7 @@
 
 ## powershell 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 
@@ -2795,7 +2805,7 @@
 ## programming 
 
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
-- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+- [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## project-management 
@@ -2814,9 +2824,10 @@
 
 ## python 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestio
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
@@ -2946,6 +2957,7 @@
 
 ## r 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [dennislwm/FX-Git](https://github.com/dennislwm/FX-Git) - A collection of Metatrader 4 and R scripts
 
 ## raspberry-pi 
@@ -3289,6 +3301,7 @@
 
 ## terminal 
 
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [fastfetch-cli/fastfetch](https://github.com/fastfetch-cli/fastfetch) - A maintained, feature-rich and performance oriented, neofetch like system information tool.
 - [clangen/musikcube](https://github.com/clangen/musikcube) - a cross-platform, terminal-based music player, audio engine, metadata indexer, and server in c++
@@ -3542,7 +3555,7 @@
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [SuperCuber/dotter](https://github.com/SuperCuber/dotter) - A dotfile manager and templater written in rust 🦀
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 - [open-eid/DigiDoc4-Client](https://github.com/open-eid/DigiDoc4-Client) - DigiDoc4 is an application for digitally signing and encrypting documents; the software includes functionality to manage Estonian ID-card - change pin codes etc.
 - [haimgel/display-switch](https://github.com/haimgel/display-switch) - Turn a $30 USB switch into a full-featured multi-monitor KVM switch
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
