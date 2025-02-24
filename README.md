@@ -162,7 +162,7 @@
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [geokb/yabar](https://github.com/geokb/yabar) - A modern and lightweight status bar for X window managers.
-- [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+- [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
 - [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
 - [elken/dwm](https://github.com/elken/dwm) - dwm
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -350,7 +350,7 @@
 - [clojure/test.check](https://github.com/clojure/test.check) - QuickCheck for Clojure
 - [veikman/dmote-keycap](https://github.com/veikman/dmote-keycap) - Printable keycap models for mechanical keyboards
 - [steffan-westcott/clj-otel](https://github.com/steffan-westcott/clj-otel) - An idiomatic Clojure API for adding telemetry to your libraries and applications using OpenTelemetry.
-- [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - 
+- [cjohansen/portfolio](https://github.com/cjohansen/portfolio) - Component-driven development for Clojure
 - [nextjournal/clerk-slideshow](https://github.com/nextjournal/clerk-slideshow) - 
 - [viesti/clj-lambda-layered](https://github.com/viesti/clj-lambda-layered) - A sample on how to split the lib deps of a JVM/Clojure lambda into a layer
 - [Spelchure/clompress](https://github.com/Spelchure/clompress) - Clompress is easy to use library for working with archives, compression and decompression in Clojure.
