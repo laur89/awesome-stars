@@ -221,6 +221,7 @@
 
 ## C++ 
 
+- [rancilio-pid/clevercoffee](https://github.com/rancilio-pid/clevercoffee) - Do-It-Yourself PID für Espressomaschinen
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
@@ -828,6 +829,7 @@
 
 ## Jupyter Notebook 
 
+- [ivebotunac/PrimoGPT](https://github.com/ivebotunac/PrimoGPT) - PrimoGPT: Finance Reinforcement Learning and Natural Language Processing
 - [tyrneh/options-implied-probability](https://github.com/tyrneh/options-implied-probability) - Generate probability distributions for the future price of publicly traded securities using options data.
 - [ahmedengu/feature_importance](https://github.com/ahmedengu/feature_importance) - Adaptive Machine Learning-Based Stock Prediction using Financial Time Series Technical Indicators
 - [PakAndrey/QuantGANforRisk](https://github.com/PakAndrey/QuantGANforRisk) - 
@@ -916,6 +918,8 @@
 
 ## Others 
 
+- [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
+- [mkgeeky/autodl-trackers](https://github.com/mkgeeky/autodl-trackers) - Tracker files for mkgeeky's fork of autodl-irssi
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [Ciseur/ciz-pubg-killfeed-flags](https://github.com/Ciseur/ciz-pubg-killfeed-flags) - 
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
