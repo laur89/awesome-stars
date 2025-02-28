@@ -1084,6 +1084,7 @@
 - [kriansa/wmcompanion](https://github.com/kriansa/wmcompanion) - Desktop event listener for minimal window manager users
 - [joshreve/dactyl-keyboard](https://github.com/joshreve/dactyl-keyboard) - Dactyl-ManuForm, a parameterized ergonomic keyboard translated into Python including a cadquery / Open CASCADE implementation.
 - [ultrafunkamsterdam/undetected-chromedriver](https://github.com/ultrafunkamsterdam/undetected-chromedriver) - Custom Selenium Chromedriver | Zero-Config | Passes ALL bot mitigation systems (like Distil / Imperva/ Datadadome / CloudFlare IUAM)
+- [QIN2DIM/epic-awesome-gamer](https://github.com/QIN2DIM/epic-awesome-gamer) - 🍷 Gracefully claim weekly free games and monthly content from Epic Store.
 - [MisterDaneel/Ratio.py](https://github.com/MisterDaneel/Ratio.py) - Ratio.py is a small command line RatioMaster.Net like in Python3. It fakes upload stats of a torrent.
 - [bottlesdevs/Bottles](https://github.com/bottlesdevs/Bottles) - Run Windows software and games on Linux
 - [MasonStooksbury/Free-Games](https://github.com/MasonStooksbury/Free-Games) - Please use the new-and-improved version that uses the Epic Games Desktop application instead of the web browser: https://github.com/MasonStooksbury/Free-Games-V2
