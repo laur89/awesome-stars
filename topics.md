@@ -209,6 +209,7 @@
 - [terminal](#terminal)
 - [termux](#termux)
 - [testing](#testing)
+- [trading](#trading)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [ubuntu](#ubuntu)
@@ -274,6 +275,8 @@
 
 ## android 
 
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - A Kernel based root solution for Android
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [deckerst/aves](https://github.com/deckerst/aves) - Aves is a gallery and metadata explorer app, built for Android with Flutter.
@@ -373,6 +376,7 @@
 
 ## awesome 
 
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
@@ -393,6 +397,7 @@
 
 ## awesome-list 
 
+- [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [MystenLabs/awesome-move](https://github.com/MystenLabs/awesome-move) - Code and content from the Move community.
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
@@ -1073,6 +1078,7 @@
 
 ## firefox 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1297,6 +1303,8 @@
 
 ## hacktoberfest 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1430,6 +1438,7 @@
 
 ## html 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [weavejester/hiccup](https://github.com/weavejester/hiccup) - Fast library for rendering HTML in Clojure
 - [jbake-org/jbake](https://github.com/jbake-org/jbake) - Java based open source static site/blog generator for developers & designers.
 - [keychera/panas.reload](https://github.com/keychera/panas.reload) - a hot reload for babashka serving html+css (or htmx)
@@ -1537,6 +1546,7 @@
 
 ## javascript 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [project-nv/night-vision](https://github.com/project-nv/night-vision) - Highly customizable charting library, created for professional traders
@@ -1722,6 +1732,7 @@
 
 ## linux 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
@@ -1823,9 +1834,11 @@
 
 ## llm 
 
+- [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
+- [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 
 ## low-code 
 
@@ -1834,6 +1847,8 @@
 
 ## lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [snyball/hawck](https://github.com/snyball/hawck) - Key-rebinding daemon for Linux (Wayland/X11/Console)
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -2007,6 +2022,9 @@
 
 ## neovim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [namishh/kodo](https://github.com/namishh/kodo) - a blazingly bad neovim config
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
@@ -2155,6 +2173,11 @@
 
 ## others 
 
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
+- [dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
+- [LawnchairLauncher/lawnfeed](https://github.com/LawnchairLauncher/lawnfeed) - Adds Google Feed to Lawnchair.
+- [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
+- [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [rancilio-pid/clevercoffee](https://github.com/rancilio-pid/clevercoffee) - Do-It-Yourself PID für Espressomaschinen
 - [ivebotunac/PrimoGPT](https://github.com/ivebotunac/PrimoGPT) - PrimoGPT: Finance Reinforcement Learning and Natural Language Processing
 - [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
@@ -2169,7 +2192,6 @@
 - [CapnBry/HeaterMeter](https://github.com/CapnBry/HeaterMeter) - HeaterMeter and LinkMeter Arduino BBQ Controller
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
 - [cenab/MSTO](https://github.com/cenab/MSTO) - Market Sentiment Trading Orchestrator
-- [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
 - [delington/Deluge-theme-changer](https://github.com/delington/Deluge-theme-changer) - Small python based app to change the default theme of Deluge
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [dharmatech/sec_gov_api_facts.py](https://github.com/dharmatech/sec_gov_api_facts.py) - 
@@ -2489,7 +2511,7 @@
 - [Trellmor/bind-adblock](https://github.com/Trellmor/bind-adblock) - Use the BIND DNS server to block ads
 - [andrelcmoreira/usb-rofi](https://github.com/andrelcmoreira/usb-rofi) - management of usb devices with rofi and udev
 - [gilbertw1/roficlip](https://github.com/gilbertw1/roficlip) - A simple shell script that surfaces clipboard history from clipster in Rofi
-- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.2 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
+- [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.3 file pattern searcher -- a more powerful, ultra fast, user-friendly, compatible grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, search
 - [aristocratos/bpytop](https://github.com/aristocratos/bpytop) - Linux/OSX/FreeBSD resource monitor
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [SirSirae/kubernetes-docs](https://github.com/SirSirae/kubernetes-docs) - This repository contains documentation in order to setup kubernetes for your homelab
@@ -2724,7 +2746,7 @@
 - [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
 - [JensErat/docker-seafile](https://github.com/JensErat/docker-seafile) - Dockerfile for a Seafile 5 image. Not maintained any more.
 - [phusion/baseimage-docker](https://github.com/phusion/baseimage-docker) - A minimal Ubuntu base image modified for Docker-friendliness
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 - [lzoubek/xbmc-plugin-mpdc](https://github.com/lzoubek/xbmc-plugin-mpdc) - XBMC plugin for remote control of multiple MPD servers
 - [terryma/vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors) - True Sublime Text style multiple selections for Vim
 - [julianhyde/sqlline](https://github.com/julianhyde/sqlline) - Shell for issuing SQL to relational databases via JDBC
@@ -2813,6 +2835,7 @@
 
 ## privacy 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -3145,6 +3168,7 @@
 
 ## security 
 
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.
@@ -3392,6 +3416,32 @@
 - [ovidiuch/react-testing-examples](https://github.com/ovidiuch/react-testing-examples) - Searchable library of React testing examples
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 
+## trading 
+
+- [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
+- [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
+- [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
+- [0xDub/figgie-auto](https://github.com/0xDub/figgie-auto) - An algorithmic sandbox for Jane Street's game, "Figgie"
+- [jmakov/dragonflybot](https://github.com/jmakov/dragonflybot) - A vertically scalable stream processing framework focusing on low latency, helping you scale and consume financial data feeds.
+- [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
+- [SpiralDevelopment/RSI-divergence-detector](https://github.com/SpiralDevelopment/RSI-divergence-detector) - RSI divergence detector finds regular and hidden bullish and bearish divergences
+- [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
+- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 150+ Indicators
+- [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
+- [tvjsx/tvjs-overlays](https://github.com/tvjsx/tvjs-overlays) - 💴  Collection of overlays made by the TradingVueJs community
+- [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
+- [asad70/reddit-sentiment-analysis](https://github.com/asad70/reddit-sentiment-analysis) - This program goes thru reddit, finds the most mentioned tickers and uses Vader SentimentIntensityAnalyzer to calculate the ticker compound value.
+- [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
+- [jameschch/LeanParameterOptimization](https://github.com/jameschch/LeanParameterOptimization) - Parameter Optimization for Lean Algorithms
+- [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
+- [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
+- [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
+- [devalpha-io/devalpha-node](https://github.com/devalpha-io/devalpha-node) - A stream-based approach to algorithmic trading and backtesting in Node.js
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A JavaScript / TypeScript / Python / C# / PHP / Go cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges
+- [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
+
 ## twitter 
 
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
@@ -3440,6 +3490,7 @@
 
 ## vim 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Efficiently control your mouse with keyboard inputs for a completely mouseless experience.
@@ -3578,6 +3629,7 @@
 
 ## windows 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
