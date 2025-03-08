@@ -289,7 +289,7 @@
 - [boysetsfrog/vimpc](https://github.com/boysetsfrog/vimpc) - Official repository for vimpc a vi/vim inspired client for the Music Player Daemon (mpd). Pull requests are welcome.
 - [Here-Be-Dragons/familamp](https://github.com/Here-Be-Dragons/familamp) - Cloud-synchronized lamps
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video).
+- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Deskflow lets you share one mouse and keyboard between multiple computers on Windows, macOS and Linux. It's like a software KVM (but without video). Sponsored by Synergy.
 
 ## CSS 
 
@@ -598,6 +598,7 @@
 
 ## Java 
 
+- [LawnchairLauncher/lawnfeed](https://github.com/LawnchairLauncher/lawnfeed) - Adds Google Feed to Lawnchair.
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Efficiently control your mouse with keyboard inputs for a completely mouseless experience.
 - [QuantConnect/IBAutomater](https://github.com/QuantConnect/IBAutomater) - Automates IB Gateway start, stopping and restarting.
@@ -682,6 +683,7 @@
 
 ## JavaScript 
 
+- [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Your favorite browser, but better.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
@@ -862,6 +864,9 @@
 
 ## Lua 
 
+- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
+- [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
+- [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.10.0+.
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
@@ -943,6 +948,7 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts) - Transcripts of Clojure-related talks
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
+- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [firefly-iii/import-configurations](https://github.com/firefly-iii/import-configurations) - Support repository: User contributed import configurations to easily import CSV files into Firefly III
 - [linuxserver/docker-mods](https://github.com/linuxserver/docker-mods) - Documentation and Examples of base container modifications
 - [joelacus/deluge-web-dark-theme](https://github.com/joelacus/deluge-web-dark-theme) - A modern dark theme for Deluge Web UI with custom accent colours and updated icons.
@@ -1005,6 +1011,7 @@
 
 ## Python 
 
+- [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [nardew/talipp](https://github.com/nardew/talipp) - talipp - incremental technical analysis library for python
@@ -1404,7 +1411,6 @@
 - [jlesage/docker-makemkv](https://github.com/jlesage/docker-makemkv) - Docker container for MakeMKV
 - [infokiller/fasd](https://github.com/infokiller/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
 - [ckardaris/ucollage](https://github.com/ckardaris/ucollage) - An extensible command line image viewer inspired by vim
-- [EnergizedProtection/block](https://github.com/EnergizedProtection/block) - Let's make an annoyance free, better open internet, altogether!
 - [hectorm/hblock](https://github.com/hectorm/hblock) - Improve your security and privacy by blocking ads, tracking and malware domains.
 - [DMBuce/i3b](https://github.com/DMBuce/i3b) - Window manager scripts and configs
 - [adi1090x/rofi](https://github.com/adi1090x/rofi) - A huge collection of Rofi based custom Applets, Launchers & Powermenus.
@@ -1520,6 +1526,7 @@
 
 ## TeX 
 
+- [dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
 - [Techneatium/techschecks_f16](https://github.com/Techneatium/techschecks_f16) - Guide for DCS F-16 Block 50 aircraft including LaTeX source files
 - [lervag/vimtex](https://github.com/lervag/vimtex) - VimTeX: A modern Vim and neovim filetype plugin for LaTeX files.
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
