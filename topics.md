@@ -498,7 +498,6 @@
 
 ## bot 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
@@ -687,7 +686,7 @@
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
-- [cx-language/cx](https://github.com/cx-language/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emlai/cx](https://github.com/emlai/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
@@ -1702,7 +1701,7 @@
 ## language 
 
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
-- [cx-language/cx](https://github.com/cx-language/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emlai/cx](https://github.com/emlai/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 
 ## laravel 
 
@@ -2151,6 +2150,7 @@
 
 ## open-source 
 
+- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2530,7 +2530,7 @@
 - [alevchuk/vim-clutch](https://github.com/alevchuk/vim-clutch) - A hardware pedal for improved text editing in Vim
 - [uniVocity/univocity-trader](https://github.com/uniVocity/univocity-trader) - open-source trading framework for java, supports backtesting and live trading with exchanges
 - [matthewhartman/asxticker](https://github.com/matthewhartman/asxticker) - A terminal app to view the latest ASX stock prices.
-- [matthewhartman/matthewhartman.com.au](https://github.com/matthewhartman/matthewhartman.com.au) - Matthew Hartman's Portfolio Website
+- [matthewhartman/matthewhartmanau.com](https://github.com/matthewhartman/matthewhartmanau.com) - Matthew Hartman's Portfolio Website
 - [Guilhem23/Jackett_Indexerr](https://github.com/Guilhem23/Jackett_Indexerr) - Simple Python script to create and update indexers from Jackett to Radarr, Sonarr and Lidarr
 - [sureshja/ThinkOrSwim](https://github.com/sureshja/ThinkOrSwim) - ThinkScript Studies and Strategies
 - [yrutschle/sslh](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (e.g. share SSH and HTTPS on the same port)
@@ -3419,7 +3419,6 @@
 ## trading 
 
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
 - [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
