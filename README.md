@@ -459,6 +459,7 @@
 
 ## Go 
 
+- [Raggaer/i3-workspace-renamer](https://github.com/Raggaer/i3-workspace-renamer) - Simple i3wm script to rename workspaces based on tree contents
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
