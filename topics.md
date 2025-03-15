@@ -2173,6 +2173,7 @@
 
 ## others 
 
+- [Raggaer/i3-workspace-renamer](https://github.com/Raggaer/i3-workspace-renamer) - Simple i3wm script to rename workspaces based on tree contents
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
 - [dfeich/org-babel-examples](https://github.com/dfeich/org-babel-examples) - Examples using emacs org mode babel inline source code with different backend languages
 - [LawnchairLauncher/lawnfeed](https://github.com/LawnchairLauncher/lawnfeed) - Adds Google Feed to Lawnchair.
