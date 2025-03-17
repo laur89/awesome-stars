@@ -127,7 +127,7 @@
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
+- [hikmat2337/connmap](https://github.com/hikmat2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
@@ -714,7 +714,7 @@
 - [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - &lt;/&gt; htmx - high power tools for HTML
 - [TeamPiped/Piped-Redirects](https://github.com/TeamPiped/Piped-Redirects) - 
 - [C451/Super-Brain-Wallet](https://github.com/C451/Super-Brain-Wallet) - Brain wallet using both language and visual memory.
-- [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+- [migueravila/bento](https://github.com/migueravila/bento) - 🍱 The minimalist, elegant and hackable startpage.
 - [dbusjs/node-dbus-next](https://github.com/dbusjs/node-dbus-next) - 🚌 The next great dbus library for node
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
@@ -926,6 +926,7 @@
 
 ## Others 
 
+- [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
 - [Zer0-bit/gaggiuino](https://github.com/Zer0-bit/gaggiuino) - A Gaggia Classic control project using microcontrollers.
