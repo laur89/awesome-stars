@@ -587,6 +587,7 @@
 - [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
 - [electrode-io/electrode](https://github.com/electrode-io/electrode) - Web applications with node.js and React
 - [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [hit9/img2txt](https://github.com/hit9/img2txt) - Image to Ascii Text with color support, can output to html or ansi terminal.
 - [bibanon/bibanon](https://github.com/bibanon/bibanon) - The Bibliotheca Anonoma: A wikified library of the internet's treasures. Researching Something Awful, 2channel, 4chan, and other imageboard/textboard communities.
 
@@ -973,7 +974,6 @@
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [micronaut-projects/micronaut-examples](https://github.com/micronaut-projects/micronaut-examples) - Example Projects Using Micronaut
 - [getify/You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series (2 published editions) on the JS language.
-- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD) - A simple guide to HTML &lt;head&gt; elements
 - [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page
@@ -1030,7 +1030,7 @@
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [delington/Deluge-theme-changer](https://github.com/delington/Deluge-theme-changer) - Small python based app to change the default theme of Deluge
 - [jeffkaufman/icdiff](https://github.com/jeffkaufman/icdiff) - improved colored diff
 - [dharmatech/sec_gov_api_facts.py](https://github.com/dharmatech/sec_gov_api_facts.py) - 
