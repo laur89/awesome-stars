@@ -148,6 +148,7 @@
 - [neural-network](#neural-network)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [no-code](#no-code)
 - [node](#node)
 - [nodejs](#nodejs)
 - [npm](#npm)
@@ -251,7 +252,7 @@
 
 ## algorithmic-trading 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [quantbelt/ib_fundamental](https://github.com/quantbelt/ib_fundamental) - Interactive Brokers Fundamental data for humans
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
@@ -353,7 +354,6 @@
 
 ## artificial-intelligence 
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [darwinex/DarwinexLabs](https://github.com/darwinex/DarwinexLabs) - Datasets, tools and more from Darwinex Labs - Prop Investing Arm & Quant Team @ Darwinex
 
@@ -736,7 +736,6 @@
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [financelurker/crypto-trades-firefly-iii](https://github.com/financelurker/crypto-trades-firefly-iii) - This service lets you import your movements on supported crypto trading platforms to your Firefly III account. Keep an overview of your traded crypto assets.
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -1060,7 +1059,7 @@
 
 - [nardew/talipp](https://github.com/nardew/talipp) - talipp - incremental technical analysis library for python
 - [tyrneh/options-implied-probability](https://github.com/tyrneh/options-implied-probability) - Generate probability distributions for the future price of publicly traded securities using options data.
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [bmoscon/orderbook](https://github.com/bmoscon/orderbook) - A fast L2/L3 orderbook data structure, in C, for Python
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
@@ -1865,7 +1864,7 @@
 ## machine-learning 
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [ahmedengu/feature_importance](https://github.com/ahmedengu/feature_importance) - Adaptive Machine Learning-Based Stock Prediction using Financial Time Series Technical Indicators
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents
@@ -2089,6 +2088,10 @@
 
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
 
+## no-code 
+
+- [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
+
 ## node 
 
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
@@ -2152,7 +2155,7 @@
 
 ## open-source 
 
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads & trackers blocking DNS server
@@ -2885,7 +2888,7 @@
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
-- [yeonholee50/AmpyFin](https://github.com/yeonholee50/AmpyFin) - Machine learning trading system that trades while also training.
+- [AmpyFin/AmpyFin](https://github.com/AmpyFin/AmpyFin) - Machine learning trading system that trades while also training.
 - [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestio
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
 - [ranahaani/GNews](https://github.com/ranahaani/GNews) - A Happy and lightweight Python Package that Provides an API to search for articles on Google News and returns a JSON response.
