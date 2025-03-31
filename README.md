@@ -691,6 +691,7 @@
 
 ## JavaScript 
 
+- [mukul29/legacy-theme-auto-switcher-gnome-extension](https://github.com/mukul29/legacy-theme-auto-switcher-gnome-extension) - Change the GTK3 theme to light/dark variant based on the system color scheme
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [d8ahazard/DelugeFlow](https://github.com/d8ahazard/DelugeFlow) - A spiritual successor to DelugeSiphon
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
@@ -842,6 +843,7 @@
 
 ## Jupyter Notebook 
 
+- [amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [yuyasugano/finance_python](https://github.com/yuyasugano/finance_python) - Elementary Jupyter Notebook Samples for Finance
 - [ivebotunac/PrimoGPT](https://github.com/ivebotunac/PrimoGPT) - PrimoGPT: Finance Reinforcement Learning and Natural Language Processing
 - [tyrneh/options-implied-probability](https://github.com/tyrneh/options-implied-probability) - Generate probability distributions for the future price of publicly traded securities using options data.
@@ -1299,6 +1301,7 @@
 
 ## Rust 
 
+- [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [tarkah/lazystream](https://github.com/tarkah/lazystream) - Easily get LazyMan stream links, output directly or to m3u / xmltv formats. Streams can also be recorded or casted.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
