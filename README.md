@@ -252,7 +252,7 @@
 - [web-eid/web-eid-app](https://github.com/web-eid/web-eid-app) - The Web eID application performs cryptographic digital signing and authentication operations with electronic ID smart cards for the Web eID browser extension
 - [open-eid/DigiDoc4-Client](https://github.com/open-eid/DigiDoc4-Client) - DigiDoc4 is an application for digitally signing and encrypting documents; the software includes functionality to manage Estonian ID-card - change pin codes etc.
 - [trapexit/mergerfs](https://github.com/trapexit/mergerfs) - a featureful union filesystem
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM
+- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
 - [input-leap/input-leap](https://github.com/input-leap/input-leap) - Open-source KVM software
 - [Nheko-Reborn/nheko](https://github.com/Nheko-Reborn/nheko) - Desktop client for Matrix using Qt and C++20.
 - [whoozle/android-file-transfer-linux](https://github.com/whoozle/android-file-transfer-linux) - Android File Transfer for Linux (and macOS!)
@@ -311,6 +311,8 @@
 
 ## Clojure 
 
+- [askonomm/ruuter](https://github.com/askonomm/ruuter) - A system-agnostic, zero-dependency router
+- [askonomm/blocko](https://github.com/askonomm/blocko) - A block-based WYSIWYG editor.
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A Clojure web framework for solo developers.
 - [candid82/euler](https://github.com/candid82/euler) - Solutions to project euler (http://projecteuler.net/) in (hopefully) idiomatic Clojure
 - [lipas-liikuntapaikat/lipas](https://github.com/lipas-liikuntapaikat/lipas) - Lipas is a nationwide, public GIS service of Finnish sport and recreation facilities.
@@ -336,7 +338,7 @@
 - [reagent-project/reagent](https://github.com/reagent-project/reagent) - A minimalistic ClojureScript interface to React.js
 - [keychera/panas.reload](https://github.com/keychera/panas.reload) - a hot reload for babashka serving html+css (or htmx)
 - [mark-watson/Clojure-AI-Book-Code](https://github.com/mark-watson/Clojure-AI-Book-Code) - Examples for Clojure AI book
-- [originrose/cortex](https://github.com/originrose/cortex) - Machine learning in Clojure
+- [rosejn/cortex](https://github.com/rosejn/cortex) - Machine learning in Clojure
 - [uncomplicate/bayadera](https://github.com/uncomplicate/bayadera) - High-performance Bayesian Data Analysis on the GPU in Clojure
 - [clojure/core.async](https://github.com/clojure/core.async) - Facilities for async programming and communication in Clojure
 - [mogenslund/liquid](https://github.com/mogenslund/liquid) - Clojure Text Editor, for editing clojure code and markdown. Written entirely in Clojure with inspiration from Emacs and Vim.
@@ -599,12 +601,16 @@
 
 ## Haskell 
 
+- [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
 
 ## Java 
 
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
+- [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
+- [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [pluscubed/matlog](https://github.com/pluscubed/matlog) - Material Logcat reader based on CatLog
 - [LawnchairLauncher/lawnfeed](https://github.com/LawnchairLauncher/lawnfeed) - Adds Google Feed to Lawnchair.
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
@@ -729,7 +735,6 @@
 - [paralect/koa-api-starter](https://github.com/paralect/koa-api-starter) - A starter kit for building Koa.JS based restful api
 - [Xeroxxx/tplink-energy-monitor](https://github.com/Xeroxxx/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs - Forked from https://github.com/jamesbarnett91/tplink-energy-monitor
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
-- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [dirkgroenen/mopidy-mopify](https://github.com/dirkgroenen/mopidy-mopify) - A web client that uses external web services to provide additional features and a more “complete” music experience.
 - [morgoth/mopster](https://github.com/morgoth/mopster) - Mopidy client written in Ember.js
 - [overleaf/overleaf](https://github.com/overleaf/overleaf) - A web-based collaborative LaTeX editor
@@ -939,6 +944,7 @@
 
 ## Others 
 
+- [Avamander/AdBlock](https://github.com/Avamander/AdBlock) - Eriti range (reklaamid+analüütika+tüütused) Eesti saitidele kohandatud AdBlock (uBlock Origin) filter
 - [melontini/bootloader-unlock-wall-of-shame](https://github.com/melontini/bootloader-unlock-wall-of-shame) - Keeping track of companies that "care about your data 🥺"
 - [crdroidandroid/android](https://github.com/crdroidandroid/android) - Build crDroid and some general information
 - [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
@@ -1276,7 +1282,7 @@
 
 ## Riot 
 
-- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private registry
+- [Joxit/docker-registry-ui](https://github.com/Joxit/docker-registry-ui) - The simplest and most complete UI for your private docker registry v2 and v3
 
 ## Roff 
 
@@ -1551,6 +1557,9 @@
 
 ## TypeScript 
 
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
+- [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -1575,7 +1584,7 @@
 - [ryansolid/vuerx-jsx](https://github.com/ryansolid/vuerx-jsx) - Vue Reactivity with Fine-Grained Rendering
 - [remix-run/remix](https://github.com/remix-run/remix) - Build Better Websites. Create modern, resilient user experiences with web fundamentals.
 - [claabs/epicgames-freegames-node](https://github.com/claabs/epicgames-freegames-node) - Automatically login and find available free games the Epic Games Store. Sends you a prepopulated checkout link so you can complete the checkout after logging in. Supports multiple accounts, login sess
-- [redwoodjs/redwood](https://github.com/redwoodjs/redwood) - The App Framework for Startups
+- [redwoodjs/graphql](https://github.com/redwoodjs/graphql) - RedwoodGraphQL
 - [inertiajs/inertia](https://github.com/inertiajs/inertia) - Inertia.js lets you quickly build modern single-page React, Vue and Svelte apps using classic server-side routing and controllers.
 - [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
@@ -1583,6 +1592,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [cross-seed/cross-seed](https://github.com/cross-seed/cross-seed) - Fully-automatic cross-seeding with Torznab
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
+- [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 - [pmndrs/react-three-fiber](https://github.com/pmndrs/react-three-fiber) - 🇨🇭 A React renderer for Three.js
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
