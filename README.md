@@ -698,6 +698,7 @@
 
 ## JavaScript 
 
+- [gabyx/dotfiles](https://github.com/gabyx/dotfiles) - My dotfiles and NixOs configurations
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [mukul29/legacy-theme-auto-switcher-gnome-extension](https://github.com/mukul29/legacy-theme-auto-switcher-gnome-extension) - Change the GTK3 theme to light/dark variant based on the system color scheme
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -886,6 +887,7 @@
 
 ## Lua 
 
+- [gabyx/astronvim](https://github.com/gabyx/astronvim) - My user config
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [chipsenkbeil/org-roam.nvim](https://github.com/chipsenkbeil/org-roam.nvim) - Port of org-roam to neovim using orgmode
@@ -1562,6 +1564,7 @@
 
 ## TypeScript 
 
+- [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
