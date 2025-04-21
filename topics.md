@@ -238,6 +238,7 @@
 
 ## ai 
 
+- [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent & Windsurf Agent System Prompts, Tools & AI Models.
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
@@ -452,6 +453,7 @@
 
 ## bash 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
@@ -2703,7 +2705,6 @@
 - [mirthestam/lean-monitor](https://github.com/mirthestam/lean-monitor) - Windows Desktop App to browse Lean engine's backtest and live monitor progress and results.
 - [vincentbernat/pragmatic-debian-packages](https://github.com/vincentbernat/pragmatic-debian-packages) - Pragmatic Debian packaging
 - [jordansissel/fpm](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
-- [Soleedus/debian-i3gaps](https://github.com/Soleedus/debian-i3gaps) - An i3-gaps installer script for Debian Stretch (netinst)
 - [mintty/wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [PhillipTaylor/ngx_http_knock_module](https://github.com/PhillipTaylor/ngx_http_knock_module) - Guard websites with a secret handshake
 - [effequalsemeh/Exceptionally-Useless-Box](https://github.com/effequalsemeh/Exceptionally-Useless-Box) - All files related to building the Exceptionally Useless Box
@@ -3189,6 +3190,7 @@
 
 ## rust 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [ulyssa/iamb](https://github.com/ulyssa/iamb) - A Matrix client for Vim addicts
 - [coastalwhite/lemurs](https://github.com/coastalwhite/lemurs) - A customizable TUI display/login manager written in Rust 🐒
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -3324,6 +3326,7 @@
 
 ## shell 
 
+- [reubeno/brush](https://github.com/reubeno/brush) - bash/POSIX-compatible shell implemented in Rust
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
