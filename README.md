@@ -197,6 +197,7 @@
 
 ## C# # 
 
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [JustArchiNET/ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) - C# application with primary purpose of farming Steam cards from multiple accounts simultaneously.
 - [QuantConnect/quantconnect-stubs-generator](https://github.com/QuantConnect/quantconnect-stubs-generator) - Automatically generate Python type stubs for QuantConnect's Lean
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
@@ -936,6 +937,7 @@
 
 ## OCaml 
 
+- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi operations via pu
 - [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
@@ -1037,6 +1039,8 @@
 
 ## Python 
 
+- [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [matlink/gplaycli](https://github.com/matlink/gplaycli) - Google Play Downloader via Command line
 - [caseychu/spotify-backup](https://github.com/caseychu/spotify-backup) - A Python script that exports all of your Spotify playlists.
 - [oskarsh/Yin-Yang](https://github.com/oskarsh/Yin-Yang) - Auto Nightmode for KDE, Gnome, Budgie, VSCode, Atom and more
@@ -1075,7 +1079,6 @@
 - [BatuhanUsluel/Algorithmic-Support-and-Resistance](https://github.com/BatuhanUsluel/Algorithmic-Support-and-Resistance) - Automatically identifies support and resistance lines on a stock chart using reversal points, displays candlestick chart.
 - [Reed-Schimmel/support_resistance_finder](https://github.com/Reed-Schimmel/support_resistance_finder) - Python class to find support and resistance levels from candlestick data. (credit https://towardsdatascience.com/detection-of-price-support-and-resistance-levels-in-python-baedc44c34c9)
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
-- [flying-pizza-69/GestureX](https://github.com/flying-pizza-69/GestureX) - GestureX: Control Linux-based operating systems using hand gestures. Built using Mediapipe, OpenCV and PyGTK.
 - [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [tillkrischer/nofolder](https://github.com/tillkrischer/nofolder) - Deluge plugin
@@ -1529,7 +1532,7 @@
 - [jceb/dwm-clean-patches](https://github.com/jceb/dwm-clean-patches) - My patches for http://dwm.suckless.org/ that apply to vanilla dwm
 - [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
-- [tutumcloud/mysql-backup](https://github.com/tutumcloud/mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
+- [docker-archive/tutum-mysql-backup](https://github.com/docker-archive/tutum-mysql-backup) - [Deprecated] Docker image that regularly backs up a MySQL instance into a volume
 - [code-of-kpp/docker-seafile](https://github.com/code-of-kpp/docker-seafile) - Seafile docker image
 - [brianreumere/gandi-automatic-dns](https://github.com/brianreumere/gandi-automatic-dns) - Dynamic DNS shell script for Gandi
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
