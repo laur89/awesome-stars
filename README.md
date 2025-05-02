@@ -85,6 +85,8 @@
 
 ## C 
 
+- [infused-kim/kb_zmk_ps2_mouse_trackpoint_driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - A PS/2 mouse & trackpoint driver module for keyboards running the zmk firmware
+- [22ispencer/miryoku_kanata](https://github.com/22ispencer/miryoku_kanata) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
 - [CapnBry/HeaterMeter](https://github.com/CapnBry/HeaterMeter) - HeaterMeter and LinkMeter Arduino BBQ Controller
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
@@ -574,7 +576,7 @@
 
 ## HTML 
 
-- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - World's most advanced  DNS filter-/blocklists!
+- [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
 - [NoahTheDuke/vim-just](https://github.com/NoahTheDuke/vim-just) - Vim Just Syntax
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
@@ -608,6 +610,7 @@
 
 ## Java 
 
+- [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
@@ -867,6 +870,7 @@
 
 ## Kotlin 
 
+- [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
@@ -949,6 +953,8 @@
 
 ## Others 
 
+- [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
+- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
 - [argenkiwi/kenkyo](https://github.com/argenkiwi/kenkyo) - A layered keyboard layout for standard ANSI keyboards
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent & VSCode Agent (And other Open Sourced) System Prompts, Tools & AI Models.
 - [Avamander/AdBlock](https://github.com/Avamander/AdBlock) - Eriti range (reklaamid+analüütika+tüütused) Eesti saitidele kohandatud AdBlock (uBlock Origin) filter
@@ -1116,7 +1122,6 @@
 - [Zren/plasma-hud](https://github.com/Zren/plasma-hud) - Provides a way to run menubar commands in KDE Plasma through rofi, much like the Unity 7 Heads-Up Display (HUD).
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [obynio/certbot-plugin-gandi](https://github.com/obynio/certbot-plugin-gandi) - Certbot plugin for authentication using Gandi LiveDNS
-- [twopirllc/pandas-ta](https://github.com/twopirllc/pandas-ta) - Technical Analysis Indicators - Pandas TA is an easy to use Python 3 Pandas Extension with 150+ Indicators
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) - Python quantitative trading strategies including VIX Calculator, Pattern Recognition, Commodity Trading Advisor, Monte Carlo, Options Straddle, Shooting Star, London Breakout, Heikin-Ashi, Pair Tradin
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
@@ -1573,6 +1578,7 @@
 
 ## TypeScript 
 
+- [younesaassila/ttv-lol-pro](https://github.com/younesaassila/ttv-lol-pro) - TTV LOL PRO removes most livestream ads from Twitch. This is free, don't expect it to be perfect.
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
