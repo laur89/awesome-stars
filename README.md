@@ -85,6 +85,7 @@
 
 ## C 
 
+- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [infused-kim/kb_zmk_ps2_mouse_trackpoint_driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - A PS/2 mouse & trackpoint driver module for keyboards running the zmk firmware
 - [22ispencer/miryoku_kanata](https://github.com/22ispencer/miryoku_kanata) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
 - [OneDeadKey/arsenik](https://github.com/OneDeadKey/arsenik) - A 33-key layout that works with all keyboards.
@@ -226,6 +227,7 @@
 
 ## C++ 
 
+- [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [martin-stone/touchcursor](https://github.com/martin-stone/touchcursor) - A keyboard utility that lets you use the home keys (e.g. JKL) as cursor keys -- in all Windows programs -- keeping your fingers in the best position for fast typing.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -953,6 +955,7 @@
 
 ## Others 
 
+- [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
 - [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
 - [argenkiwi/kenkyo](https://github.com/argenkiwi/kenkyo) - A layered keyboard layout for standard ANSI keyboards
@@ -1045,6 +1048,8 @@
 
 ## Python 
 
+- [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
+- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but automated and with Calibre features! Fully automate and simplify your eBook set up!
 - [matlink/gplaycli](https://github.com/matlink/gplaycli) - Google Play Downloader via Command line
@@ -1419,6 +1424,8 @@
 
 ## Shell 
 
+- [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
+- [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - A minimal tmux plugin for customizable floating shells (‘shpells‘) with simple design.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
