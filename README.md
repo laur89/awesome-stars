@@ -703,6 +703,7 @@
 
 ## JavaScript 
 
+- [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
 - [gabyx/dotfiles](https://github.com/gabyx/dotfiles) - My dotfiles and NixOs configurations
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
 - [mukul29/legacy-theme-auto-switcher-gnome-extension](https://github.com/mukul29/legacy-theme-auto-switcher-gnome-extension) - Change the GTK3 theme to light/dark variant based on the system color scheme
@@ -1048,6 +1049,7 @@
 
 ## Python 
 
+- [Francesco146/revanced-for-dummies](https://github.com/Francesco146/revanced-for-dummies) - ReVanced Patcher framework docs for new devs
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
 - [calibrain/calibre-web-automated-book-downloader](https://github.com/calibrain/calibre-web-automated-book-downloader) - 
@@ -1751,6 +1753,7 @@
 
 ## Zig 
 
+- [mgord9518/aisap](https://github.com/mgord9518/aisap) - Tool to make sandboxing AppImages easy
 - [fairyglade/ly](https://github.com/fairyglade/ly) - display manager with console UI
 
 
