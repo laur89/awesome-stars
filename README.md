@@ -1049,6 +1049,7 @@
 
 ## Python 
 
+- [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 - [Francesco146/revanced-for-dummies](https://github.com/Francesco146/revanced-for-dummies) - ReVanced Patcher framework docs for new devs
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure & application monitoring
@@ -1330,6 +1331,7 @@
 
 ## Rust 
 
+- [cxreiff/bevy_ratatui_camera](https://github.com/cxreiff/bevy_ratatui_camera) - A bevy plugin for rendering your bevy app to the terminal using ratatui.
 - [LGUG2Z/komokana](https://github.com/LGUG2Z/komokana) - Automatic application-aware keyboard layer switching for Windows
 - [TeXitoi/keyberon](https://github.com/TeXitoi/keyberon) - A rust crate to create a pure rust keyboard firmware.
 - [espanso/espanso](https://github.com/espanso/espanso) - Cross-platform Text Expander written in Rust
@@ -1426,6 +1428,8 @@
 
 ## Shell 
 
+- [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
+- [secureblue/secureblue](https://github.com/secureblue/secureblue) - Hardened Fedora Atomic and Fedora CoreOS images
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - A minimal tmux plugin for customizable floating shells (‘shpells‘) with simple design.
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
