@@ -86,6 +86,7 @@
 
 ## C 
 
+- [iovisor/bcc](https://github.com/iovisor/bcc) - BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more
 - [marchaesen/vcxsrv](https://github.com/marchaesen/vcxsrv) - Windows X-server based on the xorg git sources (like xming or cygwin's xwin), but compiled with Visual Studio 2012 Community Edition.
 - [bedrocklinux/bedrocklinux-userland](https://github.com/bedrocklinux/bedrocklinux-userland) - This tracks development for the things such as scripts and (defaults for) config files for Bedrock Linux
 - [swaywm/swayidle](https://github.com/swaywm/swayidle) - Idle management daemon for Wayland
@@ -616,6 +617,7 @@
 
 ## Java 
 
+- [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
@@ -707,6 +709,7 @@
 
 ## JavaScript 
 
+- [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
 - [gabyx/dotfiles](https://github.com/gabyx/dotfiles) - My dotfiles and NixOs configurations
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
@@ -1057,6 +1060,7 @@
 
 ## Python 
 
+- [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
 - [CauldronDevelopmentLLC/sandbubble](https://github.com/CauldronDevelopmentLLC/sandbubble) - Easily sandbox applications in Linux.
 - [WANDEX/twitchez](https://github.com/WANDEX/twitchez) - TUI client for Amazon's twitch.tv with thumbnails
 - [spesmilo/electrum](https://github.com/spesmilo/electrum) - Electrum Bitcoin Wallet
@@ -1445,6 +1449,7 @@
 
 ## Shell 
 
+- [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Donearm/scripts](https://github.com/Donearm/scripts) - a collection of personal scripts and libraries
 - [WoeUSB/WoeUSB](https://github.com/WoeUSB/WoeUSB) - A Microsoft Windows® USB installation media preparer for GNU+Linux
