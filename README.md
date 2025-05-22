@@ -233,6 +233,7 @@
 
 ## C++ 
 
+- [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [martin-stone/touchcursor](https://github.com/martin-stone/touchcursor) - A keyboard utility that lets you use the home keys (e.g. JKL) as cursor keys -- in all Windows programs -- keeping your fingers in the best position for fast typing.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -1449,6 +1450,7 @@
 
 ## Shell 
 
+- [r0b0/debian-installer](https://github.com/r0b0/debian-installer) - Opinionated Debian Installer - alternative debian installer for laptops and desktop PCs
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
 - [Donearm/scripts](https://github.com/Donearm/scripts) - a collection of personal scripts and libraries
