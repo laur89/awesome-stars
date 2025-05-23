@@ -2292,6 +2292,7 @@
 
 ## others 
 
+- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch)
 - [r0b0/debian-installer](https://github.com/r0b0/debian-installer) - Opinionated Debian Installer - alternative debian installer for laptops and desktop PCs
 - [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
