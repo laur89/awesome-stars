@@ -1450,6 +1450,7 @@
 
 ## Shell 
 
+- [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch)
 - [r0b0/debian-installer](https://github.com/r0b0/debian-installer) - Opinionated Debian Installer - alternative debian installer for laptops and desktop PCs
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
