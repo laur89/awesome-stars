@@ -1047,6 +1047,7 @@
 
 ## Perl 
 
+- [digint/btrbk](https://github.com/digint/btrbk) - Tool for creating snapshots and remote backups of btrfs subvolumes
 - [mina86/urxvt-tabbedex](https://github.com/mina86/urxvt-tabbedex) - Tabbed plugin for rxvt-unicode with many enhancements
 - [gryf/tabbedalt](https://github.com/gryf/tabbedalt) - Extended tabbed plugin for rxvt-unicode (urxvt)
 - [mrash/fwknop](https://github.com/mrash/fwknop) - Single Packet Authorization &gt; Port Knocking
@@ -1456,6 +1457,7 @@
 
 ## Shell 
 
+- [baodrate/snap-sync](https://github.com/baodrate/snap-sync) - Use snapper snapshots to backup to external drive
 - [kdave/btrfsmaintenance](https://github.com/kdave/btrfsmaintenance) - Scripts for btrfs maintenance tasks like periodic scrub, balance, trim or defrag on selected mountpoints or directories.
 - [Pixel-Props/BetterKnownInstalled](https://github.com/Pixel-Props/BetterKnownInstalled) - Patches packages to fix DroidGuard UNKNOWN_INSTALLED issues. (Magisk/KernelSU/APatch)
 - [r0b0/debian-installer](https://github.com/r0b0/debian-installer) - Opinionated Debian Installer - alternative debian installer for laptops and desktop PCs
