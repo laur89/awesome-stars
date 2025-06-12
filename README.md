@@ -238,6 +238,7 @@
 
 ## C++ 
 
+- [romkatv/gitstatus](https://github.com/romkatv/gitstatus) - Git status for Bash and Zsh prompt
 - [hevnsnt/NOTCHACOTCHA](https://github.com/hevnsnt/NOTCHACOTCHA) - NOTCHACOTCHA
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [martin-stone/touchcursor](https://github.com/martin-stone/touchcursor) - A keyboard utility that lets you use the home keys (e.g. JKL) as cursor keys -- in all Windows programs -- keeping your fingers in the best position for fast typing.
@@ -262,7 +263,6 @@
 - [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [GothenburgBitFactory/taskwarrior](https://github.com/GothenburgBitFactory/taskwarrior) - Taskwarrior - Command line Task Management
 - [badaix/snapcast](https://github.com/badaix/snapcast) - Synchronous multiroom audio player
-- [chiteroman/PlayIntegrityFix](https://github.com/chiteroman/PlayIntegrityFix) - Fix Play Integrity (and SafetyNet) verdicts.
 - [thermitegod/spacefm](https://github.com/thermitegod/spacefm) - SpaceFM File Manager
 - [robbert-vdh/yabridge](https://github.com/robbert-vdh/yabridge) - A modern and transparent way to use Windows VST2, VST3 and CLAP plugins on Linux
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
@@ -328,6 +328,7 @@
 
 ## Clojure 
 
+- [coconutpalm/clojure-desktop-toolkit](https://github.com/coconutpalm/clojure-desktop-toolkit) - Create native state-of-the-art desktop applications in Clojure using Eclipse's SWT graphics toolkit.
 - [askonomm/ruuter](https://github.com/askonomm/ruuter) - A system-agnostic, zero-dependency router
 - [askonomm/blocko](https://github.com/askonomm/blocko) - A block-based WYSIWYG editor.
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A Clojure web framework for solo developers.
@@ -976,6 +977,7 @@
 
 ## Others 
 
+- [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - x-cmd: Bootstrap 1000+ command line tools in seconds.
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
@@ -1071,6 +1073,7 @@
 
 ## Python 
 
+- [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
 - [CauldronDevelopmentLLC/sandbubble](https://github.com/CauldronDevelopmentLLC/sandbubble) - Easily sandbox applications in Linux.
@@ -1091,7 +1094,7 @@
 - [StuffAnThings/qbit_manage](https://github.com/StuffAnThings/qbit_manage) - This tool will help manage tedious tasks in qBittorrent and automate them. Tag, categorize, remove Orphaned data, remove unregistered torrents and much much more.
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [nardew/talipp](https://github.com/nardew/talipp) - talipp - incremental technical analysis library for python
-- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.
+- [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Morritse/SentimenTA](https://github.com/Morritse/SentimenTA) - 
@@ -1360,6 +1363,8 @@
 
 ## Rust 
 
+- [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
+- [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [GraphiteEditor/Graphite](https://github.com/GraphiteEditor/Graphite) - 2D vector & raster editor that melds traditional layers & tools with a modern node-based, non-destructive, procedural workflow.
 - [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust
@@ -1466,6 +1471,10 @@
 
 ## Shell 
 
+- [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
+- [vigneshwaranr/bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory in linux instead of typing "cd ../../.." repeatedly
+- [Tarrasch/zsh-bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
+- [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k) - A Zsh theme
 - [joshskidmore/zsh-fzf-history-search](https://github.com/joshskidmore/zsh-fzf-history-search) - A simple zsh plugin that replaces Ctrl+R with an fzf-driven select which includes date/times.
 - [marlonrichert/zsh-launchpad](https://github.com/marlonrichert/zsh-launchpad) - 🚀 Simple, educational dotfiles template to get started with Zsh and learn about its features
 - [romkatv/zsh-bench](https://github.com/romkatv/zsh-bench) - Benchmark for interactive Zsh
