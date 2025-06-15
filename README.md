@@ -484,6 +484,7 @@
 
 ## Go 
 
+- [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Your UNIX rm command with a safety net!
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -916,6 +917,7 @@
 
 ## Lua 
 
+- [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
 - [gabyx/astronvim](https://github.com/gabyx/astronvim) - My user config
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
@@ -1363,6 +1365,7 @@
 
 ## Rust 
 
+- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -1471,6 +1474,14 @@
 
 ## Shell 
 
+- [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
+- [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
+- [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
+- [crivotz/dot_files](https://github.com/crivotz/dot_files) - My dot_files for linux - i3, zinit, tmux, tmuxinator, urxvt and Co
+- [oryband/dotfiles](https://github.com/oryband/dotfiles) - My main working machine setup. Here be cyber dragons, and optional bugs.
+- [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
+- [trapd00r/LS_COLORS](https://github.com/trapd00r/LS_COLORS) - A collection of LS_COLORS definitions; needs your contribution!
+- [loiccoyle/zsh-github-copilot](https://github.com/loiccoyle/zsh-github-copilot) - 🧠 GitHub Copilot for your command line
 - [jeffreytse/zsh-vi-mode](https://github.com/jeffreytse/zsh-vi-mode) - 💻 A better and friendly vi(vim) mode plugin for ZSH.
 - [vigneshwaranr/bd](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory in linux instead of typing "cd ../../.." repeatedly
 - [Tarrasch/zsh-bd](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`
