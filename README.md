@@ -1075,6 +1075,7 @@
 
 ## Python 
 
+- [IngoMeyer441/zsh-easy-motion](https://github.com/IngoMeyer441/zsh-easy-motion) - Vim's easy-motion for zsh
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
@@ -1365,6 +1366,7 @@
 
 ## Rust 
 
+- [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty
 - [quantumsheep/sshs](https://github.com/quantumsheep/sshs) - Terminal user interface for SSH
 - [wezterm/wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
@@ -1474,6 +1476,12 @@
 
 ## Shell 
 
+- [sineto/web-search](https://github.com/sineto/web-search) - ZSH Plugin: zsh plugin for web searching
+- [hlissner/zsh-autopair](https://github.com/hlissner/zsh-autopair) - Auto-close and delete matching delimiters in zsh
+- [zsh-users/zsh-history-substring-search](https://github.com/zsh-users/zsh-history-substring-search) - 🐠 ZSH port of Fish history search (up arrow)
+- [kutsan/zsh-system-clipboard](https://github.com/kutsan/zsh-system-clipboard) - System clipboard key bindings for Zsh Line Editor with vi mode. It is similar to what `set clipboard=unnamed` does for vim.
+- [kdheepak/dotfiles](https://github.com/kdheepak/dotfiles) - 
+- [Freed-Wu/fzf-tab-source](https://github.com/Freed-Wu/fzf-tab-source) - :gear: a collection of fzf-tab completion sources.
 - [toddyamakawa/tmux-scratchpad](https://github.com/toddyamakawa/tmux-scratchpad) - 
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
@@ -1771,6 +1779,7 @@
 
 ## Vim Script 
 
+- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
 - [farmergreg/vim-lastplace](https://github.com/farmergreg/vim-lastplace) - A vim / nvim plugin that intelligently reopens files at your last edit position.
 - [mboughaba/i3config.vim](https://github.com/mboughaba/i3config.vim) - Vim syntax highlighting for i3 config :point_left:
