@@ -490,7 +490,7 @@
 
 ## Go 
 
-- [e6a5/flow](https://github.com/e6a5/flow) - Flow - A Command-Line Tool for Deep Work 🌊
+- [e6a5/flow](https://github.com/e6a5/flow) - flow - a command-line tool for deep work 🌊
 - [wyne/fasder](https://github.com/wyne/fasder) - Modern version of fasd file and directory access
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
