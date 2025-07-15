@@ -333,6 +333,7 @@
 
 ## Clojure 
 
+- [cgrand/parsley](https://github.com/cgrand/parsley) - a DSL for creating total and truly incremental parsers in Clojure
 - [kkinnear/zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
 - [coconutpalm/clojure-desktop-toolkit](https://github.com/coconutpalm/clojure-desktop-toolkit) - Create native state-of-the-art desktop applications in Clojure using Eclipse's SWT graphics toolkit.
 - [askonomm/ruuter](https://github.com/askonomm/ruuter) - A system-agnostic, zero-dependency router
@@ -638,6 +639,7 @@
 
 ## Java 
 
+- [mstrobel/procyon](https://github.com/mstrobel/procyon) - Procyon is a suite of Java metaprogramming tools, including a rich reflection API, a LINQ-inspired expression tree API for runtime code generation, and a Java decompiler.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -678,7 +680,7 @@
 - [jaju/spring-boost](https://github.com/jaju/spring-boost) - Introduce Clojure and live-coding power to your Spring Boot application!
 - [ma1uta/ma1sd](https://github.com/ma1uta/ma1sd) - Federated Matrix Identity Server (formerly fork of kamax/mxisd)
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Advanced player for set-top boxes and tvs running Android OS
+- [yuliskov/SmartTube](https://github.com/yuliskov/SmartTube) - Browse media content with your own rules on Android TV
 - [pazone/ashot](https://github.com/pazone/ashot) - WebDriver Screenshot utility. Take screenshots, crop, prettify, compare
 - [spring-attic/spring-cloud-security](https://github.com/spring-attic/spring-cloud-security) - Security concerns for distributed applications implemented in Spring
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
@@ -1100,6 +1102,8 @@
 
 ## Python 
 
+- [aidan-gallagher/debpic](https://github.com/aidan-gallagher/debpic) - Debpic lets you easily build Debian packages in an isolated Docker environment.
+- [eylles/pywal16](https://github.com/eylles/pywal16) - 16 colors fork of pywal
 - [nicolgit/gits-statuses](https://github.com/nicolgit/gits-statuses) - A python/powershell command-line tool to display the status of multiple Git repositories in a clear, tabular format.
 - [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
 - [langroid/langroid-examples](https://github.com/langroid/langroid-examples) - Using Langroid's Multi-Agent Framework to Build LLM Apps
