@@ -144,6 +144,7 @@
 - [Ralim/IronOS](https://github.com/Ralim/IronOS) - Open Source Soldering Iron firmware
 - [cyring/CoreFreq](https://github.com/cyring/CoreFreq) - CoreFreq : CPU monitoring and tuning software designed for 64-bit processors.
 - [rockowitz/ddcutil](https://github.com/rockowitz/ddcutil) - Control monitor settings using DDC/CI and USB
+- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [netblue30/firejail](https://github.com/netblue30/firejail) - Linux namespaces and seccomp-bpf sandbox
 - [rizinorg/rizin](https://github.com/rizinorg/rizin) - UNIX-like reverse engineering framework and command-line toolset.
 - [ililim/dual-key-remap](https://github.com/ililim/dual-key-remap) - Remap any key to any other two keys on Windows 🔥. Remap CapsLock to both Ctrl and Escape! (It's like xcape for windows!)
@@ -287,7 +288,6 @@
 - [USBGuard/usbguard](https://github.com/USBGuard/usbguard) - USBGuard is a software framework for implementing USB device authorization policies (what kind of USB devices are authorized) as well as method of use policies (how a USB device may interact with the 
 - [vnotex/vnote](https://github.com/vnotex/vnote) - A pleasant note-taking platform in native C++.
 - [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
-- [h2337/connmap](https://github.com/h2337/connmap) - connmap is an X11 desktop widget that shows location of your current network peers on a world map in real-time
 - [Genivia/ugrep](https://github.com/Genivia/ugrep) - 🔍 ugrep 7.5 file pattern searcher -- a user-friendly, faster, more capable grep replacement. Includes a TUI, Google-like Boolean search with AND/OR/NOT, fuzzy search, hexdumps, searches (nested) archi
 - [GuitarML/SmartGuitarAmp](https://github.com/GuitarML/SmartGuitarAmp) - Guitar plugin made with JUCE that uses neural networks to emulate a tube amplifier.
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
@@ -1421,7 +1421,7 @@
 ## Rust 
 
 - [imsnif/bandwhich](https://github.com/imsnif/bandwhich) - Terminal bandwidth utilization tool
-- [kamlendras/aerogel](https://github.com/kamlendras/aerogel) - Overlay AI for Wayland
+- [kamlendras/aerogel](https://github.com/kamlendras/aerogel) - Overlay AI for wlroots Wayland Compositors
 - [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager) - A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
