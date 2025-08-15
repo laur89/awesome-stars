@@ -88,6 +88,7 @@
 
 ## C 
 
+- [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
 - [jgmenu/jgmenu](https://github.com/jgmenu/jgmenu) - An X11 menu
@@ -196,7 +197,7 @@
 - [cmus/cmus](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [neomutt/neomutt](https://github.com/neomutt/neomutt) - ✉️ Teaching an Old Dog New Tricks -- IRC: #neomutt on irc.libera.chat
 - [i3/i3](https://github.com/i3/i3) - A tiling window manager for X11
-- [haiwen/seafile](https://github.com/haiwen/seafile) - High performance file syncing and sharing, with also Markdown WYSIWYG editing, Wiki, file label and other knowledge management features.
+- [haiwen/seafile](https://github.com/haiwen/seafile) - Beyong file syncing and sharing, a new way to organize your files with extensible file properties and flexible views
 - [nbs-system/naxsi](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX
 - [IgnorantGuru/spacefm](https://github.com/IgnorantGuru/spacefm) - SpaceFM File Manager
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
@@ -252,7 +253,7 @@
 - [houmain/keymapper](https://github.com/houmain/keymapper) - A cross-platform context-aware key remapper.
 - [martin-stone/touchcursor](https://github.com/martin-stone/touchcursor) - A keyboard utility that lets you use the home keys (e.g. JKL) as cursor keys -- in all Windows programs -- keeping your fingers in the best position for fast typing.
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
-- [rancilio-pid/clevercoffee](https://github.com/rancilio-pid/clevercoffee) - Do-It-Yourself PID für Espressomaschinen
+- [rancilio-pid/clevercoffee](https://github.com/rancilio-pid/clevercoffee) - Open, modular controller platform for portafilter espresso machines
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based Telegram / WhatsApp client for Linux and macOS
 - [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
@@ -516,7 +517,7 @@
 - [tbvdm/sigtop](https://github.com/tbvdm/sigtop) - Export messages from Signal Desktop
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
 - [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
-- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
+- [Aylur/ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+Gnim
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
 - [jonaslu/ain](https://github.com/jonaslu/ain) - A HTTP API client for the terminal
@@ -653,7 +654,6 @@
 - [java-native-access/jna](https://github.com/java-native-access/jna) - Java Native Access
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [QuantumBadger/RedReader](https://github.com/QuantumBadger/RedReader) - An unofficial open source Android app for Reddit.
-- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [REAndroid/APKEditor](https://github.com/REAndroid/APKEditor) - Powerful android apk editor - aapt/aapt2 independent
 - [AbdurazaaqMohammed/AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) - App to AntiSplit (merge) split APKs (APKS/XAPK/APKM) to regular .APK file on Android
 - [pluscubed/matlog](https://github.com/pluscubed/matlog) - Material Logcat reader based on CatLog
@@ -925,6 +925,7 @@
 
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
+- [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A modification for the Discord Android App
 - [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
@@ -959,6 +960,7 @@
 - [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 - [namishh/kodo](https://github.com/namishh/kodo) - a blazingly bad neovim config
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [sahib/dotfiles](https://github.com/sahib/dotfiles) - A mirror for my personal configs
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
 - [epwalsh/obsidian.nvim](https://github.com/epwalsh/obsidian.nvim) - Obsidian 🤝 Neovim
@@ -1015,6 +1017,7 @@
 
 ## Others 
 
+- [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
 - [hmgle/aider-zsh-complete](https://github.com/hmgle/aider-zsh-complete) - Zsh completion script for the `aider`
@@ -1114,6 +1117,7 @@
 
 ## Python 
 
+- [ignis-sh/ignis](https://github.com/ignis-sh/ignis) - A widget framework for building desktop shells, written and configurable in Python
 - [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo) - A scalable generative AI framework built for researchers and developers working on Large Language Models, Multimodal, and Speech AI (Automatic Speech Recognition and Text-to-Speech)
 - [Vladimir-csp/uwsm](https://github.com/Vladimir-csp/uwsm) - Universal Wayland Session Manager
 - [libkeepass/pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
@@ -1273,7 +1277,7 @@
 - [ceordonez/python-wofi](https://github.com/ceordonez/python-wofi) - A Python module to make simple GUIs with Wofi
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [balta2ar/brotab](https://github.com/balta2ar/brotab) - Control your browser's tabs from the command line
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Investment Research for Everyone, Everywhere.
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data aggregator for humans and AI agents.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [Evidlo/passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
 - [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
@@ -1600,7 +1604,6 @@
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [Nuzair46/BlockTheSpot-Linux](https://github.com/Nuzair46/BlockTheSpot-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [P3rf/rofi-network-manager](https://github.com/P3rf/rofi-network-manager) - A manager for network connections using bash, rofi, nmcli,qrencode.
-- [bibjaw99/workstation](https://github.com/bibjaw99/workstation) - 
 - [llGaetanll/rice](https://github.com/llGaetanll/rice) - My collection of Dotfiles for zsh, vim, lf, bspwm, and more.
 - [polybar/polybar-scripts](https://github.com/polybar/polybar-scripts) - This is a community project. We write and collect scripts for polybar!
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
