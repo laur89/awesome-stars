@@ -322,6 +322,7 @@
 
 ## CSS 
 
+- [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
 - [TheLittleCake/Lou-Rose-pine-niri-dotfiles](https://github.com/TheLittleCake/Lou-Rose-pine-niri-dotfiles) - Small rice to feel a home using niri
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
 - [AlirezaKJ/BetterSoundCloud](https://github.com/AlirezaKJ/BetterSoundCloud) - A PC client of SoundCloud with improvement made using electronjs
@@ -1551,6 +1552,7 @@
 
 ## Shell 
 
+- [randomboi404/eww](https://github.com/randomboi404/eww) - My EWW widgets config.
 - [vinceliuice/Elegant-grub2-themes](https://github.com/vinceliuice/Elegant-grub2-themes) - Elegant grub2 themes for all linux systems
 - [hiAndrewQuinn/shell-bling-ubuntu](https://github.com/hiAndrewQuinn/shell-bling-ubuntu) - A few scripts to be run on a fresh-off-the-presses Ubuntu VM, in order to get its shell nice 'n purdy.
 - [intelfx/user-systemd-units](https://github.com/intelfx/user-systemd-units) - My own bunch of "systemd --user" units. Created by RTFM, trial and error.
