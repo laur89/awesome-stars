@@ -2512,6 +2512,12 @@
 
 ## others 
 
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
+- [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
+- [SherLock707/hyprland_dot_yadm](https://github.com/SherLock707/hyprland_dot_yadm) - Arch Hyprland dotfiles via YADM.
+- [magillos/Cable](https://github.com/magillos/Cable) - PyQT application to dynamically modify Pipewire and Wireplumber settings at runtime.
+- [Sebastiaan76/waybar_wireplumber_audio_changer](https://github.com/Sebastiaan76/waybar_wireplumber_audio_changer) - A script that uses wofi and wpctl to change audio sinks. Can be used with waybar to make a clickable audio sink changer
+- [digitaltrails/ddcutil-service](https://github.com/digitaltrails/ddcutil-service) - A Dbus ddcutil server for control of DDC Monitors/VDUs
 - [jRimbault/utils-rs](https://github.com/jRimbault/utils-rs) - little snippets of code I think are worth keeping around
 - [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
 - [randomboi404/eww](https://github.com/randomboi404/eww) - My EWW widgets config.
