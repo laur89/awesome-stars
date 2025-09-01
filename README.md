@@ -22,6 +22,7 @@
 - [Emacs Lisp](#emacs-lisp)
 - [Erlang](#erlang)
 - [Fluent](#fluent)
+- [GLSL](#glsl)
 - [Gherkin](#gherkin)
 - [Go](#go)
 - [HTML](#html)
@@ -88,6 +89,7 @@
 
 ## C 
 
+- [digitaltrails/ddcutil-service](https://github.com/digitaltrails/ddcutil-service) - A Dbus ddcutil server for control of DDC Monitors/VDUs
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
 - [eradman/entr](https://github.com/eradman/entr) - Run arbitrary commands when files change
 - [dawsers/scroll](https://github.com/dawsers/scroll) - i3-compatible Wayland compositor (sway) with a PaperWM layout like niri or hyprscroller
@@ -493,12 +495,17 @@
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
 
+## GLSL 
+
+- [SherLock707/hyprland_dot_yadm](https://github.com/SherLock707/hyprland_dot_yadm) - Arch Hyprland dotfiles via YADM.
+
 ## Gherkin 
 
 - [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 
 ## Go 
 
+- [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [yusing/godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
 - [ergochat/ergo](https://github.com/ergochat/ergo) - A modern IRC server (daemon/ircd) written in Go.
@@ -1119,6 +1126,9 @@
 
 ## Python 
 
+- [Fabric-Development/fabric](https://github.com/Fabric-Development/fabric) - The next-generation framework for building desktop widgets using Python
+- [magillos/Cable](https://github.com/magillos/Cable) - PyQT application to dynamically modify Pipewire and Wireplumber settings at runtime.
+- [Sebastiaan76/waybar_wireplumber_audio_changer](https://github.com/Sebastiaan76/waybar_wireplumber_audio_changer) - A script that uses wofi and wpctl to change audio sinks. Can be used with waybar to make a clickable audio sink changer
 - [sepandhaghighi/mycoffee](https://github.com/sepandhaghighi/mycoffee) - ☕ Brew Perfect Coffee Right from Your Terminal
 - [simple-login/app](https://github.com/simple-login/app) - The SimpleLogin back-end and web app
 - [ignis-sh/ignis](https://github.com/ignis-sh/ignis) - A widget framework for building desktop shells, written and configurable in Python
