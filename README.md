@@ -1576,6 +1576,7 @@
 
 ## Shell 
 
+- [WillForan/wf-utils](https://github.com/WillForan/wf-utils) - A set of scripts to scratch very specific itches (i3, zim, mail)
 - [Arctize/barify](https://github.com/Arctize/barify) - Modify volume or brightness and display result as a bar via notifications (either dunst or mako).
 - [rcaloras/bash-preexec](https://github.com/rcaloras/bash-preexec) - ⚡ preexec and precmd functions for Bash just like Zsh.
 - [anufrievroman/neomutt-file-picker](https://github.com/anufrievroman/neomutt-file-picker) - Attach and save files in NeoMutt using Ranger or Vifm as your file picker
