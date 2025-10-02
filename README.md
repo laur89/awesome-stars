@@ -1455,6 +1455,7 @@
 
 ## Rust 
 
+- [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [tarka/xcp](https://github.com/tarka/xcp) - An extended `cp`
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
