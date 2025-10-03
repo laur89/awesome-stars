@@ -1308,7 +1308,7 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
 - [Evidlo/passhole](https://github.com/Evidlo/passhole) - A secure hole for your passwords (KeePass CLI)
-- [MarkHedleyJones/dmenu-extended](https://github.com/MarkHedleyJones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
+- [markhedleyjones/dmenu-extended](https://github.com/markhedleyjones/dmenu-extended) - An extension to dmenu for quickly opening files and folders.
 - [Ricks-Lab/gpu-utils](https://github.com/Ricks-Lab/gpu-utils) - A set of utilities for monitoring and customizing GPU performance
 - [devksingh4/thinkpad-tools](https://github.com/devksingh4/thinkpad-tools) - Tools to manage Thinkpad properties
 - [ConradSelig/cliStocksTracker](https://github.com/ConradSelig/cliStocksTracker) - A command line utility for tracking a stock market portfolio. Primarily featuring high resolution braille graphs.
