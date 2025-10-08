@@ -49,6 +49,7 @@
 - [Perl](#perl)
 - [PowerShell](#powershell)
 - [Python](#python)
+- [QML](#qml)
 - [Racket](#racket)
 - [ReScript](#rescript)
 - [Reason](#reason)
@@ -1413,6 +1414,10 @@
 - [styxit/AmbiPie](https://github.com/styxit/AmbiPie) - Raspberry pi script to control led, based on xbmc (bob light) output. Ambilight clone, proof of concept.
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [scdl-org/scdl](https://github.com/scdl-org/scdl) - Soundcloud Music Downloader
+
+## QML 
+
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
 
 ## Racket 
 
