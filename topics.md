@@ -520,6 +520,7 @@
 - [mrzool/bash-sensible](https://github.com/mrzool/bash-sensible) - An attempt at saner Bash defaults
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
 - [akinomyoga/ble.sh](https://github.com/akinomyoga/ble.sh) - Bash Line Editor―a line editor written in pure Bash with syntax highlighting, auto suggestions, vim modes, etc. for Bash interactive sessions.
+- [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Lightweight tmux plugin for customizable floating shells (“shpells”) — fast, scriptable, aesthetic.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
@@ -1146,7 +1147,7 @@
 
 ## dotfiles 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
@@ -1614,6 +1615,7 @@
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
+- [clojure-lsp/clojure-lsp](https://github.com/clojure-lsp/clojure-lsp) - Clojure & ClojureScript Language Server (LSP) implementation
 - [hasura/learn-graphql](https://github.com/hasura/learn-graphql) - Real world GraphQL tutorials for frontend developers with deadlines!
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
@@ -2041,7 +2043,7 @@
 
 ## linux 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [tarka/xcp](https://github.com/tarka/xcp) - An extended `cp`
@@ -2302,7 +2304,7 @@
 
 ## material-design 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Rice built for usability
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - 📂 Web File Browser
 - [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
@@ -2579,6 +2581,7 @@
 
 ## others 
 
+- [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with --exclude
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [nicklan/i3config](https://github.com/nicklan/i3config) - Repo for my various i3 configuration files and scripts
 - [yurikhan/firefox-i3-workspaces](https://github.com/yurikhan/firefox-i3-workspaces) - Restore Firefox windows to correct i3 workspaces
@@ -3872,7 +3875,6 @@
 - [ohmybash/oh-my-bash](https://github.com/ohmybash/oh-my-bash) - A delightful community-driven framework for managing your bash configuration, and an auto-update tool so that makes it easy to keep up with the latest updates from the community.
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
-- [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - A minimal tmux plugin for customizable floating shells (‘shpells‘) with simple design.
 - [reubeno/brush](https://github.com/reubeno/brush) - 🐚bash/POSIX-compatible shell implemented in Rust 🦀
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [leo-arch/clifm](https://github.com/leo-arch/clifm) - 💾 The shell-like, command line terminal file manager
