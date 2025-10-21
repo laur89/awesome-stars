@@ -90,6 +90,7 @@
 
 ## C 
 
+- [ThatOtherAndrew/Hexecute](https://github.com/ThatOtherAndrew/Hexecute) - Launch apps by casting spells! 🪄
 - [X11Libre/xserver](https://github.com/X11Libre/xserver) - XLibre Xserver
 - [digitaltrails/ddcutil-service](https://github.com/digitaltrails/ddcutil-service) - A Dbus ddcutil server for control of DDC Monitors/VDUs
 - [francma/wob](https://github.com/francma/wob) - Lightweight overlay volume, brightness (or anything) bar for Wayland
@@ -350,7 +351,7 @@
 - [cgrand/parsley](https://github.com/cgrand/parsley) - a DSL for creating total and truly incremental parsers in Clojure
 - [kkinnear/zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
 - [coconutpalm/clojure-desktop-toolkit](https://github.com/coconutpalm/clojure-desktop-toolkit) - Create native state-of-the-art desktop applications in Clojure using Eclipse's SWT graphics toolkit.
-- [askonomm/ruuter](https://github.com/askonomm/ruuter) - A system-agnostic, zero-dependency router
+- [askonomm/ruuter](https://github.com/askonomm/ruuter) - A zero-dependency, runtime-agnostic router.
 - [askonomm/blocko](https://github.com/askonomm/blocko) - A block-based WYSIWYG editor.
 - [jacobobryant/biff](https://github.com/jacobobryant/biff) - A Clojure web framework for solo developers.
 - [candid82/euler](https://github.com/candid82/euler) - Solutions to project euler (http://projecteuler.net/) in (hopefully) idiomatic Clojure
@@ -490,6 +491,7 @@
 
 ## Erlang 
 
+- [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
 - [lfe/lfe](https://github.com/lfe/lfe) - Lisp Flavoured Erlang (LFE)
 - [rustyio/sync](https://github.com/rustyio/sync) - On-the-fly recompiling and reloading in Erlang. Code without friction.
@@ -509,7 +511,6 @@
 
 ## Go 
 
-- [ThatOtherAndrew/Hexecute](https://github.com/ThatOtherAndrew/Hexecute) - Launch apps by casting spells! 🪄
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -761,7 +762,7 @@
 ## JavaScript 
 
 - [NiffirgkcaJ/all-in-one-clipboard](https://github.com/NiffirgkcaJ/all-in-one-clipboard) - A feature-rich clipboard manager for GNOME Shell that integrates clipboard history, an emoji picker with skin-tone support, GIF search, and extensive kaomoji/symbol libraries into a single, unified pa
-- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, MacOS, and Linux.
+- [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy.
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [mozilla/side-view](https://github.com/mozilla/side-view) - An experiment with opening mobile views of pages in the sidebar
@@ -1034,6 +1035,7 @@
 
 ## Others 
 
+- [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [Aider-AI/conventions](https://github.com/Aider-AI/conventions) - Community-contributed convention files for use with aider
@@ -1133,6 +1135,7 @@
 
 ## Python 
 
+- [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
 - [jb2170/better-adb-sync](https://github.com/jb2170/better-adb-sync) - Completely rewritten adbsync with --exclude
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
@@ -1466,6 +1469,7 @@
 
 ## Rust 
 
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror] A community-driven Matrix chat server, forked from conduwuit
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [tarka/xcp](https://github.com/tarka/xcp) - An extended `cp`
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
@@ -1596,6 +1600,8 @@
 
 ## Shell 
 
+- [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
+- [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [nicklan/i3config](https://github.com/nicklan/i3config) - Repo for my various i3 configuration files and scripts
 - [WillForan/wf-utils](https://github.com/WillForan/wf-utils) - A set of scripts to scratch very specific itches (i3, zim, mail)
 - [Arctize/barify](https://github.com/Arctize/barify) - Modify volume or brightness and display result as a bar via notifications (either dunst or mako).
