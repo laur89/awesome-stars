@@ -516,7 +516,7 @@
 - [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [mpolden/echoip](https://github.com/mpolden/echoip) - IP address lookup service
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
-- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale for monitoring and alerting, just as Grafana for visualization.
+- [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
 - [sentriz/cliphist](https://github.com/sentriz/cliphist) - Wayland clipboard manager with support for multimedia
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [charmbracelet/wish](https://github.com/charmbracelet/wish) - Make SSH apps, just like that! 💫
@@ -1177,7 +1177,7 @@
 - [TIAcode/LLMShellAutoComplete](https://github.com/TIAcode/LLMShellAutoComplete) - Use GPT to complete shell command line using atuin shell history database and terminal screen content as prompt
 - [plexguide/Huntarr.io](https://github.com/plexguide/Huntarr.io) - A specialized utility that automates discovering missing and upgrading your media collection!
 - [IngoMeyer441/zsh-easy-motion](https://github.com/IngoMeyer441/zsh-easy-motion) - Vim's easy-motion for zsh
-- [kdheepak/dotfiles](https://github.com/kdheepak/dotfiles) - 
+- [kdheepak/dotfiles-archive](https://github.com/kdheepak/dotfiles-archive) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
@@ -1485,7 +1485,7 @@
 - [kamlendras/aerogel](https://github.com/kamlendras/aerogel) - Overlay AI for wlroots Wayland Compositors
 - [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager) - A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A cross-platform, fast and extensible general purpose fuzzy finder 📺
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1604,6 +1604,7 @@
 
 ## Shell 
 
+- [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [nicklan/i3config](https://github.com/nicklan/i3config) - Repo for my various i3 configuration files and scripts
@@ -1840,7 +1841,7 @@
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
-- [menloresearch/jan](https://github.com/menloresearch/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [gty3/dom-replay](https://github.com/gty3/dom-replay) - 
