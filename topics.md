@@ -1162,7 +1162,7 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
-- [mubin6th/MinimalSway](https://github.com/mubin6th/MinimalSway) - A minimal configuration for sway & swayfx.
+- [think-mubin/minimal-wm-config](https://github.com/think-mubin/minimal-wm-config) - A minimal configuration for sway & swayfx.
 - [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [kdheepak/dotfiles-archive](https://github.com/kdheepak/dotfiles-archive) - 
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
@@ -2601,6 +2601,7 @@
 
 ## others 
 
+- [open-eid/linux-installer](https://github.com/open-eid/linux-installer) - Ubuntu meta package
 - [Juve45/batstat](https://github.com/Juve45/batstat) - CLI battery status for linux
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
