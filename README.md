@@ -84,7 +84,7 @@
 
 ## Batchfile 
 
-- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [ScriptTiger/Unified-Hosts-AutoUpdate](https://github.com/ScriptTiger/Unified-Hosts-AutoUpdate) - Quickly and easily install, uninstall, and set up automatic updates for any of Steven Black's unified hosts files.
 - [prclaunchky/Windows-10-Super-Minimal](https://github.com/prclaunchky/Windows-10-Super-Minimal) - 
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
@@ -1001,7 +1001,7 @@
 
 ## MDX 
 
-- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - 🌐 Front End interview preparation materials for busy engineers (updated for 2025)
+- [yangshun/front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook) - Front End interview preparation materials for busy engineers (updated for 2025)
 
 ## MQL4 
 
@@ -1484,7 +1484,7 @@
 
 - [Kamyil/work-tuimer](https://github.com/Kamyil/work-tuimer) - Simple, keyboard-driven TUI for time-tracking that allows you to quickly add time blocks and automatically group time if same task was done in different sessions
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror] A community-driven Matrix chat server, forked from conduwuit
+- [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
 - [tarka/xcp](https://github.com/tarka/xcp) - An extended `cp`
 - [hoodie/notify-rust](https://github.com/hoodie/notify-rust) - ☝️send desktop notifications from your Rust app.
