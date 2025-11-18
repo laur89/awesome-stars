@@ -1142,6 +1142,7 @@
 
 ## Python 
 
+- [marzeq/dotfiles](https://github.com/marzeq/dotfiles) - My dotfiles
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [lebrice/SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse
 - [foresto/joystickwake](https://github.com/foresto/joystickwake) - joystick-aware screen waker
