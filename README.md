@@ -91,6 +91,7 @@
 
 ## C 
 
+- [1ay1/neowall](https://github.com/1ay1/neowall) - 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-reload. For Wayland (Sway, Hyprland, River. and KWin) and X11
 - [javalsai/lidm](https://github.com/javalsai/lidm) - A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
 - [ThatOtherAndrew/Hexecute](https://github.com/ThatOtherAndrew/Hexecute) - Launch apps by casting spells! 🪄
@@ -977,6 +978,7 @@
 
 ## Lua 
 
+- [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables using Neovim with a live preview and useful helpers
 - [Caronte995/spotify-player.nvim](https://github.com/Caronte995/spotify-player.nvim) - A simple spotify player for nvim
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
