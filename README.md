@@ -91,6 +91,7 @@
 
 ## C 
 
+- [sumwale/keepassxc-unlock](https://github.com/sumwale/keepassxc-unlock) - Passwordless unlocking of KeePassXC after login and screen unlock
 - [1ay1/neowall](https://github.com/1ay1/neowall) - 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-reload. For Wayland (Sway, Hyprland, River. and KWin) and X11
 - [javalsai/lidm](https://github.com/javalsai/lidm) - A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
@@ -334,7 +335,6 @@
 
 ## CSS 
 
-- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
 - [TheLittleCake/Lou-Rose-pine-niri-dotfiles](https://github.com/TheLittleCake/Lou-Rose-pine-niri-dotfiles) - Small rice to feel a home using niri
@@ -621,6 +621,7 @@
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -1400,7 +1401,6 @@
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [Badacadabra/Vimpressionist](https://github.com/Badacadabra/Vimpressionist) - :art: Vim on steroids for keyboard lovers
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
@@ -1510,7 +1510,7 @@
 - [kamlendras/aerogel](https://github.com/kamlendras/aerogel) - Overlay AI for wlroots Wayland Compositors
 - [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager) - A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
-- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A fast and hackable fuzzy finder for the terminal.
+- [alexpasmantier/television](https://github.com/alexpasmantier/television) - A portable and hackable fuzzy finder for the terminal.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
@@ -1629,6 +1629,7 @@
 
 ## Shell 
 
+- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
 - [open-eid/linux-installer](https://github.com/open-eid/linux-installer) - Ubuntu meta package
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
