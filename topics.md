@@ -202,6 +202,7 @@
 - [qt](#qt)
 - [quantitative-finance](#quantitative-finance)
 - [r](#r)
+- [rag](#rag)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [react-native](#react-native)
@@ -2765,7 +2766,6 @@
 - [GuillaumeGomez/systemd-manager](https://github.com/GuillaumeGomez/systemd-manager) - A systemd service manager written in Rust with the GTK-rs wrapper and direct integration with dbus
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy.
 - [e6a5/flow](https://github.com/e6a5/flow) - flow - a command-line tool for deep work 🌊
-- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
 - [wyne/fasder](https://github.com/wyne/fasder) - Modern version of fasd file and directory access
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
 - [skorokithakis/calumny](https://github.com/skorokithakis/calumny) - A calendar day image generator geared towards e-ink screens
@@ -3749,6 +3749,11 @@
 
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [dennislwm/FX-Git](https://github.com/dennislwm/FX-Git) - A collection of Metatrader 4 and R scripts
+
+## rag 
+
+- [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 
 ## raspberry-pi 
 
