@@ -3578,6 +3578,7 @@
 
 ## python 
 
+- [FelixTheC/strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [alexandermalyga/poltergeist](https://github.com/alexandermalyga/poltergeist) - Rust-like error handling in Python, with type-safety in mind.
