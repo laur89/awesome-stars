@@ -1152,6 +1152,7 @@
 
 ## Python 
 
+- [FelixTheC/strongtyping](https://github.com/FelixTheC/strongtyping) - Decorator which checks whether the function is called with the correct type of parameters.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [erikrose/parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
