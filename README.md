@@ -244,7 +244,6 @@
 - [jameschch/LeanParameterOptimization](https://github.com/jameschch/LeanParameterOptimization) - Parameter Optimization for Lean Algorithms
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
 - [jameschch/LeanOptimization](https://github.com/jameschch/LeanOptimization) - Genetic optimization using LEAN
-- [mirthestam/lean-monitor](https://github.com/mirthestam/lean-monitor) - Windows Desktop App to browse Lean engine's backtest and live monitor progress and results.
 - [PowerShell/PowerShell](https://github.com/PowerShell/PowerShell) - PowerShell for every system!
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 - [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
@@ -366,7 +365,7 @@
 - [lipas-liikuntapaikat/lipas](https://github.com/lipas-liikuntapaikat/lipas) - Lipas is a nationwide, public GIS service of Finnish sport and recreation facilities.
 - [gacelita/ventas](https://github.com/gacelita/ventas) - Clojure ecommerce platform
 - [jacekschae/conduit](https://github.com/jacekschae/conduit) - Real world application built with ClojureScript + re-frame
-- [status-im/status-mobile](https://github.com/status-im/status-mobile) - a free (libre) open source, mobile OS for Ethereum
+- [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
 - [arifian/4clojure](https://github.com/arifian/4clojure) - An interactive problem website for learning Clojure
 - [nextjournal/clerk](https://github.com/nextjournal/clerk) - ⚡️ Moldable Live Programming for Clojure
@@ -1503,6 +1502,7 @@
 
 ## Rust 
 
+- [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [orhun/i3-workspace-brightness](https://github.com/orhun/i3-workspace-brightness) - Utility to auto-adjust the brightness of i3wm workspaces
 - [moustacheful/glimmer](https://github.com/moustacheful/glimmer) - A small tool to use along with i3/Sway to add CSS-powered decorations to your focused windows, for better usability.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
