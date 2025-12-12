@@ -2717,6 +2717,7 @@
 
 ## others 
 
+- [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) - mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several
 - [CivicActions/guidebook](https://github.com/CivicActions/guidebook) - The home of policies and guidelines that make up CivicActions
 - [erikrose/parsimonious](https://github.com/erikrose/parsimonious) - The fastest pure-Python PEG parser I can muster
