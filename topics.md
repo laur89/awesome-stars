@@ -413,6 +413,7 @@
 
 ## archlinux 
 
+- [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
 - [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [oryband/dotfiles](https://github.com/oryband/dotfiles) - My main working machine setup. Here be cyber dragons, and optional bugs.
@@ -2717,6 +2718,7 @@
 
 ## others 
 
+- [danielkosgei/detergen](https://github.com/danielkosgei/detergen) - Deterministic password generator
 - [LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) - MCP Server for Ghidra
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) - mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several
 - [CivicActions/guidebook](https://github.com/CivicActions/guidebook) - The home of policies and guidelines that make up CivicActions
@@ -3953,6 +3955,7 @@
 
 ## security 
 
+- [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
 - [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
