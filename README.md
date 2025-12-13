@@ -518,6 +518,7 @@
 
 ## Go 
 
+- [danielkosgei/detergen](https://github.com/danielkosgei/detergen) - Deterministic password generator
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON, CSV, and TSV using SQL.
 - [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 - [reugn/gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini
@@ -1152,6 +1153,7 @@
 
 ## Python 
 
+- [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
 - [zhukovgreen/friendly-sequences](https://github.com/zhukovgreen/friendly-sequences) - Friendly, Scala like, Sequence interface
 - [jvoisin/mat2](https://github.com/jvoisin/mat2) - mat2 is a metadata removal tool, supporting a wide range of commonly used file formats, written in python3: at its core, it's a library, used by an eponymous command-line interface, as well as several
