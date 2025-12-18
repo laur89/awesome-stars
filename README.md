@@ -1652,6 +1652,7 @@
 
 ## Shell 
 
+- [StandingPadAnimations/sandboxing-scripts](https://github.com/StandingPadAnimations/sandboxing-scripts) - These are scripts to sandbox programs I use on a daily
 - [fogine/udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) - Manage removable devices in couple of keystrokes!
 - [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
 - [open-eid/linux-installer](https://github.com/open-eid/linux-installer) - Ubuntu meta package
