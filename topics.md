@@ -160,6 +160,7 @@
 - [markdown](#markdown)
 - [material-design](#material-design)
 - [maven](#maven)
+- [microservices](#microservices)
 - [microsoft](#microsoft)
 - [mobile](#mobile)
 - [mongodb](#mongodb)
@@ -2463,6 +2464,15 @@
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [dzikoysk/reposilite](https://github.com/dzikoysk/reposilite) - Lightweight and easy-to-use repository management software dedicated for the Maven-based artifacts in the JVM ecosystem 📦
 - [aleksandr-m/gitflow-maven-plugin](https://github.com/aleksandr-m/gitflow-maven-plugin) - The Git-Flow Maven Plugin supports various Git workflows, including GitFlow and GitHub Flow. This plugin runs Git and Maven commands from the command line.
+
+## microservices 
+
+- [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
+- [spring-attic/spring-cloud-security](https://github.com/spring-attic/spring-cloud-security) - Security concerns for distributed applications implemented in Spring
+- [sczyh30/vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
+- [nestjs/nest](https://github.com/nestjs/nest) - A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications with TypeScript/JavaScript 🚀
+- [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
+- [kontena/kontena](https://github.com/kontena/kontena) - The developer friendly container and micro services platform. Works on any cloud, easy to setup, simple to use.
 
 ## microsoft 
 
