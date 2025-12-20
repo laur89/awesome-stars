@@ -91,6 +91,7 @@
 
 ## C 
 
+- [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [jart/pledge](https://github.com/jart/pledge) - OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
 - [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
@@ -1173,7 +1174,7 @@
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey) - Turn (almost) any Python command line program into a full GUI application with one line
 - [alexandermalyga/poltergeist](https://github.com/alexandermalyga/poltergeist) - Rust-like error handling in Python, with type-safety in mind.
-- [marzeq/dotfiles](https://github.com/marzeq/dotfiles) - My dotfiles
+- [marzeq/dotfiles](https://github.com/marzeq/dotfiles) - My dotfiles - including custom Hyprland shell
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [lebrice/SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse
 - [foresto/joystickwake](https://github.com/foresto/joystickwake) - joystick-aware screen waker
