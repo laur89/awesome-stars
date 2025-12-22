@@ -413,7 +413,7 @@
 - [Spelchure/clompress](https://github.com/Spelchure/clompress) - Clompress is easy to use library for working with archives, compression and decompression in Clojure.
 - [johnmn3/cljs-thread](https://github.com/johnmn3/cljs-thread) - 
 - [matterandvoid-space/subscriptions](https://github.com/matterandvoid-space/subscriptions) - A subscriptions library over a source of data (forked + extracted from re-frame)
-- [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
+- [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to Solid
 - [taoensso/sente](https://github.com/taoensso/sente) - Realtime web comms library for Clojure/Script
 - [hugoduncan/criterium](https://github.com/hugoduncan/criterium) - Benchmarking library for clojure
 - [pitch-io/uix](https://github.com/pitch-io/uix) - Idiomatic ClojureScript interface to modern React.js
