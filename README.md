@@ -337,6 +337,7 @@
 
 ## CSS 
 
+- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - a setup I wish already existed
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
 - [TheLittleCake/Lou-Rose-pine-niri-dotfiles](https://github.com/TheLittleCake/Lou-Rose-pine-niri-dotfiles) - Small rice to feel a home using niri
@@ -797,7 +798,7 @@
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
 - [d8ahazard/DelugeFlow](https://github.com/d8ahazard/DelugeFlow) - A spiritual successor to DelugeSiphon
 - [TiddlyWiki/TiddlyWiki5](https://github.com/TiddlyWiki/TiddlyWiki5) - A self-contained JavaScript wiki for the browser, Node.js, AWS Lambda etc.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
 - [nopperl/load-reddit-images-directly](https://github.com/nopperl/load-reddit-images-directly) - Firefox web extension that loads reddit images directly instead of referring to the HTML page containing the image.
@@ -1655,7 +1656,6 @@
 
 - [StandingPadAnimations/sandboxing-scripts](https://github.com/StandingPadAnimations/sandboxing-scripts) - These are scripts to sandbox programs I use on a daily
 - [fogine/udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) - Manage removable devices in couple of keystrokes!
-- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
 - [open-eid/linux-installer](https://github.com/open-eid/linux-installer) - Ubuntu meta package
 - [jamielinux/bashmount](https://github.com/jamielinux/bashmount) - Tool to mount and unmount removable media from the command-line
 - [element-hq/element-docker-demo](https://github.com/element-hq/element-docker-demo) - Experimental docker-compose Matrix 2.0 stack for rapidly showing off EW+EX+EC
@@ -1914,7 +1914,6 @@
 - [dermotduffy/advanced-camera-card](https://github.com/dermotduffy/advanced-camera-card) - A comprehensive camera card for Home Assistant
 - [web-eid/web-eid-webextension](https://github.com/web-eid/web-eid-webextension) - The Web eID browser extension for Chrome, Edge, Firefox and other WebExtensions-compatible browsers
 - [web-eid/web-eid.js](https://github.com/web-eid/web-eid.js) - Add secure authentication and digital signing with electronic ID smart cards to web apps with the Web eID JavaScript library
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
