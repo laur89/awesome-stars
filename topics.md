@@ -511,7 +511,6 @@
 ## aws 
 
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [localstack/localstack](https://github.com/localstack/localstack) - 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline
 - [milo-minderbinder/AWS-PlantUML](https://github.com/milo-minderbinder/AWS-PlantUML) - PlantUML sprites, macros, and other includes for AWS components.
@@ -1115,7 +1114,6 @@
 - [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is open-source GitOps infrastructure orchestration. It integrates with GitHub to automate Terraform, OpenTofu, CDKTF, Terragrunt, and Pulumi workflows through pull requests.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka. Jikkou helps you implement GitOps for Kafka at scale!
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [nephatrine/docker-drone-ci](https://github.com/nephatrine/docker-drone-ci) - [mirror] Container w/ Drone & SQLite
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1171,7 +1169,6 @@
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [jovandeginste/workout-tracker](https://github.com/jovandeginste/workout-tracker) - A workout tracking web application for personal use (or family, friends), geared towards running and other GPX-based activities
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [caprover/caprover](https://github.com/caprover/caprover) - Scalable PaaS (automated Docker+nginx) - aka Heroku on Steroids
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
@@ -1244,7 +1241,7 @@
 ## dotfiles 
 
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
-- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
+- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - a setup I wish already existed
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - uhh questioning the meaning of dotfiles
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
@@ -1390,7 +1387,7 @@
 
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [QNetITQ/WaveFox](https://github.com/QNetITQ/WaveFox) - Firefox CSS Theme/Style for manual customization
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
 - [OhMyGuus/I-Still-Dont-Care-About-Cookies](https://github.com/OhMyGuus/I-Still-Dont-Care-About-Cookies) - Debloated fork of the extension "I don't care about cookies"
 - [pyllyukko/user.js](https://github.com/pyllyukko/user.js) - user.js -- Firefox configuration hardening
@@ -1599,7 +1596,6 @@
 - [mgord9518/aisap](https://github.com/mgord9518/aisap) - Tool to make sandboxing AppImages easy
 - [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
 - [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package:
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [candid82/joker](https://github.com/candid82/joker) - Small Clojure interpreter, linter and formatter.
 - [SpectoLabs/hoverfly](https://github.com/SpectoLabs/hoverfly) - Lightweight service virtualization/ API simulation / API mocking tool for developers and testers
@@ -1696,7 +1692,6 @@
 - [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
 - [libkeepass/pykeepass](https://github.com/libkeepass/pykeepass) - Python library to interact with keepass databases (supports KDBX3 and KDBX4)
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
-- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [unixorn/fzf-zsh-plugin](https://github.com/unixorn/fzf-zsh-plugin) - ZSH plugin to enable fzf searches of a lot more stuff - docker, tmux, homebrew and more.
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
@@ -2119,7 +2114,6 @@
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2548,7 +2542,7 @@
 ## neovim 
 
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables using Neovim with a live preview and useful helpers
-- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - My minimalist Arch dotfiles for Neovim, Hyprland, shell, and some scripts
+- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - a setup I wish already existed
 - [GeorgesAlkhouri/nvim-aider](https://github.com/GeorgesAlkhouri/nvim-aider) - 🤖 Seamlessly integrate Aider with Neovim for an enhanced AI-assisted coding experience!
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [crivotz/nv-ide](https://github.com/crivotz/nv-ide) - Neovim custom configuration, oriented for full stack developers (Ruby on Rails, ruby, php, html, css, SCSS, javascript)
@@ -2826,6 +2820,7 @@
 - [QwenLM/Qwen3](https://github.com/QwenLM/Qwen3) - Qwen3 is the large language model series developed by Qwen team, Alibaba Cloud.
 - [dnhkng/GLaDOS](https://github.com/dnhkng/GLaDOS) - This is the Personality Core for GLaDOS, the first steps towards a real-life implementation of the AI from the Portal series by Valve.
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+- [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [hrehfeld/python-keepassxc-browser](https://github.com/hrehfeld/python-keepassxc-browser) - Access the KeepassXC Browser API from python. Pypi: https://pypi.org/project/keepassxc-browser/
 - [joshuavial/aider.nvim](https://github.com/joshuavial/aider.nvim) - 
 - [kkinnear/zprint](https://github.com/kkinnear/zprint) - Executables, uberjar, and library to beautifully format Clojure and Clojurescript source code and s-expressions.
@@ -3076,7 +3071,7 @@
 - [minosimo/qdigidoc-flatpak](https://github.com/minosimo/qdigidoc-flatpak) - DigiDoc4 packaged as a Flatpak
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
 - [wolfwood/printed-keycap-mods](https://github.com/wolfwood/printed-keycap-mods) - mod 3D printable keycaps for easier printing and to fit next to the Santoku and other keyboard's trackpoints
-- [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to SolidJS
+- [roman01la/solid-cljs](https://github.com/roman01la/solid-cljs) - ClojureScript bindings to Solid
 - [hugoduncan/criterium](https://github.com/hugoduncan/criterium) - Benchmarking library for clojure
 - [haiwen/seafile-docker](https://github.com/haiwen/seafile-docker) - A Docker image for Seafile server
 - [Manuel-Kehl/Go-For-It](https://github.com/Manuel-Kehl/Go-For-It) - A stylish to-do list with built-in productivity timer. NOTE: all contributions should go to Jonathan Moerman's fork because this is where active development is taking place: https://github.com/JMoerma
@@ -3564,7 +3559,7 @@
 - [zedeus/nitter](https://github.com/zedeus/nitter) - Alternative Twitter front-end
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
 - [redlib-org/redlib](https://github.com/redlib-org/redlib) - Private front-end for Reddit
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
@@ -3821,7 +3816,6 @@
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
-- [porter-dev/porter-archive](https://github.com/porter-dev/porter-archive) - Kubernetes powered PaaS that runs in your own cloud.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear, Monday, and Asana Alternative. Plane helps you track your issues, epics, and cycles the easiest way on the planet.
 - [evan-buss/openbooks](https://github.com/evan-buss/openbooks) - Search and Download eBooks
 - [day8/re-frame](https://github.com/day8/re-frame) - A ClojureScript framework for building user interfaces, leveraging React
@@ -3994,7 +3988,7 @@
 - [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
 - [wazuh/wazuh](https://github.com/wazuh/wazuh) - Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.
-- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for speed, privacy, and security. Turn off AI. Your favorite browser, but better.
+- [yokoffing/Betterfox](https://github.com/yokoffing/Betterfox) - Firefox user.js for optimal privacy and security. Your favorite browser, but better.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 - [utmstack/UTMStack](https://github.com/utmstack/UTMStack) - Enterprise-ready SIEM, SOAR and Compliance powered by real-time correlation and threat intelligence.
