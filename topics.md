@@ -2930,7 +2930,7 @@
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [Torelli/hyprmixer](https://github.com/Torelli/hyprmixer) - A stylish volume mixer and media controller for your hyprland rice
 - [QuantConnect/quantconnect-stubs-generator](https://github.com/QuantConnect/quantconnect-stubs-generator) - Automatically generate Python type stubs for QuantConnect's Lean
-- [izawartka/gta2-trainer-cpp](https://github.com/izawartka/gta2-trainer-cpp) - Probably the most powerful GTA2 trainer ever made ;)
+- [izawartka/gta2-trainer-cpp](https://github.com/izawartka/gta2-trainer-cpp) - Legacy version of the most powerful GTA2 trainer
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
 - [QuantConnect/IBAutomater](https://github.com/QuantConnect/IBAutomater) - Automates IB Gateway start, stopping and restarting.
 - [evdubs/chart-simulator](https://github.com/evdubs/chart-simulator) - Trading Simulator and Charting Application
