@@ -793,7 +793,7 @@
 - [mozilla/side-view](https://github.com/mozilla/side-view) - An experiment with opening mobile views of pages in the sidebar
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
-- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with Many New Features! Fully automate and simplify your eBook set up!
+- [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [gabyx/dotfiles](https://github.com/gabyx/dotfiles) - My dotfiles and NixOs configurations
 - [mukul29/legacy-theme-auto-switcher-gnome-extension](https://github.com/mukul29/legacy-theme-auto-switcher-gnome-extension) - Change the GTK3 theme to light/dark variant based on the system color scheme
 - [johnfactotum/foliate](https://github.com/johnfactotum/foliate) - Read e-books in style
@@ -1517,6 +1517,7 @@
 
 ## Rust 
 
+- [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [max-baz/wluma](https://github.com/max-baz/wluma) - Automatic brightness adjustment based on screen contents and ALS
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [orhun/i3-workspace-brightness](https://github.com/orhun/i3-workspace-brightness) - Utility to auto-adjust the brightness of i3wm workspaces
@@ -1655,6 +1656,7 @@
 
 ## Shell 
 
+- [wenekar/procinfo](https://github.com/wenekar/procinfo) - Get process information straight from bash, minimal dependencies.
 - [StandingPadAnimations/sandboxing-scripts](https://github.com/StandingPadAnimations/sandboxing-scripts) - These are scripts to sandbox programs I use on a daily
 - [fogine/udiskie-dmenu](https://github.com/fogine/udiskie-dmenu) - Manage removable devices in couple of keystrokes!
 - [open-eid/linux-installer](https://github.com/open-eid/linux-installer) - Ubuntu meta package
