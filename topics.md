@@ -1681,6 +1681,7 @@
 
 ## hacktoberfest 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [selkies-project/selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
@@ -2039,7 +2040,7 @@
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New development has moved to Wami https://github.com/wekan/wami . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
 - [FredrikNoren/ungit](https://github.com/FredrikNoren/ungit) - The easiest way to use git. On any platform. Anywhere.
@@ -2176,6 +2177,7 @@
 
 ## linux 
 
+- [Darazaki/Spedread](https://github.com/Darazaki/Spedread) - GTK speed reading software: Read like a speedrunner!
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [1ay1/neowall](https://github.com/1ay1/neowall) - 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-reload. For Wayland (Sway, Hyprland, River. and KWin) and X11
 - [javalsai/lidm](https://github.com/javalsai/lidm) - A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
@@ -2749,6 +2751,7 @@
 
 ## others 
 
+- [Fausto-Korpsvart/Gruvbox-GTK-Theme](https://github.com/Fausto-Korpsvart/Gruvbox-GTK-Theme) - A GTK theme based on the Gruvbox colour palette.
 - [wenekar/procinfo](https://github.com/wenekar/procinfo) - Get process information straight from bash, minimal dependencies.
 - [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
@@ -3532,6 +3535,7 @@
 
 ## php 
 
+- [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
@@ -4454,6 +4458,7 @@
 
 ## vim 
 
+- [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [MenkeTechnologies/zpwr](https://github.com/MenkeTechnologies/zpwr) - ZPWR =&gt; World's Most Advanced UNIX Terminal Environment
