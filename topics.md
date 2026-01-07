@@ -2177,6 +2177,7 @@
 
 ## linux 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [Darazaki/Spedread](https://github.com/Darazaki/Spedread) - GTK speed reading software: Read like a speedrunner!
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [1ay1/neowall](https://github.com/1ay1/neowall) - 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-reload. For Wayland (Sway, Hyprland, River. and KWin) and X11
@@ -3512,7 +3513,7 @@
 
 ## package-manager 
 
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - [Migration in progress] Soar User Repository
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
@@ -3918,12 +3919,13 @@
 
 ## rust 
 
+- [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - 📦📀 Soar User Repository: Making Linux Packaging truly Portable, Simple, and Distro-Independent
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - [Migration in progress] Soar User Repository
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for Windows inspired by i3wm.
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A program for managing systemd services through a TUI (Terminal User Interfaces).
