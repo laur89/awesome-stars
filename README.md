@@ -338,6 +338,7 @@
 
 ## CSS 
 
+- [scherrer-txt/cybrland](https://github.com/scherrer-txt/cybrland) - Cyberpunk dotfiles for Arch Hyprland
 - [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - a setup I wish already existed
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
@@ -967,6 +968,7 @@
 
 ## Kotlin 
 
+- [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -989,7 +991,6 @@
 
 ## Lua 
 
-- [scherrer-txt/cybrland](https://github.com/scherrer-txt/cybrland) - Cyberpunk dotfiles for Arch Hyprland
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables using Neovim with a live preview and useful helpers
 - [Caronte995/spotify-player.nvim](https://github.com/Caronte995/spotify-player.nvim) - A simple spotify player for nvim
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
@@ -1167,6 +1168,7 @@
 
 ## Python 
 
+- [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [jspricke/radicale-remind](https://github.com/jspricke/radicale-remind) - Radicale storage backends for Remind and Abook
 - [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional) - Python library for creating data pipelines with chain functional programming
