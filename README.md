@@ -683,6 +683,7 @@
 
 ## Haskell 
 
+- [pdobsan/oama](https://github.com/pdobsan/oama) - OAuth credential Manager
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [simonmichael/hledger](https://github.com/simonmichael/hledger) - Robust, fast, intuitive plain text accounting tool with CLI, TUI and web interfaces.
@@ -1185,7 +1186,7 @@
 - [marzeq/dotfiles](https://github.com/marzeq/dotfiles) - My dotfiles - including custom Hyprland shell
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
 - [lebrice/SimpleParsing](https://github.com/lebrice/SimpleParsing) - Simple, Elegant, Typed Argument Parsing with argparse
-- [foresto/joystickwake](https://github.com/foresto/joystickwake) - joystick-aware screen waker
+- [foresto/joystickwake](https://github.com/foresto/joystickwake) - Joystickwake has moved to Codeberg!
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [streamlink/streamlink](https://github.com/streamlink/streamlink) - Streamlink is a CLI utility which pipes video streams from various services into a video player
 - [TheLinuxGuy/free-unraid](https://github.com/TheLinuxGuy/free-unraid) - Achieving a free (opensource) alternative to unraid for media server (homelab) use.
