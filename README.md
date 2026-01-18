@@ -91,13 +91,14 @@
 
 ## C 
 
+- [t-brown/mcds](https://github.com/t-brown/mcds) - Mutt CardDav search program
 - [mhogomchungu/zuluCrypt](https://github.com/mhogomchungu/zuluCrypt) - zuluCrypt is a front end to cryptsetup and tcplay and it allows easy management of encrypted block devices
 - [hardinfo2/hardinfo2](https://github.com/hardinfo2/hardinfo2) - System Information and Benchmark for Linux Systems
 - [jart/pledge](https://github.com/jart/pledge) - OpenBSD APIs ported to Linux userspace using SECCOMP BPF and Landlock LSM
 - [swaywm/swaybg](https://github.com/swaywm/swaybg) - Wallpaper tool for Wayland compositors
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [sumwale/keepassxc-unlock](https://github.com/sumwale/keepassxc-unlock) - Passwordless unlocking of KeePassXC after login and screen unlock
-- [1ay1/neowall](https://github.com/1ay1/neowall) - 🎨 A reliable Wayland wallpaper engine written in C. Multi-monitor support, smooth transitions, hot-reload. For Wayland (Sway, Hyprland, River. and KWin) and X11
+- [1ay1/neowall](https://github.com/1ay1/neowall) - GPU-accelerated live wallpaper engine for Linux using GLSL shaders. Runs on Wayland and X11.
 - [javalsai/lidm](https://github.com/javalsai/lidm) - A ✨fully✨ colorful customizable TUI display manager made in C for simplicity.
 - [electrickite/batsignal](https://github.com/electrickite/batsignal) - Lightweight battery daemon written in C
 - [ThatOtherAndrew/Hexecute](https://github.com/ThatOtherAndrew/Hexecute) - Launch apps by casting spells! 🪄
@@ -796,6 +797,7 @@
 - [TheAhmadOsman/4o-ghibli-at-home](https://github.com/TheAhmadOsman/4o-ghibli-at-home) - The GPT-4o image generation we have at home. A powerful, self-hosted AI photo stylizer built for performance and privacy.
 - [tree-sitter/tree-sitter-typescript](https://github.com/tree-sitter/tree-sitter-typescript) - TypeScript grammar for tree-sitter
 - [mozilla/side-view](https://github.com/mozilla/side-view) - An experiment with opening mobile views of pages in the sidebar
+- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
@@ -2018,6 +2020,7 @@
 
 ## Vim Script 
 
+- [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [sainnhe/gruvbox-material](https://github.com/sainnhe/gruvbox-material) - Gruvbox with Material Palette
 - [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [junegunn/vim-peekaboo](https://github.com/junegunn/vim-peekaboo) - :eyes: " / @ / CTRL-R
@@ -2074,7 +2077,6 @@
 
 ## Vue 
 
-- [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [vuejs/create-vue](https://github.com/vuejs/create-vue) - 🛠️ The recommended way to start a Vite-powered Vue project
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [bastienwirtz/homer](https://github.com/bastienwirtz/homer) - A very simple static homepage for your server.
