@@ -133,6 +133,7 @@
 - [iot](#iot)
 - [ipfs](#ipfs)
 - [java](#java)
+- [javafx](#javafx)
 - [javascript](#javascript)
 - [jekyll](#jekyll)
 - [jenkins](#jenkins)
@@ -904,7 +905,7 @@
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [jftuga/gofwd](https://github.com/jftuga/gofwd) - A cross-platform TCP port forwarder with Duo 2FA and Geo-IP integration
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [WhyNotHugo/totp-cli](https://github.com/WhyNotHugo/totp-cli) - A cli-based pass-backed TOTP app.
@@ -972,6 +973,7 @@
 
 ## cryptocurrency 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [polyrabbit/my-token](https://github.com/polyrabbit/my-token) - 📈Track token prices in your terminal
 - [jmakov/dragonflybot](https://github.com/jmakov/dragonflybot) - A vertically scalable stream processing framework focusing on low latency, helping you scale and consume financial data feeds.
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
@@ -1581,7 +1583,7 @@
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash support; includes shfmt
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
@@ -1635,7 +1637,7 @@
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
 - [jftuga/gofwd](https://github.com/jftuga/gofwd) - A cross-platform TCP port forwarder with Duo 2FA and Geo-IP integration
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
@@ -1683,6 +1685,7 @@
 
 ## gui 
 
+- [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [digitaltrails/vdu_controls](https://github.com/digitaltrails/vdu_controls) - VDU controls - a control panel for monitor brightness/contrast/...
 - [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot) - Feature-rich wifi hotspot creator for Linux which provides both GUI and command-line interface. It is also able to create a hotspot using the same wifi card which is connected to an AP already ( Simil
 - [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot) - Powerful yet simple to use screenshot software :desktop_computer: :camera_flash:
@@ -1702,6 +1705,7 @@
 
 ## hacktoberfest 
 
+- [fair-acc/chart-fx](https://github.com/fair-acc/chart-fx) - A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [librespeed/speedtest](https://github.com/librespeed/speedtest) - Self-hosted Speed Test for HTML5 and more. Easy setup, examples, configurable, mobile friendly. Supports PHP, Node, Multiple servers, and more
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
@@ -1941,6 +1945,7 @@
 
 ## java 
 
+- [fair-acc/chart-fx](https://github.com/fair-acc/chart-fx) - A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
 - [booklore-app/booklore](https://github.com/booklore-app/booklore) - BookLore: A self-hosted, multi-user digital library with smart shelves, auto metadata, Kobo & KOReader sync, BookDrop imports, OPDS support, and a built-in reader for EPUB, PDF, and comics.
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
@@ -1985,8 +1990,13 @@
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
 
+## javafx 
+
+- [fair-acc/chart-fx](https://github.com/fair-acc/chart-fx) - A scientific charting library focused on performance optimised real-time data visualisation at 25 Hz update rates for data sets with a few 10 thousand up to 5 million data points.
+
 ## javascript 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -2199,6 +2209,7 @@
 
 ## linux 
 
+- [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [SeaDve/Kooha](https://github.com/SeaDve/Kooha) - Elegantly record your screen
@@ -2514,6 +2525,7 @@
 
 ## mobile 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [status-im/status-legacy](https://github.com/status-im/status-legacy) - a free (libre) open source, mobile OS for Ethereum
 - [flutter/flutter](https://github.com/flutter/flutter) - Flutter makes it easy and fast to build beautiful apps for mobile and beyond
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
@@ -2644,6 +2656,7 @@
 
 ## nextjs 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
@@ -3806,6 +3819,7 @@
 
 ## python3 
 
+- [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [zeroSteiner/rule-engine](https://github.com/zeroSteiner/rule-engine) - A lightweight, optionally typed expression language with a custom grammar for matching arbitrary Python objects.
 - [dasbus-project/dasbus](https://github.com/dasbus-project/dasbus) - DBus library in Python 3
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -3875,6 +3889,7 @@
 
 ## react 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
@@ -4340,7 +4355,7 @@
 - [jarun/buku](https://github.com/jarun/buku) - :bookmark: Personal mini-web in text
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [zyedidia/micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor
+- [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -4393,6 +4408,7 @@
 
 ## trading 
 
+- [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
