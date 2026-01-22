@@ -2796,6 +2796,7 @@
 
 ## others 
 
+- [stapelberg/wsmgr-for-i3](https://github.com/stapelberg/wsmgr-for-i3) - workspace manager for i3
 - [Antynea/grub-btrfs](https://github.com/Antynea/grub-btrfs) - Include btrfs snapshots at boot options. (Grub menu)
 - [Konfekt/mutt-ical](https://github.com/Konfekt/mutt-ical) - answer/display ical invitations with mutt
 - [tsto/notmuchfs](https://github.com/tsto/notmuchfs) - A virtual maildir file system for notmuch queries
