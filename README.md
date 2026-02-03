@@ -246,7 +246,7 @@
 - [dlech/KeeAgent](https://github.com/dlech/KeeAgent) - ssh agent plugin for KeePass 2.x
 - [Cleanarr/Cleanarr](https://github.com/Cleanarr/Cleanarr) - Automatic cleaner tool for your mediaserver (eg. Plex). Making use of a history-tracker (eg. Tautulli) and a request-tracker (eg. Ombi) to keep in mind requested and watched status, to make sure media
 - [Ombi-app/Ombi](https://github.com/Ombi-app/Ombi) - Want a Movie or TV Show on Plex/Emby/Jellyfin? Use Ombi!
-- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that help you customize Windows and streamline everyday tasks
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 - [VorlonCD/bi-aidetection](https://github.com/VorlonCD/bi-aidetection) - Alarm system for Blue Iris based on Artificial Intelligence.
 - [JKorf/CryptoExchange.Net](https://github.com/JKorf/CryptoExchange.Net) - A C# .netstandard base library used for implementing cryptocurrency exchange API's.
 - [jameschch/LeanParameterOptimization](https://github.com/jameschch/LeanParameterOptimization) - Parameter Optimization for Lean Algorithms
@@ -1561,6 +1561,7 @@
 
 ## Rust 
 
+- [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
 - [tanciaku/tmmpr](https://github.com/tanciaku/tmmpr) - terminal mind mapper
 - [sectore/timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
@@ -1707,6 +1708,7 @@
 
 ## Shell 
 
+- [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
 - [SeniorMars/dotfiles](https://github.com/SeniorMars/dotfiles) - My Rice Setup
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
@@ -1939,6 +1941,7 @@
 
 ## TypeScript 
 
+- [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
