@@ -93,6 +93,7 @@
 
 ## C 
 
+- [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
 - [tsto/notmuchfs](https://github.com/tsto/notmuchfs) - A virtual maildir file system for notmuch queries
 - [t-brown/mcds](https://github.com/t-brown/mcds) - Mutt CardDav search program
@@ -1201,8 +1202,9 @@
 
 ## Python 
 
+- [pydata/pandas-datareader](https://github.com/pydata/pandas-datareader) - Extract data from a wide range of Internet sources into a pandas DataFrame.
 - [Ulauncher/Ulauncher](https://github.com/Ulauncher/Ulauncher) - Feature rich application Launcher for Linux
-- [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - AutoPentestX – Linux Automated Pentesting & Vulnerability Reporting Tool
+- [Gowtham-Darkseid/AutoPentestX](https://github.com/Gowtham-Darkseid/AutoPentestX) - AutoPentestX – Automated Pentesting & Vulnerability Reporting Tool
 - [magic-wormhole/magic-wormhole](https://github.com/magic-wormhole/magic-wormhole) - get things from one computer to another, safely
 - [vagnum08/cpupower-gui](https://github.com/vagnum08/cpupower-gui) - cpupower-gui is a graphical program that is used to change the scaling frequency limits of the cpu, similar to cpupower.
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Built on top of LlamaIndex & Langchain. Supports any public LLM supported by LlamaIndex and any local LLM suported by Ollama/vLLM/etc. Precis
@@ -1562,6 +1564,7 @@
 
 ## Rust 
 
+- [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
 - [tanciaku/tmmpr](https://github.com/tanciaku/tmmpr) - terminal mind mapper
@@ -1709,6 +1712,7 @@
 
 ## Shell 
 
+- [neomutt/test-ansi](https://github.com/neomutt/test-ansi) - ⚠️ Some experiments with ANSI escape sequences
 - [egel/tmux-gruvbox](https://github.com/egel/tmux-gruvbox) - Gruvbox color scheme for Tmux.
 - [SeniorMars/dotfiles](https://github.com/SeniorMars/dotfiles) - My Rice Setup
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
