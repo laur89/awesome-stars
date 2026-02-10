@@ -651,6 +651,7 @@
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [gopasspw/gopass](https://github.com/gopasspw/gopass) - The slightly more awesome standard unix password manager for teams
 - [rancher/rancher](https://github.com/rancher/rancher) - Complete container management platform
 - [isacikgoz/gitin](https://github.com/isacikgoz/gitin) - commit/branch/workdir explorer for git
@@ -959,7 +960,7 @@
 - [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [honestbleeps/Reddit-Enhancement-Suite](https://github.com/honestbleeps/Reddit-Enhancement-Suite) - Reddit Enhancement Suite
 - [jmadler/emoji-picker](https://github.com/jmadler/emoji-picker) - Add a slick emoji selector to input fields and textareas on your website.
-- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
+- [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features a
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
@@ -1027,6 +1028,7 @@
 
 ## Lua 
 
+- [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [Myzel394/easytables.nvim](https://github.com/Myzel394/easytables.nvim) - Easily insert and edit markdown tables using Neovim with a live preview and useful helpers
 - [Caronte995/spotify-player.nvim](https://github.com/Caronte995/spotify-player.nvim) - A simple spotify player for nvim
@@ -1101,6 +1103,7 @@
 
 ## Others 
 
+- [Jacksaur/CRT-Amber-GRUB-Theme](https://github.com/Jacksaur/CRT-Amber-GRUB-Theme) - Retro Amber CRT Terminal styled GRUB Theme.
 - [stax76/awesome-mpv](https://github.com/stax76/awesome-mpv) - A curated list of awesome mpv resources.
 - [linuxserver/reverse-proxy-confs](https://github.com/linuxserver/reverse-proxy-confs) - These confs are pulled into our SWAG image: https://github.com/linuxserver/docker-swag
 - [5ec1cff/TrickyStore](https://github.com/5ec1cff/TrickyStore) - 
@@ -1482,7 +1485,6 @@
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [Badacadabra/Vimpressionist](https://github.com/Badacadabra/Vimpressionist) - :art: Vim on steroids for keyboard lovers
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
@@ -1969,6 +1971,7 @@
 
 ## TypeScript 
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Overseerr, does the opposite. Maintenance tool for the Plex ecosystem
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
