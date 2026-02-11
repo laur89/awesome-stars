@@ -2877,6 +2877,7 @@
 
 ## others 
 
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
 - [Jacksaur/CRT-Amber-GRUB-Theme](https://github.com/Jacksaur/CRT-Amber-GRUB-Theme) - Retro Amber CRT Terminal styled GRUB Theme.
 - [dogue/pads](https://github.com/dogue/pads) - A simple CLI tool for swtiching the default/active output device for PulseAudio.
