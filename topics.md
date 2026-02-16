@@ -2882,6 +2882,8 @@
 
 ## others 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [sravioli/wezterm](https://github.com/sravioli/wezterm) - My Wezterm configuration
