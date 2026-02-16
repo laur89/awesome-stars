@@ -1210,6 +1210,8 @@
 
 ## Python 
 
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
+- [karpathy/nanochat](https://github.com/karpathy/nanochat) - The best ChatGPT that $100 can buy.
 - [micheles/decorator](https://github.com/micheles/decorator) - decorator
 - [chewitty/cheutils](https://github.com/chewitty/cheutils) - Utilities developed for sharing or as part of collaboration with likeminded people
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
