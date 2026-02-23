@@ -280,7 +280,7 @@
 - [martin-stone/touchcursor](https://github.com/martin-stone/touchcursor) - A keyboard utility that lets you use the home keys (e.g. JKL) as cursor keys -- in all Windows programs -- keeping your fingers in the best position for fast typing.
 - [rancilio-pid/clevercoffee](https://github.com/rancilio-pid/clevercoffee) - Open, modular controller platform for portafilter espresso machines
 - [ledger/ledger](https://github.com/ledger/ledger) - Double-entry accounting system with a command-line reporting interface
-- [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support.
+- [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
 - [enewhuis/liquibook](https://github.com/enewhuis/liquibook) - Modern C++ order matching engine
 - [Guitarmadillo/code](https://github.com/Guitarmadillo/code) - This repository will be used to share examples from videos, and more.
@@ -348,7 +348,7 @@
 
 - [MDiaznf23/simple-autoricing-i3wm-dotfiles](https://github.com/MDiaznf23/simple-autoricing-i3wm-dotfiles) - I3 Window Ricing + Widget Panel using EWW
 - [scherrer-txt/cybrland](https://github.com/scherrer-txt/cybrland) - Cyberpunk dotfiles for Arch Hyprland
-- [vyrx-dev/dotfiles](https://github.com/vyrx-dev/dotfiles) - a setup I wish already existed
+- [vyrx-dev/symphony](https://github.com/vyrx-dev/symphony) - a setup I wish already existed
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [chupre/dotfiles](https://github.com/chupre/dotfiles) - dots for i3 and stuff
 - [TheLittleCake/Lou-Rose-pine-niri-dotfiles](https://github.com/TheLittleCake/Lou-Rose-pine-niri-dotfiles) - Small rice to feel a home using niri
@@ -1537,7 +1537,7 @@
 
 ## QML 
 
-- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles that does not use 100 bash scripts
+- [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
 
 ## Racket 
 
@@ -1564,6 +1564,7 @@
 
 ## Ruby 
 
+- [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
 - [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
@@ -1582,6 +1583,7 @@
 
 ## Rust 
 
+- [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [dogue/pads](https://github.com/dogue/pads) - A simple CLI tool for swtiching the default/active output device for PulseAudio.
