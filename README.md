@@ -485,6 +485,7 @@
 
 ## Dockerfile 
 
+- [kevmo314/docker-gha-runner](https://github.com/kevmo314/docker-gha-runner) - Simple self-hosted GitHub Actions Runners
 - [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) - 
 - [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
@@ -886,7 +887,7 @@
 - [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
-- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - The best React-based framework with performance, scalability and security built in.
+- [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [andredumas/techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
