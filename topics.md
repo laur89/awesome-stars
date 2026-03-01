@@ -3548,7 +3548,7 @@
 - [evancz/elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [eclipse-paho/paho.mqtt-sn.embedded-c](https://github.com/eclipse-paho/paho.mqtt-sn.embedded-c) - Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
-- [jdereg/java-util](https://github.com/jdereg/java-util) - Rare, hard-to-write utilities that are thoroughly tested
+- [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
