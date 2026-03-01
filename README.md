@@ -794,7 +794,7 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
-- [jdereg/java-util](https://github.com/jdereg/java-util) - Rare, hard-to-write utilities that are thoroughly tested
+- [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
 - [querydsl/querydsl](https://github.com/querydsl/querydsl) - Unified Queries for Java
 - [winterbe/java8-tutorial](https://github.com/winterbe/java8-tutorial) - Modern Java - A Guide to Java 8
