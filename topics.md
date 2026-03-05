@@ -370,7 +370,6 @@
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [wormhole-app/wormhole](https://github.com/wormhole-app/wormhole) - With Wormhole, you can easily and securely share files of any size, with anyone, anywhere.
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [exconvinced/revanced-web-app](https://github.com/exconvinced/revanced-web-app) - 🚀 A Flask web implementation of the popular ReVanced
 - [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
@@ -447,7 +446,6 @@
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
 - [ShellCode33/ArchLinux-Hardened](https://github.com/ShellCode33/ArchLinux-Hardened) - ArchLinux setup which focuses on desktop security
 - [Kron4ek/Conty](https://github.com/Kron4ek/Conty) - Easy to use unprivileged Linux container packed into a single portable executable
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [oryband/dotfiles](https://github.com/oryband/dotfiles) - My main working machine setup. Here be cyber dragons, and optional bugs.
 - [gh0stzk/dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
 - [makedeb/makedeb](https://github.com/makedeb/makedeb) - A simplicity-focused packaging tool for Debian archives
@@ -1210,7 +1208,6 @@
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
 - [winapps-org/winapps](https://github.com/winapps-org/winapps) - Run Windows apps such as Microsoft Office/Adobe in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration. Hard fork of https://github.com/Fmstrat/
 - [GoogleContainerTools/jib](https://github.com/GoogleContainerTools/jib) - 🏗 Build container images for your Java applications.
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [crocodilestick/Calibre-Web-Automated](https://github.com/crocodilestick/Calibre-Web-Automated) - Calibre-Web but Automated and with tons of New Features! Fully automate and simplify your eBook set up!
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -1309,7 +1306,6 @@
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
 - [mubin-thinks/minimal-wm-config](https://github.com/mubin-thinks/minimal-wm-config) - A minimal configuration for sway & swayfx.
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [kdheepak/dotfiles-archive](https://github.com/kdheepak/dotfiles-archive) - 
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [crivotz/dot_files](https://github.com/crivotz/dot_files) - My dot_files for linux - i3, zinit, tmux, tmuxinator, urxvt and Co
@@ -2175,6 +2171,7 @@
 
 ## jupyter-notebook 
 
+- [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
@@ -2307,7 +2304,6 @@
 - [d99kris/nmail](https://github.com/d99kris/nmail) - Terminal-based email client for Linux and macOS
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
 - [imthenachoman/How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server) - An evolving how-to guide for securing a Linux server.
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [orf/gping](https://github.com/orf/gping) - Ping, but with a graph
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
@@ -2902,6 +2898,7 @@
 
 ## others 
 
+- [jtmcginty/tmux-session-dots](https://github.com/jtmcginty/tmux-session-dots) - Visual session indicator for tmux status bar
 - [xgboosted/pandas-ta-classic](https://github.com/xgboosted/pandas-ta-classic) - Technical Analysis Indicators - Pandas TA Classic is an easy to use Python 3 Pandas Extension with 200+ Indicators and Candlestick Patterns
 - [gromgit/pup](https://github.com/gromgit/pup) - Parsing HTML at the command line
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
@@ -3836,6 +3833,7 @@
 
 ## python 
 
+- [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [micheles/decorator](https://github.com/micheles/decorator) - decorator
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
@@ -4558,7 +4556,6 @@
 
 ## termux 
 
-- [Freed-Wu/Freed-Wu](https://github.com/Freed-Wu/Freed-Wu) - :gear: My dotfiles.
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
 - [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
 
@@ -4585,6 +4582,7 @@
 
 ## trading 
 
+- [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
 - [freqtrade/technical](https://github.com/freqtrade/technical) - Various indicators developed or collected for the Freqtrade
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
