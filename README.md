@@ -1745,6 +1745,7 @@
 
 ## Shell 
 
+- [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [jtmcginty/tmux-session-dots](https://github.com/jtmcginty/tmux-session-dots) - Visual session indicator for tmux status bar
 - [alberti42/zsh-appearance-control](https://github.com/alberti42/zsh-appearance-control) - Automatic switch your ZSH shell between dark and light mode
 - [mattkatz/jumpstart](https://github.com/mattkatz/jumpstart) - bootstrap any new posix (probably ubuntu) box
