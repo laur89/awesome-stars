@@ -2901,6 +2901,7 @@
 
 ## others 
 
+- [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jtmcginty/tmux-session-dots](https://github.com/jtmcginty/tmux-session-dots) - Visual session indicator for tmux status bar
 - [xgboosted/pandas-ta-classic](https://github.com/xgboosted/pandas-ta-classic) - Technical Analysis Indicators - Pandas TA Classic is an easy to use Python 3 Pandas Extension with 200+ Indicators and Candlestick Patterns
