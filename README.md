@@ -697,6 +697,7 @@
 - [clarklab/chowdown](https://github.com/clarklab/chowdown) - Simple recipes in Markdown format
 - [sritchie/clojure-conj-2023](https://github.com/sritchie/clojure-conj-2023) - Talk from the Clojure/Conj 2023 conference.
 - [tallesl/Rich-Hickey-fanclub](https://github.com/tallesl/Rich-Hickey-fanclub) - "every time I watch one of his talks I feel like someone has gone in and organized my brain"
+- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [roman01la/uix](https://github.com/roman01la/uix) - Idiomatic ClojureScript interface to modern React.js
 - [aviranzerioniac/awesome-piracy](https://github.com/aviranzerioniac/awesome-piracy) - This is oftentimes a clone of the original awesome piracy repo. At times, i just go along editing a little too many links from the collection, and it becomes something else.
 - [keeweb/keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
@@ -1005,7 +1006,6 @@
 - [ahmedengu/feature_importance](https://github.com/ahmedengu/feature_importance) - Adaptive Machine Learning-Based Stock Prediction using Financial Time Series Technical Indicators
 - [PakAndrey/QuantGANforRisk](https://github.com/PakAndrey/QuantGANforRisk) - 
 - [Data-Centric-AI-Community/ydata-synthetic](https://github.com/Data-Centric-AI-Community/ydata-synthetic) - Synthetic data generators for tabular and time-series data
-- [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 - [crehmann/TPS42](https://github.com/crehmann/TPS42) - An ergonomic split keyboard with TrackPoint support
 - [firmai/industry-machine-learning](https://github.com/firmai/industry-machine-learning) - A curated list of applied machine learning and data science notebooks and libraries across different industries (by @firmai)
 - [firmai/machine-learning-asset-management](https://github.com/firmai/machine-learning-asset-management) - Machine Learning in Asset Management (by @firmai)
@@ -1221,6 +1221,7 @@
 
 ## Python 
 
+- [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
 - [rarylson/update-conf.py](https://github.com/rarylson/update-conf.py) - Generate config files from 'conf.d' like directories
 - [sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation](https://github.com/sparkyniner/Netryx-OpenSource-Next-Gen-Street-Level-Geolocation) - Netryx is a powerful, locally-hosted geolocation tool that uses state-of-the-art computer vision to identify the exact coordinates of a street-level image. It replicates the core pipeline of high-end 
@@ -1996,6 +1997,7 @@
 
 ## TypeScript 
 
+- [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [honojs/starter](https://github.com/honojs/starter) - Hono starter templates
 - [fluxerapp/fluxer](https://github.com/fluxerapp/fluxer) - A free and open source instant messaging and VoIP platform built for friends, groups, and communities. Self-hosting and more activity in this repository is coming very soon! See the README.
