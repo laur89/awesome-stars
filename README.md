@@ -24,7 +24,6 @@
 - [Erlang](#erlang)
 - [Fluent](#fluent)
 - [GLSL](#glsl)
-- [Gherkin](#gherkin)
 - [Go](#go)
 - [Go Template](#go-template)
 - [HTML](#html)
@@ -535,10 +534,6 @@
 
 - [SherLock707/hyprland_dot_yadm](https://github.com/SherLock707/hyprland_dot_yadm) - Arch Hyprland dotfiles via YADM.
 
-## Gherkin 
-
-- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
-
 ## Go 
 
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
@@ -688,7 +683,6 @@
 
 - [gromgit/pup](https://github.com/gromgit/pup) - Parsing HTML at the command line
 - [skorokithakis/calumny](https://github.com/skorokithakis/calumny) - A calendar day image generator geared towards e-ink screens
-- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - AI coding agent for software engineers
 - [3ximus/dotfiles](https://github.com/3ximus/dotfiles) - All my dotfiles
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [badmojr/1Hosts](https://github.com/badmojr/1Hosts) - Advanced DNS filter/blocklists for privacy, security, and clean browsing.
@@ -1932,6 +1926,7 @@
 - [carnager/teiler](https://github.com/carnager/teiler) - Little script for screenshots and screencasts utilizing rofi, maim, ffmpeg
 - [Ventto/xpub](https://github.com/Ventto/xpub) - POSIX Shell script to get user's display environment variables of any TTY from anywhere.
 - [meskarune/i3lock-fancy](https://github.com/meskarune/i3lock-fancy) - i3lock script that takes a screenshot of the desktop, blurs the background and adds a lock icon and text
+- [sdkman/sdkman-cli](https://github.com/sdkman/sdkman-cli) - The SDKMAN! Command Line Interface
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 - [ashinkarov/i3-extras](https://github.com/ashinkarov/i3-extras) - Repository to keep patches and extras for i3 window manager.
 - [sainathadapa/i3-wm-config](https://github.com/sainathadapa/i3-wm-config) - I3 tiling window manager configuration
@@ -2020,6 +2015,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
+- [hotovo/aider-desk](https://github.com/hotovo/aider-desk) - AI coding agent for software engineers
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 - [karakeep-app/karakeep](https://github.com/karakeep-app/karakeep) - A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
