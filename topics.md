@@ -73,6 +73,7 @@
 - [development](#development)
 - [devops](#devops)
 - [discord](#discord)
+- [distributed-systems](#distributed-systems)
 - [django](#django)
 - [docker](#docker)
 - [documentation](#documentation)
@@ -1193,6 +1194,15 @@
 - [matrix-org/matrix-appservice-discord](https://github.com/matrix-org/matrix-appservice-discord) - A bridge between Matrix and Discord.
 - [kiranshila/Doplarr](https://github.com/kiranshila/Doplarr) - An *arr request bot for Discord
 - [ramboxapp/community-edition](https://github.com/ramboxapp/community-edition) - Free and Open Source messaging and emailing app that combines common web applications into one.
+
+## distributed-systems 
+
+- [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
+- [irmen/Pyro5](https://github.com/irmen/Pyro5) - Pyro 5  - Python remote objects
+- [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
+- [linkedin/brooklin](https://github.com/linkedin/brooklin) - An extensible distributed system for reliable nearline data streaming at scale
+- [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
+- [lagom/lagom](https://github.com/lagom/lagom) - Reactive Microservices for the JVM
 
 ## django 
 
@@ -3138,7 +3148,6 @@
 - [dabeaz/ply](https://github.com/dabeaz/ply) - Python Lex-Yacc
 - [dropofwill/py-lex](https://github.com/dropofwill/py-lex) - Python library for doing unigram analysis using lexicons
 - [pixeltris/TwitchAdSolutions](https://github.com/pixeltris/TwitchAdSolutions) - 
-- [irmen/Pyro5](https://github.com/irmen/Pyro5) - Pyro 5  - Python remote objects
 - [srgvg/dotfiles](https://github.com/srgvg/dotfiles) - My personal config files. This repository is managed with vcsh.
 - [jaclu/tmux-mullvad](https://github.com/jaclu/tmux-mullvad) - Tmux plugin, keeps track of Mullvad VPN status
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
