@@ -290,7 +290,7 @@
 ## agent 
 
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Best Buddy for AI Agents. Bootstrap 1000+ command line tools in seconds.
@@ -470,7 +470,7 @@
 
 ## automation 
 
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
@@ -2897,7 +2897,7 @@
 
 ## openai 
 
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage and tuning. Built-in image generation (Dall-E, SD, F
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
@@ -3872,7 +3872,7 @@
 
 ## python 
 
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [rarylson/update-conf.py](https://github.com/rarylson/update-conf.py) - Generate config files from 'conf.d' like directories
 - [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [micheles/decorator](https://github.com/micheles/decorator) - decorator
@@ -4308,7 +4308,7 @@
 
 ## self-hosted 
 
-- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework that evolves
+- [aden-hive/hive](https://github.com/aden-hive/hive) - Outcome driven agent development framework and runtime harness
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 - [kevmo314/docker-gha-runner](https://github.com/kevmo314/docker-gha-runner) - Simple self-hosted GitHub Actions Runners
 - [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - Self-hosted Lovable/v0 alternative. Realtime database & storage included.
