@@ -3719,7 +3719,6 @@
 - [xolox/vim-notes](https://github.com/xolox/vim-notes) - Easy note taking in Vim
 - [vimpr/vimperator-colors](https://github.com/vimpr/vimperator-colors) - colorsheme
 - [vimpr/vimperator-plugins](https://github.com/vimpr/vimperator-plugins) - for Vimperator plugins
-- [alols/xcape](https://github.com/alols/xcape) - Linux utility to configure modifier keys to act as other keys when pressed and released on their own.
 - [dj95/statusline](https://github.com/dj95/statusline) - Simple statusline for lemonbar
 - [Tecate/bitmap-fonts](https://github.com/Tecate/bitmap-fonts) - Monospaced bitmap fonts for X11, good for terminal use.
 - [fleveque/awesome-awesomes](https://github.com/fleveque/awesome-awesomes) - Awesome collection of awesome lists of libraries, tools, frameworks and software for any programming language :D
