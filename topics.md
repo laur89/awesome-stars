@@ -1318,7 +1318,7 @@
 
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
-- [scherrer-txt/cybrland](https://github.com/scherrer-txt/cybrland) - Cyberpunk dotfiles for Arch Hyprland
+- [cybrcore/cybrland](https://github.com/cybrcore/cybrland) - Cyberpunk dotfiles for Arch Hyprland
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [vyrx-dev/symphony](https://github.com/vyrx-dev/symphony) - a setup I wish already existed
 - [end-4/dots-hyprland](https://github.com/end-4/dots-hyprland) - Usability-first dotfiles
@@ -2932,6 +2932,7 @@
 
 ## others 
 
+- [samleeney/tmux-agent-status](https://github.com/samleeney/tmux-agent-status) - See at a glance which tmux sessions have Claude working vs idle
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [ell1010/wincompose](https://github.com/ell1010/wincompose) - 🔣 Compose Key for Windows
@@ -3751,7 +3752,7 @@
 ## parsing 
 
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 
 ## pentesting 
 
