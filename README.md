@@ -348,7 +348,7 @@
 ## CSS 
 
 - [MDiaznf23/simple-autoricing-i3wm-dotfiles](https://github.com/MDiaznf23/simple-autoricing-i3wm-dotfiles) - I3 Window Ricing + Widget Panel using EWW
-- [scherrer-txt/cybrland](https://github.com/scherrer-txt/cybrland) - Cyberpunk dotfiles for Arch Hyprland
+- [cybrcore/cybrland](https://github.com/cybrcore/cybrland) - Cyberpunk dotfiles for Arch Hyprland
 - [vyrx-dev/symphony](https://github.com/vyrx-dev/symphony) - a setup I wish already existed
 - [MdSharique1205/dotfiles](https://github.com/MdSharique1205/dotfiles) - 
 - [SherLock707/hyprland_dot_yadm](https://github.com/SherLock707/hyprland_dot_yadm) - Arch Hyprland dotfiles via YADM.
@@ -528,6 +528,7 @@
 ## Fluent 
 
 - [janeczku/calibre-web](https://github.com/janeczku/calibre-web) - :books: Web app for browsing, reading and downloading eBooks stored in a Calibre database
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
 ## Go 
 
@@ -1626,7 +1627,7 @@
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
 - [alexpasmantier/television](https://github.com/alexpasmantier/television) - A very fast, portable and hackable fuzzy finder.
 - [glzr-io/zebar](https://github.com/glzr-io/zebar) - Zebar is a tool for creating customizable and cross-platform taskbars, desktop widgets, and popups.
-- [zesterer/chumsky](https://github.com/zesterer/chumsky) - Write expressive, high-performance parsers with ease.
+- [zesterer/chumsky](https://github.com/zesterer/chumsky) - [Chumsky has moved to Codeberg!] Write expressive, high-performance parsers with ease.
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [block/goose](https://github.com/block/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
 - [ClementTsang/bottom](https://github.com/ClementTsang/bottom) - Yet another cross-platform graphical process/system monitor.
@@ -1702,7 +1703,6 @@
 - [orhun/menyoki](https://github.com/orhun/menyoki) - Screen{shot,cast} and perform ImageOps on the command line 🌱 🏞️
 - [phiresky/ripgrep-all](https://github.com/phiresky/ripgrep-all) - rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.
 - [liuchengxu/vim-clap](https://github.com/liuchengxu/vim-clap) - :clap: Modern performant fuzzy picker, tree-sitter highlighting, and more, for both Vim and NeoVim
-- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [ms-jpq/sad](https://github.com/ms-jpq/sad) - CLI search and replace | Space Age seD
 - [aerys/gpm](https://github.com/aerys/gpm) - Git-based Package Manager.
@@ -1744,6 +1744,7 @@
 
 ## Shell 
 
+- [samleeney/tmux-agent-status](https://github.com/samleeney/tmux-agent-status) - See at a glance which tmux sessions have Claude working vs idle
 - [FuzzyMistborn/infra](https://github.com/FuzzyMistborn/infra) - 100% chance of id10t errors....and a slight chance of a credential leak
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
