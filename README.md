@@ -1206,12 +1206,14 @@
 
 ## PowerShell 
 
+- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [actions/runner-images](https://github.com/actions/runner-images) - GitHub Actions runner images
 - [SpotX-Official/SpotX](https://github.com/SpotX-Official/SpotX) - SpotX patcher used for patching the desktop version of Spotify
 - [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil) - Chris Titus Tech's Windows Utility - Install Programs, Tweaks, Fixes, and Updates
 
 ## Python 
 
+- [TorchTrade/torchtrade](https://github.com/TorchTrade/torchtrade) - Modular reinforcement learning framework for algorithmic trading
 - [mfisher87/gha-hashpinner](https://github.com/mfisher87/gha-hashpinner) - Finds mutable pins in GitHub Actions config and replaces them with immutable hashes.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
@@ -1591,7 +1593,6 @@
 ## Rust 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-- [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -1993,6 +1994,7 @@
 
 ## TypeScript 
 
+- [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [xec-sh/xec](https://github.com/xec-sh/xec) - Xec - Universal Execution System
 - [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
