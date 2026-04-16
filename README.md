@@ -789,7 +789,7 @@
 - [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 - [ignatov/intellij-erlang](https://github.com/ignatov/intellij-erlang) - Erlang IDE
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
-- [AxonFramework/AxonFramework](https://github.com/AxonFramework/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM
+- [AxonIQ/AxonFramework](https://github.com/AxonIQ/AxonFramework) - Framework for Evolutionary Message-Driven Microservices on the JVM
 - [SQiShER/java-object-diff](https://github.com/SQiShER/java-object-diff) - Library to diff and merge Java objects with ease
 - [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
 - [projectlombok/lombok](https://github.com/projectlombok/lombok) - Very spicy additions to the Java programming language.
@@ -815,6 +815,7 @@
 
 ## JavaScript 
 
+- [iamzifei/show-me-the-money](https://github.com/iamzifei/show-me-the-money) - Claude Code skill suite that builds and runs a 24/7 automated business from scratch — from idea discovery to revenue generation.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp) - A MCP server for our beloved terminal multiplexer tmux.
 - [tradex-app/TradeX-chart](https://github.com/tradex-app/TradeX-chart) - TradeX Chart is a trade / stock chart written in  plain (vanilla) JavaScript with mobile support
@@ -1213,6 +1214,7 @@
 
 ## Python 
 
+- [jrabinow/snapper-rollback](https://github.com/jrabinow/snapper-rollback) - Script for rolling back to a previous snapper-managed BTRFS snapshot.
 - [TorchTrade/torchtrade](https://github.com/TorchTrade/torchtrade) - Modular reinforcement learning framework for algorithmic trading
 - [mfisher87/gha-hashpinner](https://github.com/mfisher87/gha-hashpinner) - Finds mutable pins in GitHub Actions config and replaces them with immutable hashes.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
