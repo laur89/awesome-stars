@@ -328,7 +328,7 @@
 ## ai-agents 
 
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -612,7 +612,7 @@
 - [mathiasbynens/dotfiles](https://github.com/mathiasbynens/dotfiles) - :wrench: .files, including ~/.macos — sensible hacker defaults for macOS
 - [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch) - 🖼️  A command-line system information tool written in bash 3.2+
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [tannercollin/Notica](https://github.com/tannercollin/Notica) - Send browser notifications from your terminal. No installation. No registration.
 - [rbenv/rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
 - [koalaman/shellcheck](https://github.com/koalaman/shellcheck) - ShellCheck, a static analysis tool for shell scripts
@@ -1157,6 +1157,7 @@
 
 ## developer-tools 
 
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm) - An open-source, AI-integrated, cross-platform terminal for seamless workflows
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
@@ -2457,7 +2458,7 @@
 ## llm 
 
 - [TorchTrade/torchtrade](https://github.com/TorchTrade/torchtrade) - Modular reinforcement learning framework for algorithmic trading
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - Self-hosted Lovable/v0 alternative. Realtime database & storage included.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -2638,6 +2639,7 @@
 
 ## mcp 
 
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp) - A MCP server for our beloved terminal multiplexer tmux.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -2728,6 +2730,7 @@
 
 ## neovim 
 
+- [azratul/live-share.nvim](https://github.com/azratul/live-share.nvim) - Real-time pair programming and collaborative editing for Neovim, inspired by VS Code Live Share.
 - [alberti42/zsh-appearance-control](https://github.com/alberti42/zsh-appearance-control) - Propagate dark/light appearance across your shell, tmux, Neovim, Emacs, and CLI tools
 - [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
 - [lambdalisue/vim-fern](https://github.com/lambdalisue/vim-fern) - 🌿 General purpose asynchronous tree viewer written in Pure Vim script
@@ -2836,7 +2839,7 @@
 
 ## nodejs 
 
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [abhixdd/UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) - A modern, cross‑platform CLI to monitor websites and APIs.
@@ -2920,7 +2923,7 @@
 
 ## openai 
 
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio generat
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
@@ -2950,6 +2953,7 @@
 
 ## others 
 
+- [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
 - [jrabinow/snapper-rollback](https://github.com/jrabinow/snapper-rollback) - Script for rolling back to a previous snapper-managed BTRFS snapshot.
 - [iamzifei/show-me-the-money](https://github.com/iamzifei/show-me-the-money) - Claude Code skill suite that builds and runs a 24/7 automated business from scratch — from idea discovery to revenue generation.
 - [mfisher87/gha-hashpinner](https://github.com/mfisher87/gha-hashpinner) - Finds mutable pins in GitHub Actions config and replaces them with immutable hashes.
@@ -4214,7 +4218,7 @@
 - [psmux/psmux](https://github.com/psmux/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [uutils/coreutils](https://github.com/uutils/coreutils) - Cross-platform Rust rewrite of the GNU coreutils
 - [rust-fuzz/cargo-fuzz](https://github.com/rust-fuzz/cargo-fuzz) - Command line helpers for fuzzing
 - [tanciaku/tmmpr](https://github.com/tanciaku/tmmpr) - terminal mind mapper
@@ -4694,7 +4698,7 @@
 ## tui 
 
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
-- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader
+- [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [tanciaku/tmmpr](https://github.com/tanciaku/tmmpr) - terminal mind mapper
 - [sectore/timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Countdown, Timer, Event.
 - [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
@@ -4740,7 +4744,7 @@
 
 ## typescript 
 
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent framework — one runTeam() call from goal to result. Auto task decomposition, parallel execution. 3 dependencies, deploys anywhere Node.js runs.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -5094,7 +5098,7 @@
 - [wfxr/forgit](https://github.com/wfxr/forgit) - :zzz: A utility tool powered by fzf for using git interactively.
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [holman/dotfiles](https://github.com/holman/dotfiles) - @holman does dotfiles
-- [mrjohannchang/fz.sh](https://github.com/mrjohannchang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
+- [johannjhang/fz.sh](https://github.com/johannjhang/fz.sh) - Cli shell plugin, the missing fuzzy tab completion feature for the z jump around command.
 - [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto) - The configuration framework for Zsh
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
