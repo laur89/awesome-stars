@@ -2310,6 +2310,7 @@
 
 ## linux 
 
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [murlakatamenka/pulseaudio-next-output](https://github.com/murlakatamenka/pulseaudio-next-output) - CLI to switch to next PulseAudio output
@@ -3905,6 +3906,7 @@
 
 ## python 
 
+- [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [rarylson/update-conf.py](https://github.com/rarylson/update-conf.py) - Generate config files from 'conf.d' like directories
 - [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
