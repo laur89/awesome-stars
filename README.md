@@ -1960,7 +1960,7 @@
 - [holman/spark](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell.
 - [carnager/rofi-pass](https://github.com/carnager/rofi-pass) - rofi frontend for pass
 - [rupa/z](https://github.com/rupa/z) - z - jump around
-- [kamranahmedse/git-standup](https://github.com/kamranahmedse/git-standup) - Recall what you or your team did on the last working day
+- [nilbuild/git-standup](https://github.com/nilbuild/git-standup) - Recall what you or your team did on the last working day
 - [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 - [jessfraz/dotfiles](https://github.com/jessfraz/dotfiles) - My dotfiles. Buyer beware ;)
 - [bmizerany/roundup](https://github.com/bmizerany/roundup) - eliminate bugs and weeds from shell scripts
@@ -2107,7 +2107,7 @@
 - [styled-components/styled-components](https://github.com/styled-components/styled-components) - Fast, expressive styling for React. Server components, client components, streaming SSR, React Native—one API.
 - [teambit/bit](https://github.com/teambit/bit) - AI-powered development workspaces with reusable components, architectural clarity and zero overhead.
 - [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
-- [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
+- [nilbuild/developer-roadmap](https://github.com/nilbuild/developer-roadmap) - Interactive roadmaps, guides and other educational content to help developers grow in their careers.
 - [feathersjs/feathers](https://github.com/feathersjs/feathers) - The API and real-time application framework
 - [immutable-js/immutable-js](https://github.com/immutable-js/immutable-js) - Immutable persistent data collections for Javascript which increase efficiency and simplicity.
 - [staltz/xstream](https://github.com/staltz/xstream) - An extremely intuitive, small, and fast functional reactive stream library for JavaScript
