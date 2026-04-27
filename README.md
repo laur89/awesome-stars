@@ -975,6 +975,7 @@
 
 ## Jinja 
 
+- [FuzzyMistborn/infra](https://github.com/FuzzyMistborn/infra) - 100% chance of id10t errors....and a slight chance of a credential leak
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [allotmentandy/ansible-debian-install-desktop](https://github.com/allotmentandy/ansible-debian-install-desktop) - my ansible repo to install my desktop and server on debian
 
@@ -1756,7 +1757,6 @@
 ## Shell 
 
 - [samleeney/tmux-agent-status](https://github.com/samleeney/tmux-agent-status) - See at a glance which tmux sessions have Claude/Codex working vs idle
-- [FuzzyMistborn/infra](https://github.com/FuzzyMistborn/infra) - 100% chance of id10t errors....and a slight chance of a credential leak
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -2005,7 +2005,7 @@
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
 - [xec-sh/xec](https://github.com/xec-sh/xec) - Xec - Universal Execution System
-- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - TypeScript multi-agent orchestration engine — one runTeam() call from goal to result. Multi-model teams, auto task decomposition, parallel execution. 3 runtime dependencies.
+- [JackChen-me/open-multi-agent](https://github.com/JackChen-me/open-multi-agent) - From a goal to a task DAG, automatically. TypeScript-native multi-agent orchestration with multi-model teams and parallel execution. Three runtime dependencies.
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
 - [DaKheera47/job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
