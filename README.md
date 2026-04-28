@@ -71,7 +71,6 @@
 - [Vala](#vala)
 - [Vim Script](#vim-script)
 - [Vue](#vue)
-- [XSLT](#xslt)
 - [Zig](#zig)
 
 ## AutoHotkey 
@@ -93,6 +92,8 @@
 
 ## C 
 
+- [jha-naman/treetags](https://github.com/jha-naman/treetags) - Generate vi compatible tags for multiple languages
+- [DarkZeros/LightInk](https://github.com/DarkZeros/LightInk) - ESP-IDF project that build LightMyInk Binaries
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [rpmohn/a4](https://github.com/rpmohn/a4) - dynamic terminal manager and multiplexer
 - [webserver-llc/angie](https://github.com/webserver-llc/angie) - Angie - drop-in replacement for nginx
@@ -992,7 +993,6 @@
 - [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
-- [pycaret/pycaret](https://github.com/pycaret/pycaret) - An open-source, low-code machine learning library in Python
 - [amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [yuyasugano/finance_python](https://github.com/yuyasugano/finance_python) - Elementary Jupyter Notebook Samples for Finance
 - [ivebotunac/PrimoGPT](https://github.com/ivebotunac/PrimoGPT) - PrimoGPT: Finance Reinforcement Learning and Natural Language Processing
@@ -1186,7 +1186,7 @@
 - [sabre-io/Baikal](https://github.com/sabre-io/Baikal) - Baïkal is a Calendar+Contacts server
 - [PrivateBin/PrivateBin](https://github.com/PrivateBin/PrivateBin) - A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.
 - [diskoverdata/diskover-community](https://github.com/diskoverdata/diskover-community) - Diskover Community Edition - Open source file indexer, file search engine and data management and analytics powered by Elasticsearch
-- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - A platform to create documentation/wiki content built with PHP & Laravel
+- [BookStackApp/BookStack](https://github.com/BookStackApp/BookStack) - NOW MANAGED ON CODEBERG
 - [grokability/snipe-it](https://github.com/grokability/snipe-it) - A free open source IT asset/license management system
 - [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
 - [wallabag/wallabag](https://github.com/wallabag/wallabag) - wallabag is a self hostable application for saving web pages: Save and classify articles. Read them later. Freely.
@@ -1302,6 +1302,7 @@
 - [hrehfeld/python-keepassxc-browser](https://github.com/hrehfeld/python-keepassxc-browser) - Access the KeepassXC Browser API from python. Pypi: https://pypi.org/project/keepassxc-browser/
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [TIAcode/LLMShellAutoComplete](https://github.com/TIAcode/LLMShellAutoComplete) - Use GPT to complete shell command line using atuin shell history database and terminal screen content as prompt
+- [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 - [IngoMeyer441/zsh-easy-motion](https://github.com/IngoMeyer441/zsh-easy-motion) - Vim's easy-motion for zsh
 - [kdheepak/dotfiles-archive](https://github.com/kdheepak/dotfiles-archive) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
@@ -1358,6 +1359,7 @@
 - [Reed-Schimmel/support_resistance_finder](https://github.com/Reed-Schimmel/support_resistance_finder) - Python class to find support and resistance levels from candlestick data. (credit https://towardsdatascience.com/detection-of-price-support-and-resistance-levels-in-python-baedc44c34c9)
 - [ranaroussi/quantstats](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python
 - [dcs-liberation/dcs_liberation](https://github.com/dcs-liberation/dcs_liberation) - DCS World dynamic campaign.
+- [jrsteensen/OpenHornet](https://github.com/jrsteensen/OpenHornet) - OpenHornet 1:1 F/A-18C Simulator Repository
 - [nwg-piotr/autotiling](https://github.com/nwg-piotr/autotiling) - Script for sway and i3 to automatically switch the horizontal / vertical window split orientation
 - [tillkrischer/nofolder](https://github.com/tillkrischer/nofolder) - Deluge plugin
 - [virt-manager/virt-manager](https://github.com/virt-manager/virt-manager) - Desktop tool for managing virtual machines via libvirt
@@ -1599,6 +1601,7 @@
 
 ## Rust 
 
+- [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
@@ -2200,10 +2203,6 @@
 - [TeamPiped/Piped](https://github.com/TeamPiped/Piped) - An alternative privacy-friendly YouTube frontend which is efficient by design.
 - [tvjsx/tvjs-overlays](https://github.com/tvjsx/tvjs-overlays) - 💴  Collection of overlays made by the TradingVueJs community
 - [Datlyfe/jira_clone](https://github.com/Datlyfe/jira_clone) - A Jira clone built with Vuejs & Nodejs/Graphql
-
-## XSLT 
-
-- [jrsteensen/OpenHornet](https://github.com/jrsteensen/OpenHornet) - OpenHornet 1:1 F/A-18C Simulator Repository
 
 ## Zig 
 
