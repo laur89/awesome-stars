@@ -850,7 +850,6 @@
 - [jaedb/Iris](https://github.com/jaedb/Iris) - Discover, explore and manage your music library across multiple sources with this beautiful web-based interface. Iris is a Mopidy frontend extension.
 - [ShareDropio/sharedrop](https://github.com/ShareDropio/sharedrop) - Easy P2P file transfer powered by WebRTC - inspired by Apple AirDrop
 - [ETCExtensions/Edit-This-Cookie](https://github.com/ETCExtensions/Edit-This-Cookie) - EditThisCookie is the famous Google Chrome/Chromium extension for editing cookies
-- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
 - [NoahTheDuke/coc-clojure](https://github.com/NoahTheDuke/coc-clojure) - coc.nvim plugin for clojure-lsp
 - [nubank/morse](https://github.com/nubank/morse) - A graphical, interactive tool for browsing Clojure data
@@ -1119,6 +1118,7 @@
 - [hmgle/aider-zsh-complete](https://github.com/hmgle/aider-zsh-complete) - Zsh completion script for the `aider`
 - [romkatv/zsh4humans](https://github.com/romkatv/zsh4humans) - A turnkey configuration for Zsh
 - [Bastardkb/Skeletyl](https://github.com/Bastardkb/Skeletyl) - 
+- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels with Wild KSU & SUSFS
 - [argenkiwi/kenkyo](https://github.com/argenkiwi/kenkyo) - A layered keyboard layout for standard ANSI keyboards
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [Avamander/AdBlock](https://github.com/Avamander/AdBlock) - Eriti range (reklaamid+analüütika+tüütused) Eesti saitidele kohandatud AdBlock (uBlock Origin) filter
@@ -1376,6 +1376,7 @@
 - [mk-fg/python-pulse-control](https://github.com/mk-fg/python-pulse-control) - Python high-level interface and ctypes-based bindings for PulseAudio (libpulse)
 - [SpiralDevelopment/crypto-sentiment-data](https://github.com/SpiralDevelopment/crypto-sentiment-data) - A collection of scripts to collect crypto market sentiment data
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
 - [jjlee/git-meld-index](https://github.com/jjlee/git-meld-index) - Run meld or any git difftool to interactively stage changes
@@ -1830,7 +1831,6 @@
 - [omerxx/tmux-floax](https://github.com/omerxx/tmux-floax) - The missing floating pane for Tmux
 - [navahas/tmux-grimoire](https://github.com/navahas/tmux-grimoire) - Lightweight tmux plugin for customizable floating shells (“shpells”) — fast, scriptable, aesthetic.
 - [Neo23x0/auditd](https://github.com/Neo23x0/auditd) - Best Practice Auditd Configuration
-- [WildKernels/GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI2 5.10+ Kernels with Wild KSU & SUSFS
 - [pacstall/pacstall](https://github.com/pacstall/pacstall) - An AUR-inspired package manager for Ubuntu
 - [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch) - 
 - [JaKooLit/Debian-Hyprland](https://github.com/JaKooLit/Debian-Hyprland) - For automated installation of Hyprland on Debian 13 Trixie (Testing) and Debian SiD (Unstable)
