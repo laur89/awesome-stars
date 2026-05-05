@@ -533,6 +533,7 @@
 
 ## Go 
 
+- [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
 - [anacrolix/torrent](https://github.com/anacrolix/torrent) - Full-featured BitTorrent client package and utilities
@@ -1385,7 +1386,7 @@
 - [isaiahbjork/Auto-GPT-MetaTrader-Plugin](https://github.com/isaiahbjork/Auto-GPT-MetaTrader-Plugin) - The AutoGPT MetaTrader Plugin is a software tool that enables traders to connect their MetaTrader 4 or 5 trading account to Auto-GPT.
 - [adamws/kicad-kbplacer](https://github.com/adamws/kicad-kbplacer) - KiCad plugin for automatic keyboard's key placement and routing
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
-- [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist:
+- [SamR1/FitTrackee](https://github.com/SamR1/FitTrackee) - Self-hosted outdoor activity tracker :bicyclist: [mirror of codeberg repository: https://codeberg.org/FitTrackee/FitTrackee]
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [cnuernber/facial-rec](https://github.com/cnuernber/facial-rec) - Facial rec tech
@@ -1605,7 +1606,7 @@
 - [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
-- [Gerharddc/litterbox](https://github.com/Gerharddc/litterbox) - Somewhat Isolated Development Environments
+- [Gerharddc/Litterbox](https://github.com/Gerharddc/Litterbox) - Somewhat Isolated Development Environments
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [dogue/pads](https://github.com/dogue/pads) - A simple CLI tool for swtiching the default/active output device for PulseAudio.
 - [RobertPlant/paswitch-rs](https://github.com/RobertPlant/paswitch-rs) - paswitch wrapper for swapping to a pulse sink by name
