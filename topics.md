@@ -2985,6 +2985,7 @@
 
 ## others 
 
+- [SamuelTulach/BetterTiming](https://github.com/SamuelTulach/BetterTiming) - PoC TSC offsetting in KVM
 - [jha-naman/treetags](https://github.com/jha-naman/treetags) - Generate vi compatible tags for multiple languages
 - [DarkZeros/LightInk](https://github.com/DarkZeros/LightInk) - ESP-IDF project that build LightMyInk Binaries
 - [shiyu-coder/Kronos](https://github.com/shiyu-coder/Kronos) - Kronos: A Foundation Model for the Language of Financial Markets
