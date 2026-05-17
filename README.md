@@ -682,7 +682,6 @@
 
 ## HTML 
 
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [gromgit/pup](https://github.com/gromgit/pup) - Parsing HTML at the command line
 - [skorokithakis/calumny](https://github.com/skorokithakis/calumny) - A calendar day image generator geared towards e-ink screens
 - [3ximus/dotfiles](https://github.com/3ximus/dotfiles) - All my dotfiles
@@ -1221,6 +1220,7 @@
 
 - [rodlaf/KalshiMarketMaker](https://github.com/rodlaf/KalshiMarketMaker) - Deploy simple market making strategies on Kalshi
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
