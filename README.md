@@ -560,7 +560,7 @@
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [fluxcd/flux2](https://github.com/fluxcd/flux2) - Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant for Zettelkasten or otherwise
+- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant
 - [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [ccfos/nightingale](https://github.com/ccfos/nightingale) - Nightingale is to monitoring and alerting what Grafana is to visualization.
@@ -948,7 +948,7 @@
 - [sweet-js/sweet-core](https://github.com/sweet-js/sweet-core) - Sweeten your JavaScript.
 - [coderitual/bounty](https://github.com/coderitual/bounty) - Javascript and SVG odometer effect library with motion blur
 - [webpack/webpack](https://github.com/webpack/webpack) - A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through "loaders", modules can be CommonJs, AM
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 - [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 - [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -1385,7 +1385,7 @@
 - [morrolinux/i3expo-ng](https://github.com/morrolinux/i3expo-ng) - Exposè for i3 WM. Fork of https://gitlab.com/d.reis/i3expo to fix crashes and improve features/usability
 - [mk-fg/python-pulse-control](https://github.com/mk-fg/python-pulse-control) - Python high-level interface and ctypes-based bindings for PulseAudio (libpulse)
 - [SpiralDevelopment/crypto-sentiment-data](https://github.com/SpiralDevelopment/crypto-sentiment-data) - A collection of scripts to collect crypto market sentiment data
-- [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A natural language interface for computers
 - [plasma-umass/scalene](https://github.com/plasma-umass/scalene) - Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python with AI-powered optimization proposals
 - [itsToggle/plex_debrid](https://github.com/itsToggle/plex_debrid) - Plex torrent streaming through Debrid Services
 - [Bluetooth-Devices/dbus-fast](https://github.com/Bluetooth-Devices/dbus-fast) - A faster version of dbus-next
@@ -1612,7 +1612,7 @@
 
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
-- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no root, no prompt injection
+- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
