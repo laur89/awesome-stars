@@ -449,6 +449,7 @@
 
 ## ansible 
 
+- [matkoniecz/recovery-with-ansible](https://github.com/matkoniecz/recovery-with-ansible) - My Ansible config for the main computer.
 - [kubernetes-sigs/kubespray](https://github.com/kubernetes-sigs/kubespray) - Deploy a Production Ready Kubernetes Cluster
 - [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud 
 
@@ -1368,6 +1369,7 @@
 
 ## dotfiles 
 
+- [matkoniecz/recovery-with-ansible](https://github.com/matkoniecz/recovery-with-ansible) - My Ansible config for the main computer.
 - [aduros/dotfiles](https://github.com/aduros/dotfiles) - My configuration and theme.
 - [felipecrs/dotfiles](https://github.com/felipecrs/dotfiles) - Bootstrap your Ubuntu in a single command!
 - [benmezger/dotfiles](https://github.com/benmezger/dotfiles) - My collection of dotfiles
@@ -1835,6 +1837,7 @@
 
 ## hacktoberfest 
 
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
@@ -3013,6 +3016,7 @@
 
 ## others 
 
+- [mgalgs/tmux-wireguard](https://github.com/mgalgs/tmux-wireguard) - WireGuard/Tailscale connection indicator for tmux status line
 - [artemave/artwall](https://github.com/artemave/artwall) - Rotate your Sway wallpaper through random paintings
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
@@ -4295,6 +4299,7 @@
 
 ## rust 
 
+- [lincheney/rl_custom_isearch](https://github.com/lincheney/rl_custom_isearch) - Hack to customise libreadline reverse search
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
@@ -4509,6 +4514,7 @@
 
 ## shell 
 
+- [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [oalders/is](https://github.com/oalders/is) - an inspector for your environment
 - [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories.
@@ -5158,6 +5164,7 @@
 
 ## zsh 
 
+- [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
 - [aduros/dotfiles](https://github.com/aduros/dotfiles) - My configuration and theme.
 - [alberti42/zsh-appearance-control](https://github.com/alberti42/zsh-appearance-control) - Propagate dark/light appearance across your shell, tmux, Neovim, Emacs, and CLI tools
 - [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
