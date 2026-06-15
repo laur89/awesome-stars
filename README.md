@@ -236,6 +236,7 @@
 
 ## C# # 
 
+- [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [ell1010/wincompose](https://github.com/ell1010/wincompose) - 🔣 Compose Key for Windows
 - [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
 - [lin-ycv/EverythingPowerToys](https://github.com/lin-ycv/EverythingPowerToys) - Everything search plugin for PowerToys Run
