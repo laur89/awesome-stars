@@ -3016,6 +3016,7 @@
 
 ## others 
 
+- [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mgalgs/tmux-wireguard](https://github.com/mgalgs/tmux-wireguard) - WireGuard/Tailscale connection indicator for tmux status line
 - [artemave/artwall](https://github.com/artemave/artwall) - Rotate your Sway wallpaper through random paintings
