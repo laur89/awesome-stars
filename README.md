@@ -203,7 +203,6 @@
 - [wmutils/core](https://github.com/wmutils/core) - Set of window manipulation tools
 - [Raymo111/i3lock-color](https://github.com/Raymo111/i3lock-color) - The world's most popular non-default computer lockscreen.
 - [geokb/yabar](https://github.com/geokb/yabar) - A modern and lightweight status bar for X window managers.
-- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [sigmike/autocutsel](https://github.com/sigmike/autocutsel) - automated xcutsel
 - [elken/dwm](https://github.com/elken/dwm) - dwm
 - [LemonBoy/bar](https://github.com/LemonBoy/bar) - A featherweight, lemon-scented, bar based on xcb
@@ -664,6 +663,7 @@
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [go-jira/jira](https://github.com/go-jira/jira) - simple jira command line client in Go
 - [moby/moby](https://github.com/moby/moby) - The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems
+- [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [schachmat/wego](https://github.com/schachmat/wego) - weather app for the terminal
 - [monmohan/cors-tutorial-practical](https://github.com/monmohan/cors-tutorial-practical) - Demonstrate different CORS scenarios (pre-flight etc.)
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -1316,7 +1316,6 @@
 - [TIAcode/LLMShellAutoComplete](https://github.com/TIAcode/LLMShellAutoComplete) - Use GPT to complete shell command line using atuin shell history database and terminal screen content as prompt
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 - [IngoMeyer441/zsh-easy-motion](https://github.com/IngoMeyer441/zsh-easy-motion) - Vim's easy-motion for zsh
-- [kdheepak/dotfiles-archive](https://github.com/kdheepak/dotfiles-archive) - 
 - [xxh/xxh](https://github.com/xxh/xxh) - 🚀 Bring your favorite shell wherever you go through the ssh. Xonsh shell, fish, zsh, osquery and so on.
 - [searxng/searxng](https://github.com/searxng/searxng) - SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.
 - [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications
