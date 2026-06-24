@@ -3039,6 +3039,7 @@
 
 ## others 
 
+- [gsauthof/cutbynoise](https://github.com/gsauthof/cutbynoise) - cut sample enclosed noise regions out of sound files
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
