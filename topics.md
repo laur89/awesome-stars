@@ -3075,7 +3075,7 @@
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
 - [mangowm/mango](https://github.com/mangowm/mango) - Practical and Powerful wayland compositor (dwm but wayland)
 - [jtmcginty/tmux-session-dots](https://github.com/jtmcginty/tmux-session-dots) - Visual session indicator for tmux status bar
-- [xgboosted/pandas-ta-classic](https://github.com/xgboosted/pandas-ta-classic) - Technical Analysis Indicators - Pandas TA Classic is an easy to use Python 3 Pandas Extension with 200+ Indicators and Candlestick Patterns
+- [xgboosted/pandas-ta-classic](https://github.com/xgboosted/pandas-ta-classic) - Technical Analysis Indicators - Pandas TA Classic is an easy to use Python 3 Pandas Extension with 250+ Indicators and Candlestick Patterns
 - [gromgit/pup](https://github.com/gromgit/pup) - Parsing HTML at the command line
 - [junegunn/tmux-fzf-url](https://github.com/junegunn/tmux-fzf-url) - 
 - [134130/intellij-mise](https://github.com/134130/intellij-mise) - mise-en-place JetBrain's IntelliJ platform supports
