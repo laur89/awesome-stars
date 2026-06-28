@@ -490,7 +490,6 @@
 
 - [kevmo314/docker-gha-runner](https://github.com/kevmo314/docker-gha-runner) - Simple self-hosted GitHub Actions Runners
 - [linuxserver/docker-babybuddy](https://github.com/linuxserver/docker-babybuddy) - 
-- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker
 - [UnusualAlpha/ib-gateway-docker](https://github.com/UnusualAlpha/ib-gateway-docker) - Docker image with IB Gateway and IBC
 - [nephatrine/docker-drone-runner](https://github.com/nephatrine/docker-drone-runner) - [mirror] Container w/ Drone-Runner-Docker
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) - 
@@ -553,7 +552,7 @@
 - [stapelberg/wsmgr-for-i3](https://github.com/stapelberg/wsmgr-for-i3) - workspace manager for i3
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A minimal CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [danielkosgei/detergen](https://github.com/danielkosgei/detergen) - Deterministic password generator
 - [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
 - [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
@@ -1692,7 +1691,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
-- [MartinGamesCZ/Clippy](https://github.com/MartinGamesCZ/Clippy) - Linux CLI tool for managing and working with the clipboard
+- [martinpetrdev/Clippy](https://github.com/martinpetrdev/Clippy) - Linux CLI tool for managing and working with the clipboard
 - [nullstalgia/iron-heart](https://github.com/nullstalgia/iron-heart) - A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more!
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
@@ -1867,6 +1866,7 @@
 - [joshmedeski/tmux-nerd-font-window-name](https://github.com/joshmedeski/tmux-nerd-font-window-name) - Nerd Font icons for your tmux windows
 - [DoTheEvo/selfhosted-apps-docker](https://github.com/DoTheEvo/selfhosted-apps-docker) - Guide by Example
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
+- [borgmatic-collective/docker-borgmatic](https://github.com/borgmatic-collective/docker-borgmatic) - Borgmatic in Docker
 - [gnzsnz/ib-gateway-docker](https://github.com/gnzsnz/ib-gateway-docker) - Docker image with IB Gateway/TWS and IBC
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [Nuzair46/BlockTheSpot-Linux](https://github.com/Nuzair46/BlockTheSpot-Linux) - Spotify Ad blocker based on SpotX for Linux
