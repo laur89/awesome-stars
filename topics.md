@@ -939,7 +939,7 @@
 - [onyx-platform/onyx](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing
 - [oxalorg/4ever-clojure](https://github.com/oxalorg/4ever-clojure) - Pure cljs version of 4clojure, meant to run forever!
 - [askonomm/clarktown](https://github.com/askonomm/clarktown) - A zero-dependency Markdown parser.
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [tiagodalloca/city-weather-clj](https://github.com/tiagodalloca/city-weather-clj) - Small web application which consumes the Open Weather API and makes use of Clojure's atom construct as cache.
 - [prestancedesign/inertia-clojure](https://github.com/prestancedesign/inertia-clojure) - A Clojure adapter for Inertia.js
 - [bbatsov/clojure-style-guide](https://github.com/bbatsov/clojure-style-guide) - A community coding style guide for the Clojure programming language
@@ -1026,7 +1026,7 @@
 ## compiler 
 
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
 - [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
@@ -1066,7 +1066,7 @@
 - [olive-editor/olive](https://github.com/olive-editor/olive) - Free open-source non-linear video editor
 - [Librum-Reader/Librum](https://github.com/Librum-Reader/Librum) - The Librum client application
 - [web-eid/web-eid-app](https://github.com/web-eid/web-eid-app) - The Web eID application performs cryptographic digital signing and authentication operations with electronic ID smart cards for the Web eID browser extension
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [albertlauncher/albert](https://github.com/albertlauncher/albert) - A fast and flexible keyboard launcher
 - [hmemcpy/milewski-ctfp-pdf](https://github.com/hmemcpy/milewski-ctfp-pdf) - Bartosz Milewski's 'Category Theory for Programmers' unofficial PDF and LaTeX source
 - [polybar/polybar](https://github.com/polybar/polybar) - A fast and easy-to-use status bar
@@ -2378,7 +2378,7 @@
 ## language 
 
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 
 ## laravel 
@@ -4024,7 +4024,7 @@
 ## programming-language 
 
 - [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
-- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM with seamless C++ interop.
+- [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 
