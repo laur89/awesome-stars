@@ -3759,7 +3759,6 @@
 - [apickli/apickli](https://github.com/apickli/apickli) - apickli - REST API integration testing framework based on cucumber.js
 - [jonathanio/update-systemd-resolved](https://github.com/jonathanio/update-systemd-resolved) - Helper script for OpenVPN to directly update the DNS settings of a link through systemd-resolved via DBus.
 - [NLnetLabs/unbound](https://github.com/NLnetLabs/unbound) - Unbound is a validating, recursive, and caching DNS resolver.
-- [prclaunchky/Windows-10-Super-Minimal](https://github.com/prclaunchky/Windows-10-Super-Minimal) - 
 - [linuxcsuf/linuxcsuf](https://github.com/linuxcsuf/linuxcsuf) - CSUF Linux User Group
 - [SidOfc/cani](https://github.com/SidOfc/cani) - A TUI wrapper around caniuse data using FZF and curses
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
