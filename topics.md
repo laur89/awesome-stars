@@ -361,7 +361,7 @@
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [Fincept-Corporation/FinceptTerminal](https://github.com/Fincept-Corporation/FinceptTerminal) - FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making i
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
 - [aaif-goose/goose](https://github.com/aaif-goose/goose) - an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM
@@ -792,7 +792,7 @@
 
 - [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
@@ -805,6 +805,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Co
@@ -2593,7 +2594,7 @@
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [TorchTrade/torchtrade](https://github.com/TorchTrade/torchtrade) - Modular reinforcement learning framework for algorithmic trading
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 - [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - Self-hosted Lovable/v0 alternative. Realtime database & storage included.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
@@ -2781,7 +2782,7 @@
 ## mcp 
 
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [nickgnd/tmux-mcp](https://github.com/nickgnd/tmux-mcp) - A MCP server for our beloved terminal multiplexer tmux.
@@ -2990,7 +2991,7 @@
 ## nodejs 
 
 - [sebastiancarlos/beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI Tool to Automate Your Everyday Web Browser.
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [getwud/wud](https://github.com/getwud/wud) - Keep your containers up-to-date!
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop - native, fast, extensible
 - [abhixdd/UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) - A modern, cross‑platform CLI to monitor websites and APIs.
@@ -3078,7 +3079,7 @@
 
 ## openai 
 
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
 - [apocas/restai](https://github.com/apocas/restai) - RESTai is an AIaaS (AI as a Service) open-source platform. Supports many public and local LLM suported by Ollama/vLLM/etc. Precise embeddings usage, tuning, analytics etc. Built-in image/audio generat
 - [Zhengqbbb/cz-git](https://github.com/Zhengqbbb/cz-git) - cz-git | czg  🛠️ DX first and more engineered, lightweight, customizable, standard output format Commitizen adapter and CLI
@@ -4456,7 +4457,7 @@
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern alternative to ls
 - [elkowar/eww](https://github.com/elkowar/eww) - ElKowars wacky widgets
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 - [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle) - A Flash Player emulator written in Rust
 - [szabodanika/microbin](https://github.com/szabodanika/microbin) - A secure, configurable file-sharing and URL shortening web app written in Rust.
@@ -4931,7 +4932,7 @@
 - [toolleeo/awesome-cli-apps-in-a-csv](https://github.com/toolleeo/awesome-cli-apps-in-a-csv) - The largest Awesome Curated list of command line programs (CLI/TUI) with source data organized into CSV files
 - [d99kris/nchat](https://github.com/d99kris/nchat) - Terminal-based messaging client for Linux and macOS with Telegram, WhatsApp and Signal support
 - [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser.
-- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent for open models like Deepseek, Kimi, and Qwen
+- [openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter) - A lightweight coding agent, optimized for open models like GLM, Deepseek, and Kimi
 - [orhun/kmon](https://github.com/orhun/kmon) - Linux Kernel Manager and Activity Monitor 🐧💻
 - [fairyglade/ly](https://github.com/fairyglade/ly) - A lightweight TUI (ncurses-like) display manager for Linux and BSD (mirror of https://codeberg.org/fairyglade/ly).
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -4956,7 +4957,7 @@
 
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
-- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript multi-agent orchestration framework. Describe a goal, a coordinator decomposes it into a task DAG that runs on any LLM: Claude, ChatGPT, Gemini, DeepSeek, or local models.
+- [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
