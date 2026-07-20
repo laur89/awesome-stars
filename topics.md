@@ -1433,7 +1433,6 @@
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [VorpalBlade/chezmoi_modify_manager](https://github.com/VorpalBlade/chezmoi_modify_manager) - Tools for chezmoi to handle mixed settings and state
 - [sdushantha/dotfiles](https://github.com/sdushantha/dotfiles) - my dotfiles
-- [mubin-thinks/minimal-wm-config](https://github.com/mubin-thinks/minimal-wm-config) - A minimal configuration for sway & swayfx.
 - [sainnhe/dotfiles](https://github.com/sainnhe/dotfiles) - My Dotfiles (Containerized)
 - [crivotz/dot_files](https://github.com/crivotz/dot_files) - My dot_files for linux - i3, zinit, tmux, tmuxinator, urxvt and Co
 - [oryband/dotfiles](https://github.com/oryband/dotfiles) - My main working machine setup. Here be cyber dragons 🐉 and optional bugs 🐛.
@@ -3936,7 +3935,7 @@
 
 ## package-manager 
 
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - [Migration in progress] Official Soar Packages Repository
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - Official Soar Packages Repository
 - [pdm-project/pdm](https://github.com/pdm-project/pdm) - A modern Python package and dependency manager supporting the latest PEP standards
 - [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit) - 🌻 Flexible and fast ZSH plugin manager
 - [wimpysworld/deb-get](https://github.com/wimpysworld/deb-get) - apt-get for .debs published via GitHub or direct download 📦
@@ -4430,7 +4429,7 @@
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
 - [continuwuity/continuwuity](https://github.com/continuwuity/continuwuity) - [Mirror]       Continuwuity, the official community driven continuation of conduwuit & Conduit, focusing on user experience and new features.
 - [Soft/xcolor](https://github.com/Soft/xcolor) - Lightweight color picker for X11
-- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - [Migration in progress] Official Soar Packages Repository
+- [pkgforge/soarpkgs](https://github.com/pkgforge/soarpkgs) - Official Soar Packages Repository
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [kimono-koans/httm](https://github.com/kimono-koans/httm) - Interactive, file-level Time Machine-like tool for ZFS/btrfs/nilfs2 (and even Time Machine and Restic backups!)
 - [matheus-git/systemd-manager-tui](https://github.com/matheus-git/systemd-manager-tui) - A TUI application for managing systemd services.
