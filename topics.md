@@ -3132,6 +3132,7 @@
 
 ## others 
 
+- [raine/aven](https://github.com/raine/aven) - A local-first task manager for power users and agents
 - [vlad17/np-learn](https://github.com/vlad17/np-learn) - Jupyter notebook-post of advanced numpy techniques
 - [anotherdave/tplink-energy-monitor](https://github.com/anotherdave/tplink-energy-monitor) - An energy monitoring dashboard for TP-Link smart plugs
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
