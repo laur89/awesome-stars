@@ -1619,6 +1619,7 @@
 
 ## Rust 
 
+- [raine/aven](https://github.com/raine/aven) - A local-first task manager for power users and agents
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your Internet traffic 🕵️‍♂️
