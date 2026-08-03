@@ -24,6 +24,7 @@
 - [Erlang](#erlang)
 - [Fluent](#fluent)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Haml](#haml)
 - [Haskell](#haskell)
@@ -677,6 +678,10 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [opencontainers/runc](https://github.com/opencontainers/runc) - CLI tool for spawning and running containers according to the OCI specification
+
+## Go Template 
+
+- [twpayne/dotfiles](https://github.com/twpayne/dotfiles) - My dotfiles, managed with https://chezmoi.io.
 
 ## HTML 
 
