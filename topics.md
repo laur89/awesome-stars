@@ -45,6 +45,7 @@
 - [chrome-extension](#chrome-extension)
 - [claude](#claude)
 - [claude-code](#claude-code)
+- [claude-skills](#claude-skills)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -819,6 +820,10 @@
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code
 - [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Co
+
+## claude-skills 
+
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 
 ## cli 
 
@@ -3401,7 +3406,6 @@
 - [ldelossa/dotfiles](https://github.com/ldelossa/dotfiles) - 
 - [Torelli/hyprmixer](https://github.com/Torelli/hyprmixer) - A stylish volume mixer and media controller for your hyprland rice
 - [QuantConnect/quantconnect-stubs-generator](https://github.com/QuantConnect/quantconnect-stubs-generator) - Automatically generate Python type stubs for QuantConnect's Lean
-- [izawartka/gta2-trainer-cpp](https://github.com/izawartka/gta2-trainer-cpp) - Legacy version of the most powerful GTA2 trainer
 - [QuantConnect/Lean.Brokerages.InteractiveBrokers](https://github.com/QuantConnect/Lean.Brokerages.InteractiveBrokers) - InteractiveBrokers Brokerage Plugin
 - [QuantConnect/IBAutomater](https://github.com/QuantConnect/IBAutomater) - Automates IB Gateway start, stopping and restarting.
 - [evdubs/chart-simulator](https://github.com/evdubs/chart-simulator) - Trading Simulator and Charting Application
