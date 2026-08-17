@@ -532,6 +532,7 @@
 
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
+- [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 - [SuperCoolPencil/cue](https://github.com/SuperCoolPencil/cue) - A terminal client for browsing and playing Plex or Jellyfin media.
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -569,7 +570,6 @@
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [e6a5/flow](https://github.com/e6a5/flow) - flow - a command-line tool for deep work 🌊
 - [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
-- [plandex-ai/plandex](https://github.com/plandex-ai/plandex) - Open source AI coding agent. Designed for large projects and real world tasks.
 - [babarot/gomi](https://github.com/babarot/gomi) - 🗑️ Your UNIX rm command with a safety net!
 - [aquaproj/aqua](https://github.com/aquaproj/aqua) - Declarative CLI Version manager written in Go. Support Lazy Install, Registry, and continuous update with Renovate. CLI version is switched seamlessly
 - [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀
@@ -1223,6 +1223,7 @@
 
 ## Python 
 
+- [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
@@ -1790,6 +1791,10 @@
 
 ## Shell 
 
+- [nikhilsitaram/claude-caliper](https://github.com/nikhilsitaram/claude-caliper) - A Claude workflow that measures twice and cuts once
+- [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - Claude Code task management support
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
+- [DheerG/swarms](https://github.com/DheerG/swarms) - Achieve extraordinary results with claude code across a variety of tasks
 - [sainnhe/tmux-fzf](https://github.com/sainnhe/tmux-fzf) - Use fzf to manage your tmux work environment!
 - [mloskot/dotfiles](https://github.com/mloskot/dotfiles) - This is Okontu (aka Okonomi Ubuntu) with my collection of dotfiles and installers for environments on Ubuntu Linux. Inspired by https://omakub.org
 - [sunlei/zsh-ssh](https://github.com/sunlei/zsh-ssh) - Better host completion for ssh in Zsh.
@@ -1799,7 +1804,6 @@
 - [vincentbernat/network-lab](https://github.com/vincentbernat/network-lab) - Networking lab using root-less VM
 - [aduros/dotfiles](https://github.com/aduros/dotfiles) - My configuration and theme.
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
-- [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 - [samleeney/tmux-agent-status](https://github.com/samleeney/tmux-agent-status) - See at a glance which tmux sessions have Claude/Codex working vs idle
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
