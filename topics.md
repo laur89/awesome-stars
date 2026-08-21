@@ -323,7 +323,6 @@
 
 - [arjan/awesome-agent-sandboxes](https://github.com/arjan/awesome-agent-sandboxes) - A curated list of code-execution sandboxing solutions for AI/LLM agents
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [deepsense-ai/ragbits](https://github.com/deepsense-ai/ragbits) - Building blocks for rapid development of GenAI applications
 
@@ -365,7 +364,6 @@
 
 - [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
@@ -811,12 +809,12 @@
 
 ## claude-code 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [DheerG/swarms](https://github.com/DheerG/swarms) - Achieve extraordinary results with claude code across a variety of tasks
 - [FrkAk/piyaz](https://github.com/FrkAk/piyaz) - The agentic workspace where people and  agents work together in the loop.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
@@ -1259,6 +1257,7 @@
 
 ## developer-tools 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
@@ -1403,7 +1402,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [sczyh30/vertx-blueprint-microservice](https://github.com/sczyh30/vertx-blueprint-microservice) - Vert.x Blueprint Project - Micro-Shop microservice application
 - [nwtgck/http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
@@ -2817,6 +2816,7 @@
 
 ## mcp 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [FrkAk/piyaz](https://github.com/FrkAk/piyaz) - The agentic workspace where people and  agents work together in the loop.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
@@ -2857,7 +2857,7 @@
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [apache/grails-data-mapping](https://github.com/apache/grails-data-mapping) - GORM - Groovy Object Mapping
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
@@ -2901,7 +2901,7 @@
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
-- [nfrastack/container-db-backup](https://github.com/nfrastack/container-db-backup) - Backup multiple database types on a scheduled basis with many customizable options
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup multiple database types on a scheduled basis with many customizable options
 - [johndatserakis/koa-vue-notes-api](https://github.com/johndatserakis/koa-vue-notes-api) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and async/await.
 - [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store m
 - [twitter/finagle](https://github.com/twitter/finagle) - A fault tolerant, protocol-agnostic RPC system
@@ -3073,7 +3073,6 @@
 ## npm 
 
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [DanielFGray/fzf-scripts](https://github.com/DanielFGray/fzf-scripts) - a collection of scripts that rely on https://github.com/junegunn/fzf
 - [nwtgck/http-knocking](https://github.com/nwtgck/http-knocking) - 🚪HTTP-Knocking hides a Web server and open it by knocking sequence: Hide Web server until your knocks
@@ -3161,7 +3160,7 @@
 - [gsauthof/cutbynoise](https://github.com/gsauthof/cutbynoise) - cut sample enclosed noise regions out of sound files
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mgalgs/tmux-wireguard](https://github.com/mgalgs/tmux-wireguard) - WireGuard/Tailscale connection indicator for tmux status line
 - [artemave/artwall](https://github.com/artemave/artwall) - Rotate your Sway wallpaper through random paintings
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
@@ -4789,6 +4788,7 @@
 
 ## sqlite 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [andrewferrier/memy](https://github.com/andrewferrier/memy) - Track and recall frequently and recently used files or directories
 - [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
@@ -5030,7 +5030,6 @@
 ## typescript 
 
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, R
 - [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 - [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log mana
