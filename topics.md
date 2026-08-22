@@ -3150,6 +3150,7 @@
 
 ## others 
 
+- [rblank9/cross-claude-mcp](https://github.com/rblank9/cross-claude-mcp) - A message bus that lets AI assistants talk to each other. Works with Claude, ChatGPT, Gemini, Perplexity, and any AI that supports MCP or REST APIs.
 - [nikhilsitaram/claude-caliper](https://github.com/nikhilsitaram/claude-caliper) - A Claude workflow that measures twice and cuts once
 - [pcvelz/superpowers](https://github.com/pcvelz/superpowers) - An agentic skills framework & software development methodology that works - Claude Code task management support
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
