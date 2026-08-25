@@ -531,9 +531,11 @@
 
 ## Go 
 
+- [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
+- [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [fencesandbox/fence](https://github.com/fencesandbox/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions
-- [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 - [SuperCoolPencil/cue](https://github.com/SuperCoolPencil/cue) - A terminal client for browsing and playing Plex or Jellyfin media.
 - [sirrobot01/decypharr](https://github.com/sirrobot01/decypharr) - Media gateway for Debrid & Usenet.
 - [Zouuup/landrun](https://github.com/Zouuup/landrun) - Run any Linux process in a secure, unprivileged sandbox using Landlock. Think firejail, but lightweight, user-friendly, and baked into the kernel.
@@ -1017,6 +1019,7 @@
 
 ## Kotlin 
 
+- [jonnyzzz/mcp-steroid](https://github.com/jonnyzzz/mcp-steroid) - Give your AI Agent a whole IDE, not just the files
 - [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [134130/intellij-mise](https://github.com/134130/intellij-mise) - mise-en-place JetBrain's IntelliJ platform supports
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
@@ -1226,6 +1229,7 @@
 
 ## Python 
 
+- [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp) - 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
@@ -1809,6 +1813,7 @@
 - [vincentbernat/network-lab](https://github.com/vincentbernat/network-lab) - Networking lab using root-less VM
 - [aduros/dotfiles](https://github.com/aduros/dotfiles) - My configuration and theme.
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
+- [Chachamaru127/claude-code-harness](https://github.com/Chachamaru127/claude-code-harness) - Claude Code Dedicated Development Harness - Achieving High-Quality Development Through an Autonomous Plan→Work→Review Cycle
 - [samleeney/tmux-agent-status](https://github.com/samleeney/tmux-agent-status) - See at a glance which tmux sessions have Claude/Codex working vs idle
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [tianon/gosu](https://github.com/tianon/gosu) - Simple Go-based setuid+setgid+setgroups+exec
