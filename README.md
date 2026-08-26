@@ -141,6 +141,7 @@
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
@@ -531,6 +532,8 @@
 
 ## Go 
 
+- [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
+- [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
@@ -1147,7 +1150,6 @@
 - [Ciseur/ciz-pubg-killfeed-flags](https://github.com/Ciseur/ciz-pubg-killfeed-flags) - 
 - [hyprland-community/awesome-hyprland](https://github.com/hyprland-community/awesome-hyprland) - Awesome list for Hyprland [maintainer=@yavko]
 - [TheZoq2/dcs_on_linux](https://github.com/TheZoq2/dcs_on_linux) - Instructions for running DCS World on linux. Mostly extracted from https://github.com/ValveSoftware/Proton/issues/1722
-- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [Rem0o/FanControl.Releases](https://github.com/Rem0o/FanControl.Releases) - This is the release repository for Fan Control, a highly customizable fan controlling software for Windows.
 - [threedesigns/printNC](https://github.com/threedesigns/printNC) - 100% Free and Open Source, the PrintNC is the next generation of high performance, affordable CNC machines
 - [misprit7/PCB-Business-Card](https://github.com/misprit7/PCB-Business-Card) - My custom PCB business card
