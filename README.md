@@ -491,7 +491,6 @@
 - [linuxserver/docker-baseimage-alpine](https://github.com/linuxserver/docker-baseimage-alpine) - 
 - [nephatrine/docker-drone-ci](https://github.com/nephatrine/docker-drone-ci) - [mirror] Container w/ Drone & SQLite
 - [tiredofit/docker-alpine](https://github.com/tiredofit/docker-alpine) - Docker Alpine Linux Base Images
-- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [Corwind/termite-install](https://github.com/Corwind/termite-install) - A termite installation script for Ubuntu users (and other Ubuntu-based distributions)
 - [linuxserver-archive/docker-openvpn-as](https://github.com/linuxserver-archive/docker-openvpn-as) - DEPRECATED
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
@@ -557,7 +556,7 @@
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [danielkosgei/detergen](https://github.com/danielkosgei/detergen) - Deterministic password generator
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [savedra1/clipse](https://github.com/savedra1/clipse) - Configurable TUI clipboard manager for Unix
 - [reugn/gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -637,6 +636,7 @@
 - [jftuga/gofwd](https://github.com/jftuga/gofwd) - A cross-platform TCP port forwarder with Duo 2FA and Geo-IP integration
 - [micro-editor/micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 - [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [authelia/authelia](https://github.com/authelia/authelia) - The Single Sign-On Multi-Factor portal for web apps, now OpenID Certified™
 - [k3d-io/k3d](https://github.com/k3d-io/k3d) - Little helper to run CNCF's k3s in Docker
 - [goss-org/goss](https://github.com/goss-org/goss) - Quick and Easy server testing/validation
@@ -1538,7 +1538,7 @@
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [Badacadabra/Vimpressionist](https://github.com/Badacadabra/Vimpressionist) - :art: Vim on steroids for keyboard lovers
 - [mhinz/neovim-remote](https://github.com/mhinz/neovim-remote) - :ok_hand: Support for --remote and friends.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [StevenBlack/hosts](https://github.com/StevenBlack/hosts) - 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.
 - [asweigart/pyautogui](https://github.com/asweigart/pyautogui) - A cross-platform GUI automation Python module for human beings. Used to programmatically control the mouse & keyboard.
 - [matrix-org/synapse](https://github.com/matrix-org/synapse) - Synapse: Matrix homeserver written in Python/Twisted.
@@ -2086,12 +2086,12 @@
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [mjswensen/themer](https://github.com/mjswensen/themer) - 🎨 themer takes a set of colors and outputs themes for your apps (editors, terminals, wallpapers, and more).
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
 - [mbnuqw/sidebery](https://github.com/mbnuqw/sidebery) - Firefox extension for managing tabs and bookmarks in sidebar.
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [refined-github/refined-github](https://github.com/refined-github/refined-github) - :octocat: Browser extension that simplifies the GitHub interface and adds useful features
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
 - [actualbudget/actual](https://github.com/actualbudget/actual) - A local-first personal finance app
