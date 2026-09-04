@@ -334,6 +334,7 @@
 
 ## ai 
 
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ The Life Operating System — an intent engineering platform that moves you from your current state to your ideal state, in life and work.
@@ -342,7 +343,7 @@
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [tinykit-studio/tinykit](https://github.com/tinykit-studio/tinykit) - Self-hosted Lovable/v0 alternative. Realtime database & storage included.
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [zd8899/TDAD](https://github.com/zd8899/TDAD) - Visual Test-Driven AI Development for AI Agents
@@ -359,6 +360,7 @@
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform for relational databases. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [tradytics/surpriver](https://github.com/tradytics/surpriver) - Find big moving stocks before they move using machine learning and anomaly detection
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras
@@ -369,12 +371,13 @@
 
 ## ai-agents 
 
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
-- [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
-- [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
@@ -503,7 +506,7 @@
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
 - [johndatserakis/koa-vue-notes-api](https://github.com/johndatserakis/koa-vue-notes-api) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and async/await.
 - [alpacahq/example-scalping](https://github.com/alpacahq/example-scalping) - A working example algorithm for scalping strategy trading multiple stocks concurrently using python asyncio
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 
 ## archlinux 
@@ -527,7 +530,6 @@
 
 ## artificial-intelligence 
 
-- [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
 - [OpenHands/OpenHands](https://github.com/OpenHands/OpenHands) - 🙌 OpenHands: AI-Driven Development
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 - [darwinex/DarwinexLabs](https://github.com/darwinex/DarwinexLabs) - Datasets, tools and more from Darwinex Labs - Prop Investing Arm & Quant Team @ Darwinex
@@ -583,6 +585,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
+- [uhub/awesome-java](https://github.com/uhub/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 
@@ -605,6 +608,7 @@
 - [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell) - A curated list of awesome command-line frameworks, toolkits, guides and gizmos. Inspired by awesome-php.
 - [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 - [xgrommx/awesome-redux](https://github.com/xgrommx/awesome-redux) - Awesome list of Redux examples and middlewares
+- [uhub/awesome-java](https://github.com/uhub/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar_board: All things Vim!
 - [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]
 - [iluwatar/java-design-patterns](https://github.com/iluwatar/java-design-patterns) - Design patterns implemented in Java
@@ -699,7 +703,7 @@
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
 - [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## blockchain 
 
@@ -718,7 +722,7 @@
 - [jesse-ai/jesse](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python
 - [brndnmtthws/thetagang](https://github.com/brndnmtthws/thetagang) - ThetaGang is an IBKR bot for collecting money
 - [jnidzwetzki/crypto-bot](https://github.com/jnidzwetzki/crypto-bot) - This repository contains a crypto currency trading bot. The bot implements some strategies (donchian, ema, atr) and works on the Bitfinex crypto currency exchange.
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## c 
 
@@ -779,6 +783,7 @@
 
 ## chatgpt 
 
+- [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [karthink/gptel](https://github.com/karthink/gptel) - A simple, extensible LLM client for Emacs
 - [alvinunreal/tmuxai](https://github.com/alvinunreal/tmuxai) - AI-Powered, Non-Intrusive Terminal Assistant
@@ -811,12 +816,12 @@
 
 ## claude 
 
+- [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
 - [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
-- [junjslee/episteme](https://github.com/junjslee/episteme) - A bidirectional cognitive synchronization framework between you and AI agents
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
 - [aden-hive/hive](https://github.com/aden-hive/hive) - Multi-Agent Harness for Production AI
@@ -826,13 +831,16 @@
 
 ## claude-code 
 
+- [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
+- [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
-- [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [DheerG/swarms](https://github.com/DheerG/swarms) - Achieve extraordinary results with claude code across a variety of tasks
 - [FrkAk/piyaz](https://github.com/FrkAk/piyaz) - The agentic workspace where people and  agents work together in the loop.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
@@ -847,12 +855,14 @@
 
 ## claude-skills 
 
+- [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
 - [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 
 ## cli 
 
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -873,7 +883,7 @@
 - [medialab/xan](https://github.com/medialab/xan) - The CSV magician
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [abhixdd/UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) - A modern, cross‑platform CLI to monitor websites and APIs.
 - [reugn/gemini-cli](https://github.com/reugn/gemini-cli) - A command-line interface (CLI) for Google Gemini
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -1155,7 +1165,7 @@
 - [mop-tracker/mop](https://github.com/mop-tracker/mop) - Stock market tracker for hackers.
 - [anandanand84/technicalindicators](https://github.com/anandanand84/technicalindicators) - A javascript technical indicators written in typescript with pattern recognition right in the browser
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## cryptography 
 
@@ -1284,9 +1294,9 @@
 
 ## developer-tools 
 
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
-- [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
@@ -1606,7 +1616,7 @@
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
 - [ta4j/ta4j](https://github.com/ta4j/ta4j) - A Java library for technical analysis.
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 
 ## express 
 
@@ -1811,6 +1821,7 @@
 
 ## go 
 
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
@@ -1818,7 +1829,7 @@
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [mpolden/echoip](https://github.com/mpolden/echoip) - A simple IP address lookup service.
 - [discuitnet/discuit](https://github.com/discuitnet/discuit) - A free and open-source community discussion platform.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -1880,7 +1891,7 @@
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [oalders/is](https://github.com/oalders/is) - an inspector for your environment
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [spicetify/cli](https://github.com/spicetify/cli) - Command-line tool to customize Spotify client. Supports Windows, macOS, and Linux.
 - [yusing/godoxy](https://github.com/yusing/godoxy) - High-performance reverse proxy and container orchestrator for self-hosters
@@ -2034,7 +2045,6 @@
 - [TandoorRecipes/recipes](https://github.com/TandoorRecipes/recipes) - Application for managing recipes, planning meals, building shopping lists and much much more!
 - [wger-project/wger](https://github.com/wger-project/wger) - Self hosted FLOSS fitness/workout, nutrition and weight tracker
 - [black7375/Firefox-UI-Fix](https://github.com/black7375/Firefox-UI-Fix) - 🦊 I respect proton UI and aim to improve it.
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [proot-me/proot-rs](https://github.com/proot-me/proot-rs) - Rust implementation of PRoot, a ptrace-based sandbox
 - [proot-me/proot](https://github.com/proot-me/proot) - chroot, mount --bind, and binfmt_misc without privilege/setup for Linux
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -2121,6 +2131,7 @@
 
 ## haskell 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 - [kmonad/kmonad](https://github.com/kmonad/kmonad) - An advanced keyboard manager
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
@@ -2212,7 +2223,6 @@
 ## iot 
 
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
 - [processone/ejabberd](https://github.com/processone/ejabberd) - Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [vernemq/vernemq](https://github.com/vernemq/vernemq) - A distributed MQTT message broker based on Erlang/OTP. Built for high quality & Industrial use cases. The VerneMQ mission is active & the project maintained. Thank you for your support!
@@ -2265,6 +2275,7 @@
 - [tdebatty/java-string-similarity](https://github.com/tdebatty/java-string-similarity) - Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...
 - [eclipse-vertx/vert.x](https://github.com/eclipse-vertx/vert.x) - Vert.x is a tool-kit for building reactive applications on the JVM
 - [springfox/springfox](https://github.com/springfox/springfox) - Automated JSON API documentation for API's built with Spring
+- [uhub/awesome-java](https://github.com/uhub/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [aleksandr-m/gitflow-maven-plugin](https://github.com/aleksandr-m/gitflow-maven-plugin) - The Git-Flow Maven Plugin supports various Git workflows, including GitFlow and GitHub Flow. This plugin runs Git and Maven commands from the command line.
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
@@ -2382,7 +2393,7 @@
 
 ## json 
 
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML, HCL  and properties processor
@@ -2506,7 +2517,7 @@
 - [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints (e.g. mutually exclusive params), command aliases, help themes, "did you mean ...?" suggestio
 - [fwkz/riposte](https://github.com/fwkz/riposte) - Python package for wrapping applications inside a tailored interactive shell
 - [dougdellolio/coinbasepro-csharp](https://github.com/dougdellolio/coinbasepro-csharp) - The unofficial .NET/C# client library for the Coinbase Pro/GDAX API
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [apache/cordova-weinre](https://github.com/apache/cordova-weinre) - Mirror of Apache Weinre
 
@@ -2666,6 +2677,7 @@
 
 ## llm 
 
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -2689,6 +2701,7 @@
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform for relational databases. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged document management system: scan, index and archive all your documents
 - [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) - A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Co
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [pbek/QOwnNotes](https://github.com/pbek/QOwnNotes) - QOwnNotes is a plain-text file notepad and todo-list manager with Markdown support and Nextcloud / ownCloud integration.
@@ -2863,6 +2876,8 @@
 
 ## mcp 
 
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, and Google Antigravity
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
@@ -2964,6 +2979,8 @@
 
 ## neovim 
 
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
+- [mrjones2014/smart-splits.nvim](https://github.com/mrjones2014/smart-splits.nvim) - 🧠 Smart, seamless, directional navigation and resizing of Neovim + terminal multiplexer splits. Supports Zellij, Tmux, Wezterm, and Kitty. Think about splits in terms of "up/down/left/right".
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [stevearc/oil.nvim](https://github.com/stevearc/oil.nvim) - Neovim file explorer: edit your filesystem like a buffer
 - [aduros/dotfiles](https://github.com/aduros/dotfiles) - My configuration and theme.
@@ -3169,6 +3186,7 @@
 
 ## openai 
 
+- [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) - Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code
 - [open-multi-agent/open-multi-agent](https://github.com/open-multi-agent/open-multi-agent) - TypeScript AI agent orchestration framework with dynamic workflows. Describe the goal, not the graph: a coordinator plans the task DAG at runtime and runs it on any LLM (Claude, ChatGPT, Gemini, DeepS
@@ -3967,7 +3985,6 @@
 - [phensley/docker-dns](https://github.com/phensley/docker-dns) - Simple, self-contained, automatic Docker DNS
 - [JeanDaniel-Fischer/Gandi-Dynamic-Dns](https://github.com/JeanDaniel-Fischer/Gandi-Dynamic-Dns) - Script that update gandi domain zone record with current external ip address. Very useful to set up a dynamic dns from home on a domain zone managed by Gandi.
 - [brianreumere/gandi-automatic-dns](https://github.com/brianreumere/gandi-automatic-dns) - Dynamic DNS shell script for Gandi
-- [uhub/awesome-java](https://github.com/uhub/awesome-java) - A curated list of awesome Java frameworks, libraries and software.
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 - [jianli/git-playback](https://github.com/jianli/git-playback) - A git command to play back file history.
 - [retspen/webvirtmgr](https://github.com/retspen/webvirtmgr) - WebVirtMgr panel for manage virtual machine
@@ -4095,6 +4112,7 @@
 
 ## privacy 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
 - [bitfireAT/davx5-ose](https://github.com/bitfireAT/davx5-ose) - DAVx⁵ is an open-source CalDAV/CardDAV suite and sync app for Android. You can also access your online files (WebDAV) with it.
 - [openstyles/stylus](https://github.com/openstyles/stylus) - Stylus - Userstyles Manager
@@ -4184,7 +4202,6 @@
 
 ## python 
 
-- [infinri/Writ](https://github.com/infinri/Writ) - Governance runtime for Claude Code. Enforces workflow gates at tool time, delivers the engineering rules relevant to the work, and preserves decision provenance across sessions.
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
@@ -4520,6 +4537,8 @@
 
 ## rust 
 
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
+- [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - Control what your AI can see. LeanCTX (Lean Context) is the context intelligence layer for AI agents — one local Rust binary that decides what they read, remembers what they learn, guards what they to
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
@@ -4625,6 +4644,7 @@
 
 ## security 
 
+- [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
@@ -4678,6 +4698,7 @@
 
 ## self-hosted 
 
+- [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
 - [ArcReel/ArcReel](https://github.com/ArcReel/ArcReel) - AI Agent 驱动的开源可自部署视频工作台：将小说与剧本转为角色、场景、道具资产、分镜、视频和剪映草稿，支持跨镜头一致性、多供应商与费用追踪 | Self-hosted AI video workspace for stories, storyboards and short-form video production
 - [Pouzor/homelable](https://github.com/Pouzor/homelable) - Self-hosted homelab infrastructure visualizer — interactive network diagram with live status monitoring
@@ -4689,7 +4710,7 @@
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
 - [johnwarne/upvote-rss](https://github.com/johnwarne/upvote-rss) - Generate rich RSS feeds from Reddit, Hacker News, Lemmy, Mbin, and more
 - [gamosoft/NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - The most user-friendly OpenID Connect Certified™ and OAuth 2.0 provider that lets users sign in to your applications with passkeys.
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
@@ -4834,7 +4855,7 @@
 ## sql 
 
 - [eduardofuncao/squix](https://github.com/eduardofuncao/squix) - A CLI tool for managing and executing SQL queries across multiple databases. Written in Go, made beautiful with BubbleTea
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [liquidaty/zsv](https://github.com/liquidaty/zsv) - zsv+lib: tabular data swiss-army knife CLI + world's fastest (simd) CSV parser
 - [xtdb/xtdb](https://github.com/xtdb/xtdb) - An immutable SQL database for application development, time-travel reporting and data compliance. Developed by @juxt
 - [apache/flink](https://github.com/apache/flink) - Apache Flink
@@ -4907,6 +4928,7 @@
 
 ## terminal 
 
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -5034,11 +5056,12 @@
 - [tvjsx/trading-vue-js](https://github.com/tvjsx/trading-vue-js) - 💹  Hackable charting lib for traders. You can draw literally ANYTHING on top of candlestick charts. [Not Maintained]
 - [hudson-and-thames/mlfinlab](https://github.com/hudson-and-thames/mlfinlab) - MlFinLab helps portfolio managers and traders who want to leverage the power of machine learning by providing reproducible, interpretable, and easy to use tools.
 - [devalpha-io/devalpha-node](https://github.com/devalpha-io/devalpha-node) - A stream-based approach to algorithmic trading and backtesting in Node.js
-- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java
+- [ccxt/ccxt](https://github.com/ccxt/ccxt) - A unified trading API with more than 100 crypto exchanges and prediction markets in JavaScript / TypeScript / Python / C# / PHP / Go / Java / Rust
 - [QuantConnect/Lean](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#)
 
 ## tui 
 
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
@@ -5053,7 +5076,7 @@
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
 - [unhappychoice/gitlogue](https://github.com/unhappychoice/gitlogue) - A cinematic Git commit replay tool for the terminal, turning your Git history into a living, animated story.
-- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive minimalist TUI to query JSON and CSV using SQL.
+- [kiki-ki/go-qo](https://github.com/kiki-ki/go-qo) - qo is an interactive TUI to query JSON and CSV using SQL.
 - [abhixdd/UptimeKit-CLI](https://github.com/abhixdd/UptimeKit-CLI) - A modern, cross‑platform CLI to monitor websites and APIs.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -5269,7 +5292,7 @@
 ## vpn 
 
 - [angristan/wireguard-install](https://github.com/angristan/wireguard-install) - WireGuard VPN installer for Linux servers
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and tunneled reverse proxy for remote access based on WireGuard®.
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Modern networking and security platform providing secure access and connectivity to apps, infrastructure, and AI workloads. Connect and protect your users.
 - [AdrienPoupa/docker-compose-nas](https://github.com/AdrienPoupa/docker-compose-nas) - Simple Docker Compose NAS featuring Sonarr, Radarr, Prowlarr, Jellyfin, qBittorrent, PIA VPN and Traefik with SSL support
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
