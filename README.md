@@ -530,6 +530,7 @@
 ## Go 
 
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -906,7 +907,6 @@
 - [andredumas/techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [sandeepk01/vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -1518,6 +1518,7 @@
 - [alichtman/malware-techniques](https://github.com/alichtman/malware-techniques) - A collection of techniques commonly used in malware to accomplish core tasks.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [sickel/qgisstripchart](https://github.com/sickel/qgisstripchart) - Qgis plugin for making stripcharts
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [lightkurve/lightkurve](https://github.com/lightkurve/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
@@ -1634,7 +1635,6 @@
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [raine/aven](https://github.com/raine/aven) - A local-first task manager for power users and agents
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
-- [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - ⚡ Livediff: Watch file diffs live in your terminal. Minimalist Rust TUI for instant feedback loops.
 - [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Comfortably monitor your network traffic 🕵️‍♂️
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows
@@ -1803,7 +1803,6 @@
 
 ## Shell 
 
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [nikhilsitaram/claude-caliper](https://github.com/nikhilsitaram/claude-caliper) - A Claude workflow that measures twice and cuts once
