@@ -627,6 +627,7 @@
 - [distribyted/distribyted](https://github.com/distribyted/distribyted) - Torrent client with HTTP, fuse, and WebDAV interfaces. Start exploring your torrent files right away, even zip, rar, or 7zip archive contents!
 - [mvdan/sh](https://github.com/mvdan/sh) - A shell parser, formatter, and interpreter with bash and zsh support; includes shfmt
 - [openfaas/faas](https://github.com/openfaas/faas) - OpenFaaS - Serverless Functions Made Simple
+- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [bdd/runitor](https://github.com/bdd/runitor) - A command runner with healthchecks.io integration
 - [Yash-Handa/logo-ls](https://github.com/Yash-Handa/logo-ls) - Modern ls command with vscode like File Icon and Git Integrations. Written in Golang
@@ -906,7 +907,6 @@
 - [andredumas/techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [sandeepk01/vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -1519,6 +1519,7 @@
 - [alichtman/malware-techniques](https://github.com/alichtman/malware-techniques) - A collection of techniques commonly used in malware to accomplish core tasks.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [sickel/qgisstripchart](https://github.com/sickel/qgisstripchart) - Qgis plugin for making stripcharts
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [lightkurve/lightkurve](https://github.com/lightkurve/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
@@ -1960,7 +1961,6 @@
 - [bitnami/minideb](https://github.com/bitnami/minideb) - A small image based on Debian designed for use in containers
 - [jgoerzen/docker-debian-base-minimal](https://github.com/jgoerzen/docker-debian-base-minimal) - [read-only mirror] More complete Debian environment for Docker, minimal image
 - [labbots/bash-utility](https://github.com/labbots/bash-utility) - Bash library which provides utility functions and helpers for functional programming in Bash.
-- [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [MrJBuck/Pi-otg](https://github.com/MrJBuck/Pi-otg) - 
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [mviereck/x11docker](https://github.com/mviereck/x11docker) - Run GUI applications and desktops in docker and podman containers. Focus on security.
