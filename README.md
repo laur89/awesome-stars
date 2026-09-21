@@ -320,7 +320,7 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [GuLinux/ScreenRotator](https://github.com/GuLinux/ScreenRotator) - Automatic screen rotation daemon for X11
@@ -1503,7 +1503,7 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [andrey-pohilko/registry-cli](https://github.com/andrey-pohilko/registry-cli) - Scripts for easy manipulation of docker-registry from command line (and from scripts)
 - [dschep/ntfy](https://github.com/dschep/ntfy) - 🖥️📱🔔 A utility for sending notifications, on demand and when commands finish.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [Guilhem23/Jackett_Indexerr](https://github.com/Guilhem23/Jackett_Indexerr) - Simple Python script to create and update indexers from Jackett to Radarr, Sonarr and Lidarr
 - [georgewhewell/undervolt](https://github.com/georgewhewell/undervolt) - Undervolt Intel CPUs under Linux
 - [amanusk/s-tui](https://github.com/amanusk/s-tui) - Terminal-based CPU stress and monitoring utility
@@ -1718,6 +1718,7 @@
 - [tarkah/lazystream](https://github.com/tarkah/lazystream) - Easily get LazyMan stream links, output directly or to m3u / xmltv formats. Streams can also be recorded or casted.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
+- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
 - [martinpetrdev/Clippy](https://github.com/martinpetrdev/Clippy) - Linux CLI tool for managing and working with the clipboard
 - [nullstalgia/iron-heart](https://github.com/nullstalgia/iron-heart) - A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more!
@@ -2116,7 +2117,6 @@
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
-- [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [gty3/dom-replay](https://github.com/gty3/dom-replay) - 
