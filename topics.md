@@ -1104,7 +1104,7 @@
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
-- [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
@@ -2481,7 +2481,7 @@
 
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
-- [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 
 ## laravel 
 
@@ -2917,7 +2917,7 @@
 
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [apache/grails-data-mapping](https://github.com/apache/grails-data-mapping) - GORM - Groovy Object Mapping
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
@@ -2960,7 +2960,7 @@
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform for relational databases. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [tiredofit/docker-freepbx](https://github.com/tiredofit/docker-freepbx) - Dockerized FreePBX 15 w/Asterisk 17, Seperate MySQL Database support, and Data Persistence and UCP
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [nfrastack/db-backup](https://github.com/nfrastack/db-backup) - Backup and restore your databases to multiple storage backends
 - [johndatserakis/koa-vue-notes-api](https://github.com/johndatserakis/koa-vue-notes-api) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and async/await.
 - [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store m
@@ -4090,7 +4090,7 @@
 - [9tigerio/db2rest](https://github.com/9tigerio/db2rest) - Instant no code DATA API platform for relational databases. Connect any database, run anywhere. Power your GENAI application function/tools calls in seconds.
 - [makeplane/plane](https://github.com/makeplane/plane) - 🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.
 - [flyway/flyway](https://github.com/flyway/flyway) - Flyway by Redgate • Database Migrations Made Easy.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 - [jOOQ/jOOQ](https://github.com/jOOQ/jOOQ) - jOOQ is the best way to write SQL in Java
 
@@ -4169,7 +4169,7 @@
 - [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [emillaine/cx](https://github.com/emillaine/cx) - C* is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
 
 ## project-management 
 
@@ -4292,7 +4292,7 @@
 - [visgl/deck.gl](https://github.com/visgl/deck.gl) - WebGL2 powered visualization framework
 - [jupyter-vim/jupyter-vim](https://github.com/jupyter-vim/jupyter-vim) - Make Vim talk to Jupyter kernels
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [JulianNorton/weather-milliseconds](https://github.com/JulianNorton/weather-milliseconds) - Experiment to render a forecast as fast as possible
 - [fastapi/fastapi](https://github.com/fastapi/fastapi) - FastAPI framework, high performance, easy to learn, fast to code, ready for production
 - [DMTSource/daily-stock-forecast](https://github.com/DMTSource/daily-stock-forecast) - Daily Stock Forecasts using Machine Learning & Python
@@ -4869,7 +4869,7 @@
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [andrewferrier/memy](https://github.com/andrewferrier/memy) - Track and recall frequently and recently used files or directories
-- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Simple, configuration-driven backup software for servers and workstations
+- [borgmatic-collective/borgmatic](https://github.com/borgmatic-collective/borgmatic) - Mirror of borgmatic: Simple, configuration-driven backup software for servers and workstations
 - [saulpw/visidata](https://github.com/saulpw/visidata) - A terminal spreadsheet multitool for discovering and arranging data
 
 ## stable-diffusion 
