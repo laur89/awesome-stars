@@ -1104,7 +1104,7 @@
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
-- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
@@ -1722,9 +1722,11 @@
 ## game-development 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 
 ## game-engine 
 
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 ## gamedev 
@@ -2481,7 +2483,7 @@
 
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
-- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 
 ## laravel 
 
@@ -4169,7 +4171,7 @@
 - [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 
 ## project-management 
 
