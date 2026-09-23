@@ -320,7 +320,7 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [emillaine/cx](https://github.com/emillaine/cx) - cx is a hybrid low-level/high-level systems programming language focused on performance and productivity.
+- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [GuLinux/ScreenRotator](https://github.com/GuLinux/ScreenRotator) - Automatic screen rotation daemon for X11
