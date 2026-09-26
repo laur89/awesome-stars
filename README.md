@@ -529,7 +529,7 @@
 ## Go 
 
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox) - agent-sandbox enables easy management of isolated, stateful, singleton workloads, ideal for use cases like AI agent runtimes  and reinforcement learning (RL).
 - [0xERR0R/blocky](https://github.com/0xERR0R/blocky) - Fast and lightweight DNS proxy as ad-blocker for local network with many features
@@ -1243,9 +1243,9 @@
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [gsauthof/cutbynoise](https://github.com/gsauthof/cutbynoise) - cut sample enclosed noise regions out of sound files
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
-- [artemave/artwall](https://github.com/artemave/artwall) - Rotate your Sway wallpaper through random paintings
+- [artemave/artwall](https://github.com/artemave/artwall) - Rotate your KDE or Sway wallpaper through random paintings
 - [rodlaf/KalshiMarketMaker](https://github.com/rodlaf/KalshiMarketMaker) - Deploy simple market making strategies on Kalshi
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [zai-org/GLM-OCR](https://github.com/zai-org/GLM-OCR) - GLM-OCR: Accurate ×  Fast × Comprehensive
 - [andreafrancia/trash-cli](https://github.com/andreafrancia/trash-cli) - Command line interface to the freedesktop.org trashcan.
@@ -1633,7 +1633,7 @@
 
 - [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Intelligence for AI systems.
-- [digitaltrails/ddcutil-daemons](https://github.com/digitaltrails/ddcutil-daemons) - ddcutil daemons for control of DDC Monitors/VDUs
+- [digitaltrails/ddc-ci-daemons](https://github.com/digitaltrails/ddc-ci-daemons) - ddc-ci daemons for displays/monitors/VDUs
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
 - [raine/aven](https://github.com/raine/aven) - A local-first task manager for power users and agents
