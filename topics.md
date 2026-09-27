@@ -341,7 +341,7 @@
 - [danielmiessler/LifeOS](https://github.com/danielmiessler/LifeOS) - ⛰️ LifeOS — The universal AI Harness designed to move you from Current to Ideal state in both life and work.
 - [event-catalog/eventcatalog](https://github.com/event-catalog/eventcatalog) - Documentation tool built for software architecture. Document your domains, services, events and schemas — for your teams and your AI agents.
 - [supabase/supabase](https://github.com/supabase/supabase) - The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
@@ -381,7 +381,7 @@
 - [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
 - [angelnicolasc/graymatter](https://github.com/angelnicolasc/graymatter) - 30 sec to give your AI agents persistent memory. Reduce 90% token consumption while also maintaining quality.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Intelligence for AI systems.
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -826,7 +826,7 @@
 ## claude 
 
 - [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - The most RAM efficient harness
@@ -846,7 +846,7 @@
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Intelligence for AI systems.
 - [open-gsd/gsd-core](https://github.com/open-gsd/gsd-core) - Git. Ship. Done - Core
 - [pchalasani/claude-code-tools](https://github.com/pchalasani/claude-code-tools) - Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents.
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [cobusgreyling/loop-engineering](https://github.com/cobusgreyling/loop-engineering) - Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, 
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
@@ -866,7 +866,7 @@
 ## claude-skills 
 
 - [aerovato/magic-compact](https://github.com/aerovato/magic-compact) - Lossless context compression plugin for Claude Code & OpenCode.
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 
@@ -1328,13 +1328,13 @@
 ## development 
 
 - [gefyrahq/gefyra](https://github.com/gefyrahq/gefyra) - Blazingly-fast :rocket:, rock-solid, local application development :arrow_right: with Kubernetes.
-- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
+- [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with SDD or any other process!
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [liquidz/vim-iced](https://github.com/liquidz/vim-iced) - Clojure Interactive Development Environment for Vim8/Neovim
 
 ## devops 
 
-- [boshu2/agentops](https://github.com/boshu2/agentops) - The operations layer for agentic engineering — portable skills and contracts connecting intent, agents, software factories, and independent judgment.
+- [boshu2/agentops](https://github.com/boshu2/agentops) - DevOps discipline for AI coding agents: shape the work, track it as a graph, and get each change judged by a context that didn't write it.
 - [ossillate-inc/packj](https://github.com/ossillate-inc/packj) - Packj stops :zap: Solarwinds-, ESLint-, and PyTorch-like attacks by flagging malicious/vulnerable open-source dependencies ("weak links") in your software supply-chain
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
@@ -3225,7 +3225,7 @@
 ## others 
 
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
-- [digitaltrails/ddcutil-daemons](https://github.com/digitaltrails/ddcutil-daemons) - ddcutil daemons for control of DDC Monitors/VDUs
+- [digitaltrails/ddc-ci-daemons](https://github.com/digitaltrails/ddc-ci-daemons) - ddc-ci daemons for displays/monitors/VDUs
 - [ast-grep/ast-grep-mcp](https://github.com/ast-grep/ast-grep-mcp) - 
 - [rblank9/cross-claude-mcp](https://github.com/rblank9/cross-claude-mcp) - A message bus that lets AI assistants talk to each other. Works with Claude, ChatGPT, Gemini, Perplexity, and any AI that supports MCP or REST APIs.
 - [nikhilsitaram/claude-caliper](https://github.com/nikhilsitaram/claude-caliper) - A Claude workflow that measures twice and cuts once
@@ -3240,7 +3240,7 @@
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [mgalgs/tmux-wireguard](https://github.com/mgalgs/tmux-wireguard) - WireGuard/Tailscale connection indicator for tmux status line
-- [artemave/artwall](https://github.com/artemave/artwall) - Rotate your Sway wallpaper through random paintings
+- [artemave/artwall](https://github.com/artemave/artwall) - Rotate your KDE or Sway wallpaper through random paintings
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [wis/mpvSockets](https://github.com/wis/mpvSockets) - creates one IPC socket per mpv instance
