@@ -723,7 +723,7 @@
 
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [johndatserakis/koa-vue-notes-web](https://github.com/johndatserakis/koa-vue-notes-web) - 🤓 This is a simple SPA built using Koa as the backend, Vue as the first frontend, and React as the second frontend. Features MySQL integration, user authentication, CRUD note actions, and Vuex store m
 
 ## bot 
@@ -2752,7 +2752,7 @@
 - [memvid/memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [AmpyFin/ampyfin](https://github.com/AmpyFin/ampyfin) - End-to-end ensemble trading framework that trains, backtests, and promotes validated strategies to live execution.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
 - [ahmedengu/feature_importance](https://github.com/ahmedengu/feature_importance) - Adaptive Machine Learning-Based Stock Prediction using Financial Time Series Technical Indicators
@@ -4254,7 +4254,7 @@
 - [huggingface/transformers](https://github.com/huggingface/transformers) - 🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
 - [AmpyFin/ampyfin](https://github.com/AmpyFin/ampyfin) - End-to-end ensemble trading framework that trains, backtests, and promotes validated strategies to live execution.
 - [janluke/cloup](https://github.com/janluke/cloup) - Library to build command line interfaces based on Click. It extends click with: option groups, constraints on parameters, command aliases, help themes, and more.
@@ -4645,7 +4645,7 @@
 ## scikit-learn 
 
 - [pycaret/pycaret](https://github.com/pycaret/pycaret) - Open-source, low-code AutoML platform for Python. PyCaret 4.0: sklearn-native engine + React control plane.
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [nidhaloff/igel](https://github.com/nidhaloff/igel) - a delightful machine learning tool that allows you to train, test, and use models without writing code
 
 ## security 
@@ -4889,7 +4889,7 @@
 
 ## statistics 
 
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [uncomplicate/bayadera](https://github.com/uncomplicate/bayadera) - High-performance Bayesian Data Analysis on the GPU in Clojure
 - [tradytics/eiten](https://github.com/tradytics/eiten) - Statistical and Algorithmic Investing Strategies for Everyone
 - [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
