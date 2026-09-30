@@ -320,7 +320,7 @@
 - [WayfireWM/wayfire](https://github.com/WayfireWM/wayfire) - A modular and extensible wayland compositor
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [ethereum-mining/ethminer](https://github.com/ethereum-mining/ethminer) - Ethereum miner with OpenCL, CUDA and stratum support
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 - [apache/incubator-weex](https://github.com/apache/incubator-weex) - Apache Weex (Incubating)
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [GuLinux/ScreenRotator](https://github.com/GuLinux/ScreenRotator) - Automatic screen rotation daemon for X11
@@ -1361,7 +1361,7 @@
 - [zakkarry/retraktarr](https://github.com/zakkarry/retraktarr) - retraktarr is a "reverse" Trakt.tv list implementation for Radarr/Sonarr that creates Trakt lists for your movies/series
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Morritse/SentimenTA](https://github.com/Morritse/SentimenTA) - 
-- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - tsbootstrap: generate bootstrapped time series samples in Python
+- [astrogilda/tsbootstrap](https://github.com/astrogilda/tsbootstrap) - Fast, dependence-aware resampling and uncertainty for time series and ragged panels.
 - [highfestiva/finplot](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python
 - [jupyterhub/repo2docker](https://github.com/jupyterhub/repo2docker) - Turn repositories into Jupyter-enabled Docker images
 - [jupyter/docker-stacks](https://github.com/jupyter/docker-stacks) - Ready-to-run Docker images containing Jupyter applications
