@@ -294,6 +294,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -1111,7 +1112,7 @@
 - [alpa-projects/alpa](https://github.com/alpa-projects/alpa) - Training and serving large-scale neural networks with auto parallelization.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 - [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - React-based framework with performance, scalability, and security built in.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
@@ -1731,16 +1732,17 @@
 ## game-development 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 
 ## game-engine 
 
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 - [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA) - Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
 
 ## gamedev 
 
 - [emilk/egui](https://github.com/emilk/egui) - egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 
 ## games 
 
@@ -2493,7 +2495,7 @@
 
 - [pharo-project/pharo](https://github.com/pharo-project/pharo) - Pharo is a dynamic reflective pure object-oriented language supporting live programming inspired by Smalltalk.
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 
 ## laravel 
 
@@ -4180,7 +4182,7 @@
 - [clojerl/clojerl](https://github.com/clojerl/clojerl) - Clojure for the Erlang VM (unofficial)
 - [jank-lang/jank](https://github.com/jank-lang/jank) - jank is the native Clojure dialect with seamless C++ interop.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [cx-language/cx](https://github.com/cx-language/cx) - cx is a C-family systems programming language for game development and high-performance software: data-oriented, productive, no GC, compiles to native code via LLVM/C.
+- [cx-language/cx](https://github.com/cx-language/cx) - a fast systems programming language for high-performance software and gamedev: data-oriented, multi-paradigm, null-safe, safety checks, C-like syntax, C interop, native code/JIT via LLVM, C backend
 
 ## project-management 
 
@@ -5431,6 +5433,13 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## windows-11 
+
+- [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## workflow 
 
