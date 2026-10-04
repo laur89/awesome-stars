@@ -294,6 +294,7 @@
 - [webapp](#webapp)
 - [webpack](#webpack)
 - [windows](#windows)
+- [windows-11](#windows-11)
 - [workflow](#workflow)
 - [xcode](#xcode)
 - [xml](#xml)
@@ -2597,7 +2598,6 @@
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
 - [martinpetrdev/Clippy](https://github.com/martinpetrdev/Clippy) - Linux CLI tool for managing and working with the clipboard
-- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
 - [SpotX-Official/SpotX-Bash](https://github.com/SpotX-Official/SpotX-Bash) - SpotX Mac and Linux adblocker for the Spotify desktop client, in Bash
 - [Nuzair46/BlockTheSpot-Linux](https://github.com/Nuzair46/BlockTheSpot-Linux) - Spotify Ad blocker based on SpotX for Linux
 - [abba23/spotify-adblock](https://github.com/abba23/spotify-adblock) - Adblocker for Spotify
@@ -3015,7 +3015,7 @@
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
 - [nvim-neorg/neorg](https://github.com/nvim-neorg/neorg) - Modernity meets insane extensibility. The future of organizing your life in Neovim.
 - [pysan3/Norg-Tutorial](https://github.com/pysan3/Norg-Tutorial) - Norg tutorial with kickstart configuration.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [namishh/kodo](https://github.com/namishh/kodo) - a blazingly bad neovim config
 - [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 - [BoManev/.dotfiles](https://github.com/BoManev/.dotfiles) - my rusty dots...
@@ -4543,7 +4543,7 @@
 ## ruby 
 
 - [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
-- [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
+- [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client
 - [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [weechat/scripts](https://github.com/weechat/scripts) - Official scripts for WeeChat.
@@ -5090,7 +5090,7 @@
 - [bugzmanov/bookokrat](https://github.com/bugzmanov/bookokrat) - A terminal EPUB / PDF Book Reader (+djvu)
 - [tanciaku/tmmpr](https://github.com/tanciaku/tmmpr) - terminal mind mapper
 - [sectore/timr-tui](https://github.com/sectore/timr-tui) - TUI to organize your time: Pomodoro, Tabata, Countdown, Timer, Event.
-- [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client (mailing list: supmua@googlegroups.com)
+- [sup-heliotrope/sup](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [jsubroto/flow](https://github.com/jsubroto/flow) - A keyboard-first Kanban board for your terminal workflows
 - [kavehtehrani/cloudflare-speed-cli](https://github.com/kavehtehrani/cloudflare-speed-cli) - CLI for internet speed test via cloudflare
@@ -5227,7 +5227,7 @@
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [3ximus/dotfiles](https://github.com/3ximus/dotfiles) - All my dotfiles
 - [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven.
-- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.11.0+.
+- [nvim-orgmode/orgmode](https://github.com/nvim-orgmode/orgmode) - Orgmode clone written in Lua for Neovim 0.12.0+.
 - [fanglingsu/vimb](https://github.com/fanglingsu/vimb) - Vimb - the vim like browser is a webkit based web browser that behaves like the vimperator plugin for the firefox and usage paradigms from the great editor vim. The goal of vimb is to build a complete
 - [petoncle/mousemaster](https://github.com/petoncle/mousemaster) - Mouseless mouse control and advanced keyboard customization for Windows and macOS.
 - [namishh/kodo](https://github.com/namishh/kodo) - a blazingly bad neovim config
@@ -5444,6 +5444,13 @@
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [nylas/nylas-mail](https://github.com/nylas/nylas-mail) - :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
 - [karlstav/cava](https://github.com/karlstav/cava) - Cross-platform Audio Visualizer
+
+## windows-11 
+
+- [amnweb/yasb](https://github.com/amnweb/yasb) - A highly configurable Windows status bar written in Python.
+- [cafali/SnapKey](https://github.com/cafali/SnapKey) - SnapKey provides a user-friendly Razer Snap Tap/Wooting SOCD alternative, making it accessible across all keyboards!
+- [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
+- [microsoft/PowerToys](https://github.com/microsoft/PowerToys) - Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows
 
 ## workflow 
 
