@@ -440,7 +440,7 @@
 
 ## android 
 
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [wormhole-app/wormhole](https://github.com/wormhole-app/wormhole) - With Wormhole, you can easily and securely share files of any size, with anyone, anywhere.
@@ -2442,7 +2442,7 @@
 
 ## kotlin 
 
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [anilbeesetti/nextplayer](https://github.com/anilbeesetti/nextplayer) - An Android native video player
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
@@ -3175,7 +3175,7 @@
 
 ## open-source 
 
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
 - [topydo/topydo](https://github.com/topydo/topydo) - A powerful todo list application for the console, using the todo.txt format.
 - [sassanix/Warracker](https://github.com/sassanix/Warracker) - 🛡️ Warracker is an open source, self-hostable warranty tracker to monitor expirations, store receipts, files. You own the data, your rules!
@@ -3916,7 +3916,7 @@
 - [evancz/elm-architecture-tutorial](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [eclipse-paho/paho.mqtt-sn.embedded-c](https://github.com/eclipse-paho/paho.mqtt-sn.embedded-c) - Paho C MQTT-SN gateway and libraries for embedded systems.  Paho is an Eclipse IoT project.
-- [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, GraphComparator, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8-24.
+- [jdereg/java-util](https://github.com/jdereg/java-util) - Java utilities: DeepEquals, Converter, LRUCache, CompactMap/Set, CaseInsensitiveMap, UniqueIdGenerator, FastReader/Writer, and more. Zero dependencies, JDK 8+
 - [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
 - [troytse/wsl-autostart](https://github.com/troytse/wsl-autostart) - Support for starting the Linux services in Windows Subsystem for Linux (WSL) on Windows startup
@@ -5469,7 +5469,7 @@
 
 ## youtube 
 
-- [A-EDev/Flow](https://github.com/A-EDev/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
+- [Flow-Tube/Flow](https://github.com/Flow-Tube/Flow) - A modern, feature-rich YouTube and YouTube  Music client with local recommendation for Android built with Jetpack Compose
 - [FreeTubeApp/FreeTube](https://github.com/FreeTubeApp/FreeTube) - An Open Source YouTube app for privacy
 - [vfsfitvnm/ViMusic](https://github.com/vfsfitvnm/ViMusic) - An Android application for streaming music from YouTube Music
 - [libre-tube/LibreTube](https://github.com/libre-tube/LibreTube) - An alternative frontend for YouTube, for Android.
