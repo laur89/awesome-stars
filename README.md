@@ -14,6 +14,7 @@
 - [CSS](#css)
 - [Clojure](#clojure)
 - [Common Lisp](#common-lisp)
+- [Crystal](#crystal)
 - [D2](#d2)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
@@ -50,7 +51,6 @@
 - [Python](#python)
 - [QML](#qml)
 - [Racket](#racket)
-- [ReScript](#rescript)
 - [Reason](#reason)
 - [Riot](#riot)
 - [Roff](#roff)
@@ -90,7 +90,7 @@
 
 ## C 
 
-- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 162 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [Tomas-M/linux-live](https://github.com/Tomas-M/linux-live) - Linux Live Kit
 - [mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
 - [qvr/nonraid](https://github.com/qvr/nonraid) - NonRAID - unRAID storage array kernel driver fork
@@ -124,6 +124,7 @@
 - [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects
 - [infused-kim/kb_zmk_ps2_mouse_trackpoint_driver](https://github.com/infused-kim/kb_zmk_ps2_mouse_trackpoint_driver) - A PS/2 mouse & trackpoint driver module for keyboards running the zmk firmware
 - [22ispencer/miryoku_kanata](https://github.com/22ispencer/miryoku_kanata) - Miryoku is an ergonomic, minimal, orthogonal, and universal keyboard layout. Miryoku KMonad is the Miryoku implementation for KMonad.
+- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [CapnBry/HeaterMeter](https://github.com/CapnBry/HeaterMeter) - HeaterMeter and LinkMeter Arduino BBQ Controller
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [mevdschee/2048.c](https://github.com/mevdschee/2048.c) - Console version of the game "2048" for GNU/Linux
@@ -142,6 +143,7 @@
 - [Hummer12007/brightnessctl](https://github.com/Hummer12007/brightnessctl) - A program to read and control device brightness
 - [rvaiya/keyd](https://github.com/rvaiya/keyd) - A key remapping daemon for linux.
 - [google/xsecurelock](https://github.com/google/xsecurelock) - X11 screen lock utility with security in mind
+- [Dr-TSNG/ZygiskNext](https://github.com/Dr-TSNG/ZygiskNext) - Standalone implementation of Zygisk
 - [milgra/vmp](https://github.com/milgra/vmp) - Visual music player
 - [GEIGEIGEIST/TOTEM](https://github.com/GEIGEIGEIST/TOTEM) - TOTEM is a 38 keys column-staggered split keyboard. It meant to be used with a SEEED XIAO BLE or RP2040
 - [swaywm/swaylock](https://github.com/swaywm/swaylock) - Screen locker for Wayland
@@ -233,6 +235,7 @@
 
 ## C# # 
 
+- [ByteAether/Ulid](https://github.com/ByteAether/Ulid) - A .NET C# library for generating and working with Universally Unique Lexicographically Sortable Identifiers (ULIDs), designed to be globally unique, sortable, human-readable, and AoT compatible, makin
 - [pennydreadful/bookshelf](https://github.com/pennydreadful/bookshelf) - A place for your books.
 - [ell1010/wincompose](https://github.com/ell1010/wincompose) - 🔣 Compose Key for Windows
 - [dalyIsaac/Whim](https://github.com/dalyIsaac/Whim) - Pluggable dynamic window manager for Windows🏗️🪟
@@ -472,6 +475,10 @@
 
 - [atlas-engineer/nyxt](https://github.com/atlas-engineer/nyxt) - Nyxt - the hacker's browser.
 
+## Crystal 
+
+- [Morantron/tmux-fingers](https://github.com/Morantron/tmux-fingers) - copy pasting in terminal with vimium/vimperator like hints.
+
 ## D2 
 
 - [marcin-mazurek/today-i-learned](https://github.com/marcin-mazurek/today-i-learned) - :book: Software engineer's diary
@@ -546,7 +553,7 @@
 - [root-gg/plik](https://github.com/root-gg/plik) - Plik is a temporary file upload system (Wetransfer like) in Go.
 - [adnanh/webhook](https://github.com/adnanh/webhook) - webhook is a lightweight incoming webhook server to run shell commands
 - [lxc/incus](https://github.com/lxc/incus) - Powerful system container and virtual machine manager
-- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 34M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
+- [Basekick-Labs/arc](https://github.com/Basekick-Labs/arc) - Open, SQL-native time-series database for telemetry you need to keep. 38M+ records/sec ingestion, 8M+ rows/sec queries. InfluxDB Line Protocol and Telegraf compatible. Open Parquet on your storage. Si
 - [purpleidea/mgmt](https://github.com/purpleidea/mgmt) - Next generation distributed, event-driven, parallel config management!
 - [oalders/is](https://github.com/oalders/is) - an inspector for your environment
 - [lxc/incus-os](https://github.com/lxc/incus-os) - Immutable Linux OS to run Incus
@@ -910,7 +917,6 @@
 - [andredumas/techan.js](https://github.com/andredumas/techan.js) - A visual, technical analysis and charting (Candlestick, OHLC, indicators) library built on D3.
 - [quasarframework/quasar](https://github.com/quasarframework/quasar) - Quasar Framework - Build high-performance VueJS user interfaces in record time
 - [h2non/toxy](https://github.com/h2non/toxy) - Hackable HTTP proxy for resiliency testing and simulated network conditions
-- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [plotly/plotly.js](https://github.com/plotly/plotly.js) - Open-source JavaScript charting library behind Plotly and Dash
 - [sandeepk01/vue-event-handler](https://github.com/sandeepk01/vue-event-handler) - Event handling plugin for VueJS
 - [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
@@ -1013,7 +1019,7 @@
 - [jpmorganchase/python-training](https://github.com/jpmorganchase/python-training) - Python training for business analysts and traders
 - [quantium-ai/research](https://github.com/quantium-ai/research) - Research experiments exploring uncommon quant techniques.
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
-- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 70B inference with single 4GB GPU
+- [lyogavin/airllm](https://github.com/lyogavin/airllm) - AirLLM 2.8T LLM inference with single 4GB GPU
 - [amueller/introduction_to_ml_with_python](https://github.com/amueller/introduction_to_ml_with_python) - Notebooks and code for the book "Introduction to Machine Learning with Python"
 - [yuyasugano/finance_python](https://github.com/yuyasugano/finance_python) - Elementary Jupyter Notebook Samples for Finance
 - [ivebotunac/PrimoGPT](https://github.com/ivebotunac/PrimoGPT) - PrimoGPT: Finance Reinforcement Learning and Natural Language Processing
@@ -1036,7 +1042,6 @@
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [rumboalla/apkupdater](https://github.com/rumboalla/apkupdater) - APKUpdater is an open source tool that simplifies the process of finding updates for your installed apps.
 - [Aliucord/Aliucord](https://github.com/Aliucord/Aliucord) - A mod for the Discord Android App
-- [KernelSU-Next/KernelSU-Next](https://github.com/KernelSU-Next/KernelSU-Next) - An advanced Kernel based root solution for Android
 - [izivkov/GShockAPI](https://github.com/izivkov/GShockAPI) - 
 - [florisboard/florisboard](https://github.com/florisboard/florisboard) - An open-source keyboard for Android which respects your privacy. Currently in beta.
 - [NeoApplications/Neo-Store](https://github.com/NeoApplications/Neo-Store) - An F-Droid client with modern UI and an arsenal of extra features.
@@ -1122,6 +1127,7 @@
 ## OCaml 
 
 - [stategraph/stategraph](https://github.com/stategraph/stategraph) - Terraform without the state file bottleneck
+- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 
 ## OpenSCAD 
@@ -1524,6 +1530,7 @@
 - [alichtman/malware-techniques](https://github.com/alichtman/malware-techniques) - A collection of techniques commonly used in malware to accomplish core tasks.
 - [alichtman/stronghold](https://github.com/alichtman/stronghold) - Easily configure macOS security settings from the terminal.
 - [sickel/qgisstripchart](https://github.com/sickel/qgisstripchart) - Qgis plugin for making stripcharts
+- [cockpit-project/cockpit](https://github.com/cockpit-project/cockpit) - Cockpit is a web-based graphical interface for servers.
 - [the-moonwitch/Cozette](https://github.com/the-moonwitch/Cozette) - A bitmap programming font optimized for coziness 💜
 - [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 - [lightkurve/lightkurve](https://github.com/lightkurve/lightkurve) - A friendly package for Kepler & TESS time series analysis in Python.
@@ -1600,10 +1607,6 @@
 - [evdubs/renegade-way](https://github.com/evdubs/renegade-way) - Option Trading Application
 - [soegaard/urlang](https://github.com/soegaard/urlang) - Urlang is JavaScript with a sane syntax
 
-## ReScript 
-
-- [rescript-lang/rescript](https://github.com/rescript-lang/rescript) - ReScript is a robustly typed language that compiles to efficient and human-readable JavaScript.
-
 ## Reason 
 
 - [onivim/oni2](https://github.com/onivim/oni2) - Native, lightweight modal code editor
@@ -1638,11 +1641,11 @@
 
 ## Rust 
 
-- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: real shells, a managed Neovim editor, AI agents, Markdown notes & drawings, and multiplayer — one Rust engine.
+- [parkers0405/neoism](https://github.com/parkers0405/neoism) - A GPU-rendered, terminal-first workspace: Agent framework, real shells, IDE, Markdown, and multiplayer — one Rust engine.
 - [yvgude/lean-ctx](https://github.com/yvgude/lean-ctx) - LeanCTX — Context Gateway for AI Systems. Control what your AI can see. Open-source Engine for context selection, supported controls, and evidence.
 - [digitaltrails/ddc-ci-daemons](https://github.com/digitaltrails/ddc-ci-daemons) - ddc-ci daemons for displays/monitors/VDUs
 - [michel-kraemer/zsh-patina](https://github.com/michel-kraemer/zsh-patina) - $ A blazingly fast Zsh syntax highlighter 🌈
-- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust
+- [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in Rust, built for heavy multi-agent dev workflows
 - [raine/aven](https://github.com/raine/aven) - A local-first task manager for power users and agents
 - [DanielCardonaRojas/codemark](https://github.com/DanielCardonaRojas/codemark) - A semantic code bookmarking system for humans and agents
 - [SoCkEt7/Livediff](https://github.com/SoCkEt7/Livediff) - 👁️ Real-time file monitoring with beautiful live diff visualization in the terminal. Built in Rust 🦀
@@ -2122,7 +2125,7 @@
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
 - [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
-- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - CoCalc: Collaborative Calculation in the Cloud
+- [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - (moved to https://github.com/sagemathinc/cocalc-ai) CoCalc: Collaborative Calculation in the Cloud
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
 - [austin-starks/Promptimizer](https://github.com/austin-starks/Promptimizer) - An Automated AI-Powered Prompt Optimization Framework
