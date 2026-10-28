@@ -757,7 +757,7 @@
 - [QuantConnect/IBAutomater](https://github.com/QuantConnect/IBAutomater) - Automates IB Gateway start, stopping and restarting.
 - [Team-xManager/xManager](https://github.com/Team-xManager/xManager) - Ad-Free, New Features & Freedom
 - [termux/termux-tasker](https://github.com/termux/termux-tasker) - Termux add-on app for integration with Tasker.
-- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes & ToDo (for Android) - Markdown, todo.txt, plaintext, math, ..
+- [gsantner/markor](https://github.com/gsantner/markor) - Text editor - Notes, ToDo & Filemanager (for Android) - Markdown, todo.txt, plaintext, math, ..
 - [streamthoughts/jikkou](https://github.com/streamthoughts/jikkou) - The Open source Resource as Code framework for Apache Kafka. Jikkou helps you implement GitOps for Kafka at scale!
 - [M66B/NetGuard](https://github.com/M66B/NetGuard) - A simple way to block access to the internet per app
 - [Evolution-X-AOSP/packages_apps_Settings](https://github.com/Evolution-X-AOSP/packages_apps_Settings) - 
@@ -1118,7 +1118,6 @@
 
 ## Nix 
 
-- [jmarcelomb/.dotfiles](https://github.com/jmarcelomb/.dotfiles) - .dotfiles repository for personal use.
 - [max-baz/dotfiles](https://github.com/max-baz/dotfiles) - Configuration for NixOS, sway, kitty, helix, zsh and more
 - [Misterio77/nix-starter-configs](https://github.com/Misterio77/nix-starter-configs) - Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!
 - [ibizaman/deluge-plugindev](https://github.com/ibizaman/deluge-plugindev) - Create a deluge plugin skeleton without setting up a python environment
@@ -1659,7 +1658,7 @@
 - [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [jha-naman/treetags](https://github.com/jha-naman/treetags) - Generate Vim/NeoVim compatible tags for multiple languages
 - [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
-- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.
+- [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
 - [o2sh/onefetch](https://github.com/o2sh/onefetch) - Command-line Git information tool
 - [Gerharddc/Litterbox](https://github.com/Gerharddc/Litterbox) - Somewhat Isolated Development Environments
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -1816,6 +1815,7 @@
 
 ## Shell 
 
+- [jmarcelomb/.dotfiles](https://github.com/jmarcelomb/.dotfiles) - .dotfiles repository for personal use.
 - [snarktank/compound-product](https://github.com/snarktank/compound-product) - A self-improving product system that reads reports, identifies priorities, and autonomously implements fixes
 - [signalridge/dotfiles](https://github.com/signalridge/dotfiles) - A modern, reproducible development environment for macOS and Linux using chezmoi + Nix
 - [nikhilsitaram/claude-caliper](https://github.com/nikhilsitaram/claude-caliper) - A Claude workflow that measures twice and cuts once
