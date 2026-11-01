@@ -195,7 +195,7 @@
 - [i-rinat/apulse](https://github.com/i-rinat/apulse) - PulseAudio emulation for ALSA
 - [mintty/wsltty](https://github.com/mintty/wsltty) - Mintty as a terminal for Bash on Ubuntu on Windows / WSL
 - [PhillipTaylor/ngx_http_knock_module](https://github.com/PhillipTaylor/ngx_http_knock_module) - Guard websites with a secret handshake
-- [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
+- [meta/zstd](https://github.com/meta/zstd) - Zstandard - Fast real-time compression algorithm
 - [richardgv/skippy-xd](https://github.com/richardgv/skippy-xd) - A full-screen Exposé-style standalone task switcher for X11.
 - [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal
 - [jarcode-foss/glava](https://github.com/jarcode-foss/glava) - GLava - OpenGL audio spectrum visualizer
@@ -588,6 +588,7 @@
 - [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go
 - [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes.
 - [mholt/archives](https://github.com/mholt/archives) - Cross-platform library to create & extract archives, compress & decompress files, and walk virtual file systems across various formats
+- [ajnart/self-host](https://github.com/ajnart/self-host) - Replace the SaaS you pay for. One binary installs and runs self-hosted apps at home, no Docker knowledge needed. Terminal dashboard for you, plain commands for your agent.
 - [Raggaer/i3-workspace-renamer](https://github.com/Raggaer/i3-workspace-renamer) - Simple i3wm script to rename workspaces based on tree contents
 - [filebrowser/filebrowser](https://github.com/filebrowser/filebrowser) - File Browser provides a file managing interface within a specified directory and it can be used to upload, delete, preview and edit your files.
 - [woodpecker-ci/woodpecker](https://github.com/woodpecker-ci/woodpecker) - Woodpecker is a simple, yet powerful CI/CD engine with great extensibility.
@@ -948,7 +949,7 @@
 - [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 - [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
-- [facebook/idx](https://github.com/facebook/idx) - Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
+- [meta/idx](https://github.com/meta/idx) - Library for accessing arbitrarily nested, possibly nullable properties on a JavaScript object.
 - [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 - [fastify/fastify](https://github.com/fastify/fastify) - Fast and low overhead web framework, for Node.js
 - [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
@@ -1655,7 +1656,7 @@
 - [lincheney/rl_custom_isearch](https://github.com/lincheney/rl_custom_isearch) - Hack to customise libreadline reverse search
 - [tracel-ai/burn](https://github.com/tracel-ai/burn) - Burn is a next generation tensor library and Deep Learning Framework that doesn't compromise on flexibility, efficiency and portability.
 - [domcyrus/rustnet](https://github.com/domcyrus/rustnet) - Per-process network monitoring for your terminal with deep packet inspection. Cross-platform, sandboxed.
-- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest AI sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
+- [multikernel/sandlock](https://github.com/multikernel/sandlock) - The lightest sandbox. A process-based sandbox for Linux, no container, no VM, no privilege, no prompt injection
 - [jha-naman/treetags](https://github.com/jha-naman/treetags) - Generate Vim/NeoVim compatible tags for multiple languages
 - [npezza93/ttags](https://github.com/npezza93/ttags) - Generate ctags using Tree Sitter
 - [Dicklesworthstone/destructive_command_guard](https://github.com/Dicklesworthstone/destructive_command_guard) - A fast Rust safety hook that blocks destructive shell, git, and filesystem commands before AI coding agents run them. 50+ security packs (databases, Kubernetes, Docker, cloud, Terraform), heredoc/inli
@@ -1729,7 +1730,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [boxdot/gurk-rs](https://github.com/boxdot/gurk-rs) - Signal Messenger client for terminal
 - [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.
-- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - An idiomatic, lean, fast & safe pure Rust implementation of Git
+- [GitoxideLabs/gitoxide](https://github.com/GitoxideLabs/gitoxide) - A tasteful, lean, fast & safe pure Rust implementation of Git
 - [martinpetrdev/Clippy](https://github.com/martinpetrdev/Clippy) - Linux CLI tool for managing and working with the clipboard
 - [nullstalgia/iron-heart](https://github.com/nullstalgia/iron-heart) - A BLE Heart Rate Monitor bridge for Social VR, OBS, Data Logging, and more!
 - [saivert/pwvucontrol](https://github.com/saivert/pwvucontrol) - Pipewire Volume Control
@@ -1787,7 +1788,7 @@
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
 - [altdesktop/i3-style](https://github.com/altdesktop/i3-style) - 🎨 Make your i3 config a little more stylish.
-- [facebook/flow](https://github.com/facebook/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
+- [meta/flow](https://github.com/meta/flow) - Adds static typing to JavaScript to improve developer productivity and code quality.
 - [vgough/encfs](https://github.com/vgough/encfs) - EncFS: an Encrypted Filesystem for FUSE.
 
 ## SCSS 
@@ -2125,7 +2126,6 @@
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [robbie-cahill/tunnelmole-client](https://github.com/robbie-cahill/tunnelmole-client) - Tunnelmole - Connect to local servers from anywhere
-- [ajnart/dcm](https://github.com/ajnart/dcm) - DockerComposeMaker (DCM) is a self-hostable website to help you pick and create a docker-compose.yml file for your home server. Discover new containers, discover and share a config in a couple of clic
 - [sagemathinc/cocalc](https://github.com/sagemathinc/cocalc) - (moved to https://github.com/sagemathinc/cocalc-ai) CoCalc: Collaborative Calculation in the Cloud
 - [elianiva/dotfiles](https://github.com/elianiva/dotfiles) - .
 - [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
